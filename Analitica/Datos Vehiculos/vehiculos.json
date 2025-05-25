@@ -1,0 +1,188 @@
+{
+  "Auto": {
+    "Toyota": [
+      "Corolla",
+      "Yaris",
+      "Hilux",
+      "RAV4",
+      "Camry",
+      "Land Cruiser",
+      "Prius",
+      "Avanza",
+      "Fortuner",
+      "C-HR"
+    ],
+    "Chevrolet": [
+      "Spark",
+      "Onix",
+      "Tracker",
+      "Captiva",
+      "Cruze",
+      "Equinox",
+      "Traverse",
+      "Trailblazer",
+      "Malibu",
+      "Tahoe"
+    ],
+    "Mazda": [
+      "Mazda 2",
+      "Mazda 3",
+      "CX-5",
+      "CX-30",
+      "CX-9",
+      "MX-5",
+      "Mazda 6",
+      "CX-3",
+      "BT-50",
+      "RX-8"
+    ],
+    "Renault": [
+      "Sandero",
+      "Logan",
+      "Duster",
+      "Kwid",
+      "Captur",
+      "Stepway",
+      "Megane",
+      "Fluence",
+      "Koleos",
+      "Talisman"
+    ],
+    "Kia": [
+      "Rio",
+      "Sportage",
+      "Cerato",
+      "Sorento",
+      "Picanto",
+      "Seltos",
+      "Stinger",
+      "Telluride",
+      "Niro",
+      "Optima"
+    ]
+  },
+  "Moto": {
+    "Yamaha": [
+      "MT-125",
+      "YS125",
+      "NMAX155",
+      "FZ25",
+      "R15",
+      "Fazer 250",
+      "XSR700",
+      "Tracer 900",
+      "Ténéré 700",
+      "XMAX 300"
+    ],
+    "Honda": [
+      "PCX 125",
+      "CBR500R",
+      "CRF250L",
+      "CB125F",
+      "CBR650R",
+      "Africa Twin",
+      "CB500X",
+      "Rebel 500",
+      "X-ADV",
+      "CB650R"
+    ],
+    "Suzuki": [
+      "VanVan 125",
+      "GSX-R600",
+      "V-Strom 650",
+      "Gixxer SF 250",
+      "Burgman 400",
+      "DR-Z400",
+      "GSX-S750",
+      "SV650",
+      "Intruder 150",
+      "Hayabusa"
+    ],
+    "KTM": [
+      "125 Duke",
+      "RC 390",
+      "790 Adventure",
+      "390 Adventure",
+      "250 Duke",
+      "1290 Super Duke R",
+      "690 Enduro R",
+      "RC 200",
+      "450 EXC-F",
+      "890 Duke R"
+    ],
+    "Benelli": [
+      "TRK 502",
+      "Leoncino 500",
+      "TNT 600",
+      "Imperiale 400",
+      "302S",
+      "BN 125",
+      "502C",
+      "Tornado 302",
+      "TNT 135",
+      "TRK 251"
+    ]
+  },
+  "Bus": {
+    "Mercedes-Benz": [
+      "Citaro",
+      "Sprinter",
+      "Tourismo",
+      "Intouro",
+      "Conecto",
+      "Travego",
+      "O500",
+      "OC500",
+      "OF1721",
+      "OH1621"
+    ],
+    "MAN": [
+      "Lion's City",
+      "Lion's Coach",
+      "TGE",
+      "Neoplan Skyliner",
+      "Neoplan Cityliner",
+      "MAN SL202",
+      "MAN A21",
+      "MAN A23",
+      "MAN A39",
+      "MAN NL263"
+    ],
+    "Scania": [
+      "Serie K",
+      "OmniLink",
+      "Citywide",
+      "Interlink",
+      "Touring",
+      "Metrolink",
+      "Irizar i6",
+      "Irizar i8",
+      "Scania F94",
+      "Scania L94"
+    ],
+    "Volvo": [
+      "7900 Electric",
+      "B11R",
+      "B8R",
+      "B9TL",
+      "B7RLE",
+      "7900 Hybrid",
+      "9700",
+      "9900",
+      "B12B",
+      "B13R"
+    ],
+    "Irizar": [
+      "i6",
+      "i8",
+      "Century",
+      "PB",
+      "i4",
+      "i3",
+      "i6S",
+      "i6S Efficient",
+      "i2e",
+      "i6 Integral"
+    ]
+  }
+}
