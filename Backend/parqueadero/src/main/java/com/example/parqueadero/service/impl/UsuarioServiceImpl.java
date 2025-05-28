@@ -6,6 +6,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import com.example.parqueadero.dto.UsuarioDTO;
+import com.example.parqueadero.model.Rol;
 import com.example.parqueadero.model.Usuarios;
 import com.example.parqueadero.repository.UsuarioRepository;
 import com.example.parqueadero.service.UsuarioService;
@@ -29,7 +30,7 @@ public class UsuarioServiceImpl implements UsuarioService{
                 .Apellido(dto.getApellido())
                 .email(dto.getEmail())
                 .password(passwordEncoder.encode(dto.getPassword()))
-                .Rol(dto.getRol())
+                .Rol(Rol.CLIENTE)
                 .build();
 
         return repo.save(usuarios);
@@ -61,7 +62,6 @@ public class UsuarioServiceImpl implements UsuarioService{
     public List<Usuarios> listar() {
     return repo.findAll();
     }
-
 
     @Override
     public Usuarios buscarPorId(Long id) {

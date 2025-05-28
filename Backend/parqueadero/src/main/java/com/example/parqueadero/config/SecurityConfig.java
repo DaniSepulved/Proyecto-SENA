@@ -1,3 +1,4 @@
+// src/main/java/com/example/parqueadero/config/SecurityConfig.java
 package com.example.parqueadero.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,6 +11,7 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.web.SecurityFilterChain;
 import org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter;
+import org.springframework.http.HttpMethod;
 
 import com.example.parqueadero.security.JwtFilter;
 
@@ -31,9 +33,11 @@ public class SecurityConfig {
                         .requestMatchers("/").permitAll()
                         .requestMatchers("/swagger-ui/**", "/v3/api-docs/**").permitAll()
                         .requestMatchers("/api/auth/**").permitAll()
+                        .requestMatchers(HttpMethod.POST, "/api/usuarios").permitAll() // <-- Mantén esta línea para el registro
+                        .requestMatchers(HttpMethod.OPTIONS, "/**").permitAll() // <-- ¡MANTÉN ESTA LÍNEA ESENCIAL!
                         .requestMatchers("/api/admin/**").hasRole("ADMIN")
-                        .requestMatchers("/api/empleado/**").hasRole("EMPLEADO")                        
-                        .requestMatchers("/api/cliente/**").hasRole("CLIENTE")                        
+                        .requestMatchers("/api/empleado/**").hasRole("EMPLEADO")
+                        .requestMatchers("/api/cliente/**").hasRole("CLIENTE")
                         .anyRequest().authenticated())
                 .exceptionHandling(ex -> ex
                         .authenticationEntryPoint((request, response, authException) -> {
@@ -54,4 +58,17 @@ public class SecurityConfig {
     public PasswordEncoder passwordEncoder() {
         return new BCryptPasswordEncoder();
     }
+
+    // <--- ¡COMENTA O ELIMINA ESTE BEAN! Si lo mantienes, tendrás dos configuraciones CORS.
+    // @Bean
+    // CorsConfigurationSource corsConfigurationSource() {
+    //     CorsConfiguration configuration = new CorsConfiguration();
+    //     configuration.setAllowedOrigins(Arrays.asList("https://b2pi2-876585927226.us-central1.run.app", "http://localhost:3000", "http://localhost:5173", "http://localhost:5175"));
+    //     configuration.setAllowedMethods(Arrays.asList("GET", "POST", "PUT", "DELETE", "OPTIONS"));
+    //     configuration.setAllowedHeaders(Arrays.asList("*"));
+    //     configuration.setAllowCredentials(true);
+    //     UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
+    //     source.registerCorsConfiguration("/**", configuration);
+    //     return source;
+    // }
 }

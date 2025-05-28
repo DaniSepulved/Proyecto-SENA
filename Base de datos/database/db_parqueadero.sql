@@ -1,5 +1,8 @@
-create database db_parquedero;
-use db_parquedero;
+create database db_parqueadero;
+use db_parqueadero;
+drop database db_parqueadero;
+show tables;
+drop table usuario;
 
 create table Usuarios(
 	Id_usuario int auto_increment primary key,
@@ -14,8 +17,8 @@ create table Vehiculos(
     Id_vehiculo int auto_increment primary key,
     Id_usuario int not null,
     foreign key (Id_usuario) references Usuarios(Id_usuario),
-    Placa varchar(10) unique not null,
-    Tipo_Vehiculo enum('Auto', 'Moto', 'Bus', 'Bicicleta') not null,
+    Placa varchar(10) not null,
+    Tipo_Vehiculo enum('Auto', 'Moto', 'Bus') not null,
     Marca varchar(30) not null,
     Modelo varchar(30) not null,
     Color varchar(30) not null
@@ -53,3 +56,7 @@ create table Pagos(
     Fecha_Pago date not null,
     Metodo_Pago enum('Efectivo', 'Tarjeta de Crédito', 'Transferencia') not null
 );
+
+
+select * from vehiculos
+select * from usuarios;
