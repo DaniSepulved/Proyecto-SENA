@@ -23,11 +23,11 @@ public class DataLoader implements CommandLineRunner {
     public void run(String... args) throws Exception {
         if (usuarioRepository.findByEmail("admin@admin.com").isEmpty()) {
             Usuarios adminUser = Usuarios.builder()
-                    .Nombre("Admin")
-                    .Apellido("Principal")
+                    .nombre("Admin")
+                    .apellido("Principal")
                     .email("admin@admin.com")
                     .password(passwordEncoder.encode("admin123"))
-                    .Rol(Rol.ADMIN)
+                    .rol(Rol.ADMIN)
                     .build();
 
             usuarioRepository.save(adminUser);

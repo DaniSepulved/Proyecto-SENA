@@ -14,7 +14,8 @@ import com.example.parqueadero.service.UsuarioService;
 import jakarta.persistence.EntityNotFoundException;
 
 @Service
-public class UsuarioServiceImpl implements UsuarioService{
+public class UsuarioServiceImpl implements UsuarioService {
+
     private final UsuarioRepository repo;
     private final PasswordEncoder passwordEncoder;
 
@@ -26,11 +27,11 @@ public class UsuarioServiceImpl implements UsuarioService{
     @Override
     public Usuarios crear(UsuarioDTO dto) {
         Usuarios usuarios = Usuarios.builder()
-                .Nombre(dto.getNombre())
-                .Apellido(dto.getApellido())
+                .nombre(dto.getNombre())
+                .apellido(dto.getApellido())
                 .email(dto.getEmail())
                 .password(passwordEncoder.encode(dto.getPassword()))
-                .Rol(Rol.CLIENTE)
+                .rol(dto.getRol() != null ? dto.getRol() : Rol.CLIENTE)
                 .build();
 
         return repo.save(usuarios);
@@ -60,12 +61,12 @@ public class UsuarioServiceImpl implements UsuarioService{
 
     @Override
     public List<Usuarios> listar() {
-    return repo.findAll();
+        return repo.findAll();
     }
 
     @Override
     public Usuarios buscarPorId(Long id) {
-    return repo.findById(id)
-            .orElseThrow(() -> new EntityNotFoundException("Usuario no encontrado con id " + id));
+        return repo.findById(id)
+                .orElseThrow(() -> new EntityNotFoundException("Usuario no encontrado con id " + id));
     }
 }

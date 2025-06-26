@@ -1,6 +1,6 @@
 package com.example.parqueadero.model;
 
-public enum Tipo_vehiculo {
+public enum TipoVehiculo {
     AUTO,
     MOTO,
     BUS,

@@ -9,16 +9,16 @@ import com.example.parqueadero.model.Rol;
 public class UsuarioDTO {
 
     @NotBlank
-    private String Nombre;
+    private String nombre;
 
     @NotBlank
-    private String Apellido;
+    private String apellido;
 
     @Email
     private String email;
 
     @NotBlank
-    private String Password;
+    private String password;
 
-    private Rol Rol;
+    private Rol rol;
 }

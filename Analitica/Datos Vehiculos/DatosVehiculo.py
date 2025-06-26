@@ -14,18 +14,18 @@ Colores = ['Rojo', 'Azul', 'Negro', 'Blanco', 'Gris', 'Verde', 'Amarillo', 'Nara
 Vehiculos = []
 
 for i in range(2000):
-    Id_Vehiculo = i + 100
-    Id_Usuario = i + 1
-    Placa = fake.license_plate()
-    Tipo_vehiculo = random.choice(list(vehiculos.keys()))
-    Marca = random.choice(list(vehiculos[Tipo_vehiculo].keys()))
-    Modelo = random.choice(vehiculos[Tipo_vehiculo][Marca])
-    Color = random.choice(Colores)
-    Vehiculos.append([Id_Vehiculo, Id_Usuario, Placa, Tipo_vehiculo, Marca, Modelo, Color])
+    idVehiculo = i + 100
+    idUsuario = i + 1
+    placa = fake.license_plate()
+    tipoVehiculo = random.choice(list(vehiculos.keys()))
+    marca = random.choice(list(vehiculos[tipoVehiculo].keys()))
+    modelo = random.choice(vehiculos[tipoVehiculo][marca])
+    color = random.choice(Colores)
+    Vehiculos.append([idVehiculo, idUsuario, placa, tipoVehiculo, marca, modelo, color])
 
 rutacsv = 'vehiculos.csv'
 
 with open('vehiculos.csv', mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
-    writer.writerow(['Id_Vehiculo', 'Id_Usuario', 'Placa', 'Tipo_vehiculo', 'Marca', 'Modelo', 'Color'])
+    writer.writerow(['idVehiculo', 'idUsuario', 'placa', 'tipoVehiculo', 'marca', 'modelo', 'color'])
     writer.writerows(Vehiculos)

@@ -35,15 +35,6 @@ export let enrutador = [
           },
         ]
       }
-      // Si tuvieras otras rutas protegidas que no usan el layout de Home, irían aquí.
-      // Por ejemplo, una ruta protegida con un layout diferente:
-      // {
-      //   path: '/admin',
-      //   element: <AdminLayout />,
-      //   children: [
-      //     { path: 'users', element: <AdminUsers /> }
-      //   ]
-      // }
     ]
   }
 ];

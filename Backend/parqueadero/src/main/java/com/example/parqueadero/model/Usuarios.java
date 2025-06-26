@@ -1,26 +1,27 @@
 package com.example.parqueadero.model;
 
-import java.util.List;
-
 import jakarta.persistence.*;
 import lombok.*;
+import java.util.List;
 
 @Entity
-@Table(name = "Usuarios")
+@Table(name = "usuarios")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
 public class Usuarios {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long Id_usuario;
+    @Column(name = "idUsuario")
+    private Long idUsuario;
 
     @Column(nullable = false)
-    private String Nombre;
+    private String nombre;
 
     @Column(nullable = false)
-    private String Apellido;
+    private String apellido;
 
     @Column(nullable = false, unique = true)
     private String email;
@@ -30,17 +31,17 @@ public class Usuarios {
 
     @Enumerated(EnumType.STRING)
     @Column(nullable = false)
-    private Rol Rol;
+    private Rol rol;
 
     @OneToMany(mappedBy = "usuario", cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     private List<Vehiculos> vehiculos;
 
     public boolean isEmpty() {
-        return this.Nombre == null || this.Nombre.isEmpty() ||
-               this.Apellido == null || this.Apellido.isEmpty() ||
+        return this.nombre == null || this.nombre.isEmpty() ||
+               this.apellido == null || this.apellido.isEmpty() ||
                this.email == null || this.email.isEmpty() ||
                this.password == null || this.password.isEmpty() ||
-               this.Rol == null;
+               this.rol == null;
     }
 
     public Usuarios(String email, String password) {

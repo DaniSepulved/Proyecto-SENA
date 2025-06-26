@@ -1,10 +1,9 @@
 package com.example.parqueadero.service;
 
 import com.example.parqueadero.model.Usuarios;
+import com.example.parqueadero.dto.UsuarioDTO;
 
 import java.util.List;
-
-import com.example.parqueadero.dto.UsuarioDTO;
 
 public interface UsuarioService {
     Usuarios crear(UsuarioDTO dto);

@@ -36,7 +36,8 @@ public class AuthServiceImpl implements AuthService {
 
     @Override
     public Usuarios authenticateUser(String email, String password) {
-        Optional<Usuarios> optionalUser = usuarioRepository.findByEmail(email);
-        return null;
+        return usuarioRepository.findByEmail(email)
+                .filter(u -> passwordEncoder.matches(password, u.getPassword()))
+                .orElseThrow(() -> new AuthenticationException("Credenciales inválidas"));
     }
 }

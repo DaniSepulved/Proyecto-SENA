@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 import lombok.*;
 
 @Entity
-@Table(name = "Vehiculos")
+@Table(name = "vehiculos")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
@@ -12,29 +12,32 @@ import lombok.*;
 public class Vehiculos {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long Id_vehiculo;
+    private Long idVehiculo;
 
     @Column(nullable = false, unique = true)
     private String placa;
 
     @Column(nullable = false)
-    private String Color;
+    private String color;
 
     @Column(nullable = false)
-    private String Marca;
+    private String modelo;
+
+    @Column(nullable = false)
+    private String marca;
 
     @Enumerated(EnumType.STRING)
     @Column(nullable = false)
-    private Rol Tipo_vehiculo;
+    private TipoVehiculo tipoVehiculo;
 
     @ManyToOne
-    @JoinColumn(name = "Id_usuario", nullable = false)
-    private Usuarios usuario; 
+    @JoinColumn(name = "idUsuario", nullable = false)
+    private Usuarios usuario;
 
     public boolean isEmpty() {
         return this.placa == null || this.placa.isEmpty() ||
-               this.Color == null || this.Color.isEmpty() ||
-               this.Marca == null || this.Marca.isEmpty() ||
-               this.Tipo_vehiculo == null;
+               this.color == null || this.color.isEmpty() ||
+               this.marca == null || this.marca.isEmpty() ||
+               this.tipoVehiculo == null;
     }
 }

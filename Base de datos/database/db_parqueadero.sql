@@ -5,56 +5,58 @@ show tables;
 drop table usuario;
 
 create table Usuarios(
-	Id_usuario int auto_increment primary key,
-    Nombre varchar(30) not null,
-    Apellido varchar(30) not null,
-    Email varchar(250) not null,
-    Password varchar(250) not null,
-    Rol enum('Cliente', 'Empleado', 'Administrador') not null
+	idUsuario int auto_increment primary key,
+    nombre varchar(30) not null,
+    apellido varchar(30) not null,
+    email varchar(250) not null unique,
+    password varchar(250) not null,
+    rol enum('Cliente', 'Empleado', 'Administrador') not null
 );
 
 create table Vehiculos(
-    Id_vehiculo int auto_increment primary key,
-    Id_usuario int not null,
-    foreign key (Id_usuario) references Usuarios(Id_usuario),
-    Placa varchar(10) not null,
-    Tipo_Vehiculo enum('Auto', 'Moto', 'Bus') not null,
-    Marca varchar(30) not null,
-    Modelo varchar(30) not null,
-    Color varchar(30) not null
+    idVehiculo int auto_increment primary key,
+    idUsuario int not null,
+    foreign key (idUsuario) references Usuarios(idUsuario),
+    placa varchar(10) not null unique,
+    tipoVehiculo enum('Auto', 'Moto', 'Bus', 'Bicicleta') not null,
+    marca varchar(30) not null,
+    modelo varchar(30) not null,
+    color varchar(30) not null
 );
 
-create table Espacios_Parqueo(
-    Id_Espacio int auto_increment primary key,
-    Ubicacion varchar(50) not null,
-    Numero_Espacio int not null
+create table EspaciosParqueo(
+    idEspacio int auto_increment primary key,
+    ubicacion varchar(50) not null,
+    numeroEspacio int not null
 );
 
-create table Reservas(
-    Id_Reserva int auto_increment primary key,
-    Id_usuario int not null,
-    foreign key (Id_usuario) references Usuarios(Id_usuario),
-    Id_Espacio int not null,
-    foreign key (Id_Espacio) references Espacios_Parqueo(Id_Espacio),
-    Fecha_Reserva date not null,
-    Hora_Inicio datetime not null,
-    Hora_Fin datetime not null
+create table Reservas (
+    idReserva int auto_increment primary key,
+    idUsuario int not null,
+    foreign key (idUsuario) references Usuarios(idUsuario),
+    idEspacio int not null,
+    foreign key (idEspacio) references EspaciosParqueo(idEspacio),
+    idTarifa int not null,
+    foreign key (idTarifa) references Tarifas(idTarifa),
+    fechaReserva date not null,
+    horaInicio datetime not null,
+    horaFin datetime not null
 );
 
 create table Tarifas(
-    Id_Tarifa int auto_increment primary key,
-    Tipo_Vehiculo enum('Auto', 'Moto', 'Bus') not null,
-    Costo_Hora decimal(10,2) not null,
-    Costo_Dia decimal(10,2) not null
+    idTarifa int auto_increment primary key,
+    tipoVehiculo enum('Auto', 'Moto', 'Bus', 'Bicicleta') not null,
+    costoHora decimal(10,2) not null,
+    costoDia decimal(10,2) not null
 );
 
 create table Pagos(
-    Id_Pago int auto_increment primary key,
-    Id_Reserva int not null,
-    foreign key (Id_Reserva) references Reservas(Id_Reserva),
-    Monto decimal(10,2) not null,
-    Fecha_Pago date not null,
-    Metodo_Pago enum('Efectivo', 'Tarjeta de Crédito', 'Transferencia') not null
+    idPago int auto_increment primary key,
+    idReserva int not null,
+    foreign key (idReserva) references Reservas(idReserva),
+    monto decimal(10,2) not null,
+    fechaPago date not null,
+    metodoPago enum('Efectivo', 'Tarjeta de Crédito', 'Transferencia') not null
 );
 
 
