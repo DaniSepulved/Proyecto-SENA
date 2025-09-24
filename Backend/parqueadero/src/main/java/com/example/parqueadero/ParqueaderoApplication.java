@@ -11,3 +11,8 @@ public class ParqueaderoApplication {
 	}
 
 }
+
+// Se ejecuto con estos comandos
+
+// cd "c:\Users\danie\Desktop\Proyecto SENA\Backend\parqueadero"
+// mvn spring-boot:run

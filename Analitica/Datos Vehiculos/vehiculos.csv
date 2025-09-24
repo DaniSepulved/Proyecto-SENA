@@ -1,5 +1,4 @@
 idVehiculo,idUsuario,placa,tipoVehiculo,marca,modelo,color
-100,1,GR 6164 UG,Bus,Irizar,i6 Integral,Blanco
 101,2,8420 FCT,Auto,Chevrolet,Malibu,Naranja
 102,3,CR 9747 ZY,Bus,MAN,TGE,Blanco
 103,4,CR 3169 MA,Auto,Mazda,Mazda 3,Verde
@@ -1999,3 +1998,4 @@ idVehiculo,idUsuario,placa,tipoVehiculo,marca,modelo,color
 2097,1998,LU 8323 AU,Moto,Suzuki,Intruder 150,Gris
 2098,1999,NA 6442 OA,Bus,MAN,TGE,Blanco
 2099,2000,6554 SKM,Auto,Renault,Koleos,Blanco
+2100,2001,GR 6164 UG,Bus,Irizar,i6 Integral,Blanco

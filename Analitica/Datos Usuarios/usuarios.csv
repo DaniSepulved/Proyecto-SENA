@@ -1,5 +1,4 @@
 idUsuario,nombre,apellido,email,password,rol
-1,Isaura Valera,Rojas,isauravazquez@example.com,&Pu9Vm_l)0,Cliente
 2,Leticia Moraleda-Cuenca,Cruz,lpavon@example.com,!Te89OrsGz,Empleado
 3,Elpidio Araujo Herrera,Linares,valerioacedo@example.com,T7*TySlO$m,Empleado
 4,Severo Girona Alemany,Calvet,vclemente@example.com,Ls1iZ+bPl&,Cliente
@@ -117,7 +116,7 @@ idUsuario,nombre,apellido,email,password,rol
 116,Sebastian Exposito Salvà,Cánovas,olimpiacuenca@example.net,^2UPJ$kfLE,Cliente
 117,Gracia Gutiérrez Esteve,Piñol,leocadio97@example.net,n!9A#8!qvO,Empleado
 118,Xiomara Landa Barrio,Cuervo,marquesalma@example.com,)uX6xjPl1v,Empleado
-119,Nando Roda,Amo,lnino@example.net,^0Ap@H0I$1,Cliente
+119,Nando Roda,Amo,lanino@example.net,^0Ap@H0I$1,Cliente
 120,Erasmo Luz,Prats,doroteabonet@example.org,6*IeT1XfHH,Empleado
 121,Odalys Clemente Ropero,Escrivá,roldanchaparro@example.org,@p1A0xtxiV,Cliente
 122,Maura de Fuster,Torrecilla,cpenalver@example.org,N2@L_^Js+_,Cliente
@@ -438,7 +437,7 @@ idUsuario,nombre,apellido,email,password,rol
 437,Emperatriz Anaya Antón,Baró,zllorens@example.org,_EW99DfK#v,Empleado
 438,Eric del Amorós,Lledó,pelayoraimundo@example.net,+izt23XmZ%,Empleado
 439,Adrián del Tejada,Martin,severovillaverde@example.net,(%3HiSwjTt,Empleado
-440,Ale Salazar Marti,Crespi,ebelda@example.com,62s!SzWc$1,Cliente
+440,Ale Salazar Marti,Crespi,ebbelda@example.com,62s!SzWc$1,Cliente
 441,Loreto Marti Mosquera,Guardiola,dagusti@example.com,Es1WBHsg%2,Empleado
 442,Imelda Blázquez-Rocamora,Santiago,belen87@example.com,4(8FH^lsnv,Cliente
 443,Aristides Juárez Anglada,Salom,tserrano@example.net,z*p3GfkcFE,Cliente
@@ -1999,3 +1998,4 @@ idUsuario,nombre,apellido,email,password,rol
 1998,Isidoro Esparza Verdú,Uriarte,edmundoarias@example.com,%M8lbRgi&#,Empleado
 1999,Noa de Abad,Goñi,enoriega@example.net,C&^N7NolNH,Empleado
 2000,Felipa Sosa-Delgado,Coronado,herminio42@example.net,91H^)Sq&#p,Cliente
+2001,Isaura Valera,Rojas,isauravazquez@example.com,&Pu9Vm_l)0,Cliente

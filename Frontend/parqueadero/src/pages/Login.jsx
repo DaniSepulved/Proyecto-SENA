@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import './Login.css';
 import { alertaError, alertaRedireccion, generaToken } from '../helpers/funciones';
 import { useAuth } from '../context/AuthContext'; // <--- ¡NUEVA IMPORTACIÓN!
+import ChatBotWidget from '../components/ChatBotWidget';
 
 let apiAuth = "http://localhost:8080/api/auth/login";
 let apiRegistro = "http://localhost:8080/api/usuarios";
@@ -141,6 +142,7 @@ function Login() {
                     </span>
                 </div>
             </form>
+            <ChatBotWidget />
         </div>
     );
 }
