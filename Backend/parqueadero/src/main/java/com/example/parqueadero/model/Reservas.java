@@ -3,6 +3,7 @@ package com.example.parqueadero.model;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 
+import jakarta.persistence.Column;
 // import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 // import jakarta.persistence.EnumType;
@@ -27,23 +28,28 @@ import lombok.NoArgsConstructor;
 public class Reservas {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer idReserva;
+    @Column(name = "idReserva")
+    private Long idReserva;
 
     @ManyToOne
     @JoinColumn(name = "idUsuario", nullable = false)
     private Usuarios usuarios;
 
-    // @ManyToOne
-    // @JoinColumn(name = "idEspacio", nullable = false)
-    // private EspacioParqueo espacioParqueo;
+    @ManyToOne
+    @JoinColumn(name = "idEspacio", nullable = false)
+    private EspaciosParqueo espaciosParqueo;
 
     @ManyToOne
     @JoinColumn(name = "idTarifa", nullable = false)
     private Tarifas tarifas;
 
+    @Column(name = "fechaReserva")
     private LocalDate fechaReserva;
 
+    @Column(name = "horaInicio")
     private LocalDateTime horaInicio;
+
+    @Column(name = "horaFin")
     private LocalDateTime horaFin;
 
     // @OneToOne(mappedBy = "reserva", cascade = CascadeType.ALL)

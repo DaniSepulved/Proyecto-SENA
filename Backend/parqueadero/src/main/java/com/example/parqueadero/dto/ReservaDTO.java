@@ -2,24 +2,23 @@ package com.example.parqueadero.dto;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
-
-import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotNull;
 import lombok.Data;
 
 @Data
 public class ReservaDTO {
-    @NotBlank
+    @NotNull
     private Long idUsuario;
 
-    @NotBlank
+    @NotNull
     private Long idTarifa;
 
-    @NotBlank
+    @NotNull
     private LocalDate fechaReserva;
 
-    @NotBlank
+    @NotNull
     private LocalDateTime horaInicio;
 
-    @NotBlank
+    @NotNull
     private LocalDateTime horaFin;
 }
