@@ -1,10 +1,14 @@
 import { Form, useNavigate } from 'react-router-dom'
 import "./Login.css"
 import { alertaRedireccion, alertaError } from '../helpers/funciones'
+import ChatBotWidget from '../components/ChatBotWidget';
+import Footer from '../components/Footer';
+
 // let apiPagos = "http://localhost:8080/api/pagos"
 
 const Pagos = ()=>{
     return(
+    <>
         <form action="">
             <div className="form_front">
                 <div className="form_details">Login</div>
@@ -18,6 +22,9 @@ const Pagos = ()=>{
                 </span>
             </div>
         </form>
+        <ChatBotWidget />
+        <Footer />
+    </>
     )
 }
 

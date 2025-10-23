@@ -9,15 +9,15 @@ const MenuLateral = () => {
 
   return (
     <aside className="aplicacion__menu-lateral">
-      <h1 className="aplicacion__menu-lateral-logo">Parqueadero<span className="aplicacion__menu-lateral-logo--resaltado">X</span></h1>
+      <h1 className="aplicacion__menu-lateral-logo">Parqueadero<span className="aplicacion__menu-lateral-logo--resaltado">SC</span></h1>
       <h2>Usuario: {localStorage.getItem("usuario")}</h2>
       <img className="aplicacion__menu-lateral-logo-imagen" src="Logo.jpg" alt="Logo" />
       <nav className="aplicacion__menu-lateral-navegacion">
         <Link className="aplicacion__menu-lateral-navegacion-item" to="">Inicio</Link>
-        <Link className="aplicacion__menu-lateral-navegacion-item" to="Reservas Espacio">Reservas Espacio</Link>
+        <Link className="aplicacion__menu-lateral-navegacion-item" to="ReservasEspacio">Reservas Espacio</Link>
         <Link className="aplicacion__menu-lateral-navegacion-item" to="Cuenta">Cuenta</Link>
-        <Link className="aplicacion__menu-lateral-navegacion-item" to="Pagos">Pagos</Link>
-        <Link className="aplicacion__menu-lateral-navegacion-item" to="Contactenos">Contactenos</Link>
+        <Link className="aplicacion__menu-lateral-navegacion-item" to="/Pagos">Pagos</Link>
+        <Link className="aplicacion__menu-lateral-navegacion-item" to="/Contacto">Contactenos</Link>
         <button onClick={cerrarSesion} type='button' className="aplicacion__menu-lateral-navegacion-item">Cerrar sesión</button>
       </nav>
     </aside>

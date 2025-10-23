@@ -297,3 +297,80 @@
   top: 50%;
   transform: translate(-50%, -50%);
 }
+
+/* === Misión, Visión y Valores === */
+.mvv {
+  width: 100%;
+  min-height: 80vh;
+  padding: 60px 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #fff7f2, #f5e1d2);
+}
+
+.mvv__titulo {
+  font-size: 42px;
+  font-weight: 700;
+  color: #731702;
+  margin-bottom: 40px;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.mvv__cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+  gap: 30px;
+  width: 100%;
+  max-width: 1200px;
+}
+
+.mvv__card {
+  flex: 1 1 300px;
+  background-color: white;
+  border-radius: 16px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  padding: 30px 25px;
+  text-align: center;
+  transition: all 0.3s ease;
+  border-top: 5px solid #F28B30;
+}
+
+.mvv__card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+.mvv__card-titulo {
+  font-size: 28px;
+  font-weight: 600;
+  color: #731702;
+  margin-bottom: 20px;
+}
+
+.mvv__card-texto {
+  font-size: 18px;
+  color: #333;
+  line-height: 1.6;
+}
+
+.mvv__valores-lista {
+  list-style: none;
+  padding: 0;
+  font-size: 18px;
+  color: #444;
+}
+
+.mvv__valores-lista li {
+  margin: 10px 0;
+  transition: transform 0.2s ease;
+}
+
+.mvv__valores-lista li:hover {
+  transform: translateX(8px);
+  color: #F28B30;
+}

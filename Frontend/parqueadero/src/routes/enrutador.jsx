@@ -4,6 +4,7 @@ import Login from '../pages/Login'
 import Cuenta from '../pages/Cuenta'
 import ReservasEspacio from '../pages/ReservasEspacio'
 import Pagos from '../pages/Pagos'
+import Contacto from '../pages/Contacto'
 
 export let enrutador = [
   {
@@ -13,28 +14,16 @@ export let enrutador = [
   {
     element: <RutaProtegida />,
     children: [
-      {
-        path: '/home',
-        element: <Home />,
-        children: [
-          {
-            index: true, // Esto se renderiza cuando la URL es EXACTAMENTE /home
-            element: <div>Bienvenido al Panel de Control!</div> // O un componente de dashboard más elaborado
-          },
-          {
-            path: 'Cuenta', // Ruta completa: /home/Cuenta
-            element: <Cuenta />
-          },
-          {
-            path: 'ReservasEspacio', // Ruta completa: /home/ReservasEspacio
-            element: <ReservasEspacio />
-          },
-          {
-            path: 'Pagos', // Ruta completa: /home/Pagos
-            element: <Pagos />
-          },
-        ]
-      }
+      { path: '/home', element: <Home /> },
+      { path: '/cuenta', element: <Cuenta /> },
+      { path: '/reservas', element: <ReservasEspacio /> },
     ]
+  },
+  { path: '/pagos', 
+    element: <Pagos /> 
+  },
+  {
+    path: '/contacto',
+    element: <Contacto /> // página independiente
   }
 ];

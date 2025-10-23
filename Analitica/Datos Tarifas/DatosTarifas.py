@@ -32,5 +32,3 @@ with open(rutacsv, mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     writer.writerow(['idTarifa', 'tipoVehiculo', 'costoHora', 'costoDia'])
     writer.writerows(tarifas)
-
-# print("✅ Archivo 'tarifas.csv' generado correctamente con columnas costoHora y costoDia.")

@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import './Login.css';
 import { alertaError, alertaRedireccion, generaToken } from '../helpers/funciones';
 import { useAuth } from '../context/AuthContext'; // <--- ¡NUEVA IMPORTACIÓN!
-import ChatBotWidget from '../components/ChatBotWidget';
+// import ChatBotWidget from '../components/ChatBotWidget';
 
 let apiAuth = "http://localhost:8080/api/auth/login";
 let apiRegistro = "http://localhost:8080/api/usuarios";
@@ -13,11 +13,9 @@ function Login() {
     const [getPassword, setPassword] = useState("");
     const [getApellido, setApellido] = useState("");
     const [getEmail, setEmail] = useState("");
-    // El estado 'usuarios' ya no es necesario aquí si solo lo usabas para la verificación en frontend
     const [usuarios, setUsuarios] = useState([]); 
 
     const navigate = useNavigate();
-    // Obtén la función 'login' del contexto de autenticación y re-nómbrala a 'authLogin'
     const { login: authLogin } = useAuth(); 
 
     function iniciarSesion() {
@@ -142,7 +140,7 @@ function Login() {
                     </span>
                 </div>
             </form>
-            <ChatBotWidget />
+            {/* <ChatBotWidget /> */}
         </div>
     );
 }
