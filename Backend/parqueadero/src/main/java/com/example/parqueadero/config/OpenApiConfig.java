@@ -14,7 +14,7 @@ public class OpenApiConfig {
     public OpenAPI customOpenAPI() {
         return new OpenAPI()
                 .info(new Info()
-                .title("API - proyecto Sena - Paqueadero")  // Custom title                        
+                .title("API - proyecto Sena - Paqueadero")                      
                 .description("SENA - Parqueadero"))
                 .addServersItem(new Server()
                 .url("http://localhost:8080")
