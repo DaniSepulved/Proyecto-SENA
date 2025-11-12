@@ -1,0 +1,2001 @@
+idVehiculo,idUsuario,placa,tipoVehiculo,marca,modelo,color
+101,2,8420 FCT,Auto,Chevrolet,Malibu,Naranja
+102,3,CR 9747 ZY,Bus,MAN,TGE,Blanco
+103,4,CR 3169 MA,Auto,Mazda,Mazda 3,Verde
+104,5,8547 FLY,Auto,Renault,Logan,Amarillo
+105,6,5962 NCG,Moto,Suzuki,SV650,Rojo
+106,7,TE 2707 VZ,Auto,Mazda,Mazda 6,Naranja
+107,8,7981 FBC,Moto,Suzuki,Hayabusa,Azul
+108,9,LU 3941 UG,Moto,Benelli,302S,Café
+109,10,2111 GPK,Moto,Suzuki,VanVan 125,Gris
+110,11,TO 1030 MP,Auto,Mazda,MX-5,Verde
+111,12,3558 YVH,Bus,Scania,OmniLink,Gris
+112,13,4943 DFK,Moto,Benelli,302S,Verde
+113,14,P 9838 KW,Bus,Mercedes-Benz,O500,Verde
+114,15,7269 TLK,Moto,KTM,250 Duke,Café
+115,16,6576 ZXH,Moto,Yamaha,Ténéré 700,Gris
+116,17,ZA 5315 WW,Bus,Irizar,i6S Efficient,Blanco
+117,18,Z 1745 YZ,Moto,Benelli,Leoncino 500,Blanco
+118,19,3908 FZM,Moto,Honda,CBR650R,Amarillo
+119,20,9485 XGC,Bus,Irizar,PB,Azul
+120,21,8711 WJK,Auto,Mazda,Mazda 2,Negro
+121,22,SS 7073 PJ,Auto,Toyota,RAV4,Plateado
+122,23,4808 JHN,Moto,Honda,PCX 125,Verde
+123,24,CC 7186 IV,Auto,Toyota,Hilux,Amarillo
+124,25,7741 HCK,Auto,Toyota,Yaris,Naranja
+125,26,4182 NZP,Auto,Renault,Duster,Blanco
+126,27,GU 6514 UC,Bus,MAN,MAN A23,Café
+127,28,0797 JZD,Bus,MAN,MAN A21,Azul
+128,29,5772 BRB,Moto,KTM,690 Enduro R,Rojo
+129,30,SA 9975 KO,Bus,MAN,TGE,Azul
+130,31,CC 2732 TF,Auto,Kia,Telluride,Negro
+131,32,8301 DGF,Auto,Mazda,CX-9,Negro
+132,33,1765 MPT,Moto,Yamaha,XSR700,Café
+133,34,8795 VNX,Bus,Irizar,i2e,Naranja
+134,35,LU 1476 SA,Moto,KTM,890 Duke R,Naranja
+135,36,2681 GSG,Moto,Honda,CB125F,Naranja
+136,37,6373 JNY,Bus,Scania,Touring,Café
+137,38,GC 6903 DA,Moto,Benelli,TNT 600,Plateado
+138,39,0812 CRR,Auto,Toyota,Yaris,Negro
+139,40,ZA 7882 FK,Moto,KTM,790 Adventure,Rojo
+140,41,SO 9648 DN,Bus,Mercedes-Benz,Sprinter,Café
+141,42,LO 5238 EC,Bus,Volvo,B12B,Blanco
+142,43,CU 9166 WO,Bus,Scania,Serie K,Gris
+143,44,2919 XXB,Bus,Scania,Citywide,Azul
+144,45,TO 0739 SY,Bus,Irizar,Century,Plateado
+145,46,VI 4526 KS,Auto,Mazda,CX-3,Naranja
+146,47,NA 9649 TE,Bus,Volvo,B12B,Naranja
+147,48,GI 0542 MP,Moto,KTM,890 Duke R,Azul
+148,49,8406 VHR,Moto,Honda,CBR500R,Gris
+149,50,TE 3049 ZW,Auto,Kia,Sorento,Gris
+150,51,2294 XHS,Auto,Chevrolet,Tahoe,Rojo
+151,52,5963 MJW,Bus,Irizar,i6 Integral,Gris
+152,53,3604 XWG,Bus,Scania,Interlink,Amarillo
+153,54,3847 FCY,Auto,Chevrolet,Traverse,Verde
+154,55,P 9961 CH,Auto,Renault,Kwid,Azul
+155,56,1882 LKY,Moto,Benelli,TRK 502,Rojo
+156,57,TE 2891 IO,Auto,Renault,Koleos,Gris
+157,58,4771 CTX,Bus,MAN,MAN A39,Verde
+158,59,4697 FFK,Bus,Mercedes-Benz,OH1621,Plateado
+159,60,0871 ZNH,Bus,Irizar,Century,Rojo
+160,61,6387 RZH,Auto,Mazda,RX-8,Rojo
+161,62,SO 4969 IC,Auto,Mazda,MX-5,Naranja
+162,63,PM 6646 ZN,Bus,Volvo,B7RLE,Rojo
+163,64,2184 BJP,Bus,Mercedes-Benz,Citaro,Gris
+164,65,4316 JBL,Moto,Yamaha,Fazer 250,Negro
+165,66,2501 MDZ,Bus,Mercedes-Benz,OH1621,Verde
+166,67,B 4688 NY,Bus,Scania,Metrolink,Verde
+167,68,Z 3516 KO,Auto,Chevrolet,Malibu,Azul
+168,69,CU 9045 ZN,Bus,MAN,MAN A23,Gris
+169,70,SS 7031 VN,Moto,KTM,125 Duke,Azul
+170,71,VA 0004 VD,Moto,Honda,PCX 125,Blanco
+171,72,OU 2924 GS,Moto,Yamaha,XMAX 300,Gris
+172,73,5229 TRL,Moto,KTM,890 Duke R,Negro
+173,74,7474 HYD,Bus,Scania,Irizar i8,Negro
+174,75,HU 5680 SS,Moto,Suzuki,VanVan 125,Blanco
+175,76,CU 8961 DZ,Moto,Yamaha,XSR700,Café
+176,77,4233 ZFX,Auto,Renault,Koleos,Café
+177,78,7654 VTN,Bus,MAN,Neoplan Skyliner,Naranja
+178,79,2288 ZJN,Bus,Scania,Interlink,Rojo
+179,80,1002 SWR,Moto,Yamaha,NMAX155,Negro
+180,81,AL 4306 DA,Bus,MAN,TGE,Plateado
+181,82,CU 6852 NT,Moto,Yamaha,Ténéré 700,Gris
+182,83,AV 0112 SD,Moto,Yamaha,FZ25,Amarillo
+183,84,MU 0076 UE,Moto,Suzuki,Hayabusa,Verde
+184,85,8605 DJL,Moto,Yamaha,Ténéré 700,Verde
+185,86,TO 0843 GI,Auto,Toyota,Avanza,Plateado
+186,87,3001 ZPK,Bus,Volvo,7900 Electric,Blanco
+187,88,4976 WYH,Auto,Mazda,Mazda 2,Gris
+188,89,9984 BVC,Bus,Mercedes-Benz,Sprinter,Gris
+189,90,A 7558 NE,Moto,Honda,X-ADV,Azul
+190,91,6730 HJP,Auto,Toyota,Hilux,Gris
+191,92,OR 5778 CT,Auto,Kia,Sorento,Plateado
+192,93,6114 LWY,Moto,Suzuki,V-Strom 650,Azul
+193,94,J 7469 DD,Auto,Chevrolet,Tahoe,Negro
+194,95,GC 8486 AL,Moto,Suzuki,Hayabusa,Verde
+195,96,S 4763 GE,Moto,KTM,390 Adventure,Gris
+196,97,ZA 6938 NS,Bus,MAN,TGE,Gris
+197,98,O 6908 PZ,Moto,Yamaha,Fazer 250,Rojo
+198,99,C 4981 CK,Moto,Suzuki,SV650,Negro
+199,100,1678 JBH,Moto,Yamaha,MT-125,Naranja
+200,101,OU 7090 GM,Moto,KTM,1290 Super Duke R,Azul
+201,102,8742 KYC,Moto,Benelli,TNT 600,Amarillo
+202,103,MU 4556 ZJ,Bus,Irizar,i6 Integral,Café
+203,104,5648 FZP,Moto,Yamaha,FZ25,Gris
+204,105,V 7776 UG,Bus,Scania,OmniLink,Negro
+205,106,NA 3670 DV,Moto,Benelli,TRK 251,Naranja
+206,107,O 8430 UM,Auto,Toyota,Camry,Gris
+207,108,CO 0023 UN,Moto,Honda,Africa Twin,Gris
+208,109,9941 VMJ,Moto,Honda,Rebel 500,Rojo
+209,110,SO 7762 ME,Bus,Mercedes-Benz,Conecto,Naranja
+210,111,NA 1805 XI,Moto,Honda,Rebel 500,Gris
+211,112,Z 7901 PC,Bus,MAN,TGE,Naranja
+212,113,4071 HST,Auto,Chevrolet,Onix,Blanco
+213,114,M 3268 JD,Bus,MAN,Lion's City,Rojo
+214,115,CU 1101 JO,Bus,MAN,Neoplan Cityliner,Plateado
+215,116,GC 7694 SH,Auto,Mazda,CX-9,Café
+216,117,AL 3014 BE,Moto,Yamaha,FZ25,Café
+217,118,IB 8506 BY,Auto,Chevrolet,Tahoe,Negro
+218,119,MU 2315 YK,Auto,Mazda,CX-30,Café
+219,120,SA 3590 UX,Moto,Honda,Africa Twin,Blanco
+220,121,GI 6080 XZ,Moto,Yamaha,R15,Rojo
+221,122,6419 MTT,Moto,KTM,690 Enduro R,Blanco
+222,123,SG 5731 IL,Bus,Volvo,B11R,Rojo
+223,124,5128 XKM,Bus,Mercedes-Benz,OF1721,Azul
+224,125,1873 ZST,Bus,Scania,Touring,Verde
+225,126,VI 2389 JA,Moto,KTM,890 Duke R,Rojo
+226,127,4891 MDT,Moto,Honda,PCX 125,Gris
+227,128,MA 6593 PL,Auto,Toyota,Yaris,Blanco
+228,129,6432 FCP,Moto,KTM,RC 390,Plateado
+229,130,TE 3509 DW,Moto,KTM,250 Duke,Amarillo
+230,131,PO 4694 OY,Auto,Renault,Logan,Naranja
+231,132,BU 5901 SV,Bus,Scania,Interlink,Verde
+232,133,OU 7014 EL,Auto,Mazda,MX-5,Naranja
+233,134,IB 9290 GE,Moto,Suzuki,DR-Z400,Blanco
+234,135,7124 SZB,Moto,Suzuki,DR-Z400,Amarillo
+235,136,2837 RZB,Bus,Scania,Irizar i8,Plateado
+236,137,MA 5862 LG,Auto,Toyota,Camry,Amarillo
+237,138,L 0256 PY,Auto,Toyota,Prius,Amarillo
+238,139,TO 9246 OL,Auto,Chevrolet,Trailblazer,Rojo
+239,140,9176 SHN,Moto,Honda,Africa Twin,Gris
+240,141,VI 3145 XA,Bus,Volvo,7900 Hybrid,Azul
+241,142,4385 YHG,Bus,Mercedes-Benz,Tourismo,Verde
+242,143,6927 GNF,Auto,Kia,Seltos,Negro
+243,144,LO 4787 CL,Auto,Renault,Captur,Naranja
+244,145,9796 FHN,Auto,Kia,Stinger,Plateado
+245,146,3728 ZJR,Auto,Kia,Sorento,Blanco
+246,147,6059 NVH,Auto,Kia,Sportage,Blanco
+247,148,SA 4718 KE,Auto,Renault,Duster,Café
+248,149,LU 0552 LI,Moto,KTM,890 Duke R,Plateado
+249,150,2608 ZTN,Moto,Honda,Africa Twin,Plateado
+250,151,3048 BCX,Auto,Toyota,Hilux,Rojo
+251,152,C 0432 DG,Auto,Renault,Duster,Plateado
+252,153,ZA 8111 CC,Bus,Volvo,7900 Hybrid,Azul
+253,154,S 0428 GO,Auto,Chevrolet,Trailblazer,Rojo
+254,155,5831 NKR,Moto,KTM,390 Adventure,Plateado
+255,156,6030 RXZ,Moto,Honda,PCX 125,Verde
+256,157,6936 RMN,Moto,Benelli,BN 125,Blanco
+257,158,LU 2991 CW,Auto,Mazda,CX-5,Blanco
+258,159,2594 YGX,Moto,Yamaha,MT-125,Azul
+259,160,3645 DRZ,Auto,Chevrolet,Spark,Naranja
+260,161,MA 9798 ZY,Bus,Irizar,i6 Integral,Rojo
+261,162,3527 FKV,Bus,MAN,MAN NL263,Verde
+262,163,MA 9029 ZZ,Auto,Kia,Stinger,Azul
+263,164,S 9347 BB,Moto,KTM,1290 Super Duke R,Blanco
+264,165,GI 9748 DJ,Bus,Mercedes-Benz,OH1621,Café
+265,166,7892 SLJ,Bus,MAN,MAN A21,Amarillo
+266,167,3883 XCJ,Moto,Honda,CRF250L,Azul
+267,168,SO 5623 TK,Bus,Irizar,i6S,Azul
+268,169,LE 3845 JT,Auto,Kia,Stinger,Negro
+269,170,GC 5838 LV,Bus,MAN,Lion's Coach,Negro
+270,171,1197 LCV,Bus,MAN,MAN A21,Verde
+271,172,9089 ZKB,Auto,Mazda,RX-8,Plateado
+272,173,GR 8744 ID,Moto,Benelli,302S,Plateado
+273,174,PM 2341 TX,Auto,Mazda,RX-8,Negro
+274,175,9423 RKZ,Auto,Mazda,CX-3,Rojo
+275,176,2291 NMM,Bus,Volvo,B8R,Negro
+276,177,2528 SFM,Auto,Toyota,Fortuner,Naranja
+277,178,6639 SNB,Moto,Yamaha,Fazer 250,Rojo
+278,179,0513 FLD,Bus,Irizar,i6 Integral,Negro
+279,180,GE 4227 UO,Bus,Volvo,B8R,Café
+280,181,1126 VDY,Moto,Yamaha,FZ25,Rojo
+281,182,7543 LBY,Moto,Honda,CRF250L,Amarillo
+282,183,B 1260 KT,Bus,MAN,Neoplan Skyliner,Amarillo
+283,184,BI 6167 AA,Bus,Volvo,B12B,Plateado
+284,185,7534 GTX,Moto,Suzuki,GSX-S750,Azul
+285,186,6888 RMB,Moto,Benelli,TRK 502,Naranja
+286,187,LU 6235 TD,Moto,KTM,450 EXC-F,Gris
+287,188,4954 STG,Bus,Mercedes-Benz,Citaro,Rojo
+288,189,CO 8674 CE,Auto,Renault,Fluence,Azul
+289,190,1990 BGF,Moto,Yamaha,R15,Negro
+290,191,9131 BXD,Bus,Irizar,i8,Amarillo
+291,192,CA 1070 CM,Auto,Chevrolet,Trailblazer,Verde
+292,193,3851 YRT,Moto,KTM,RC 200,Amarillo
+293,194,2534 MVH,Moto,Benelli,Imperiale 400,Verde
+294,195,6666 NGR,Bus,Scania,Interlink,Café
+295,196,P 7217 OA,Auto,Chevrolet,Spark,Blanco
+296,197,4089 RSW,Bus,Irizar,i3,Amarillo
+297,198,LU 6408 DX,Auto,Renault,Captur,Azul
+298,199,0646 FTL,Moto,Yamaha,MT-125,Negro
+299,200,H 4995 PY,Auto,Mazda,CX-9,Verde
+300,201,C 9560 XZ,Bus,Scania,Metrolink,Amarillo
+301,202,SG 2697 PE,Bus,Irizar,i3,Amarillo
+302,203,6318 LKG,Auto,Renault,Duster,Azul
+303,204,4096 HNL,Moto,KTM,390 Adventure,Naranja
+304,205,9403 NLC,Bus,Mercedes-Benz,Intouro,Amarillo
+305,206,V 1014 HJ,Bus,Volvo,B13R,Naranja
+306,207,0789 LCN,Moto,Honda,Africa Twin,Negro
+307,208,4806 TXS,Moto,Yamaha,XMAX 300,Café
+308,209,IB 1666 WX,Moto,Suzuki,DR-Z400,Rojo
+309,210,ZA 0786 ZV,Bus,Irizar,i8,Verde
+310,211,L 3174 IT,Bus,Scania,OmniLink,Plateado
+311,212,9112 YWY,Auto,Chevrolet,Cruze,Plateado
+312,213,8684 GLC,Moto,Yamaha,XSR700,Verde
+313,214,LO 9239 NY,Moto,KTM,RC 390,Rojo
+314,215,8099 JWS,Bus,MAN,MAN SL202,Azul
+315,216,AV 7913 SG,Moto,KTM,125 Duke,Blanco
+316,217,MA 5360 TK,Bus,Irizar,PB,Naranja
+317,218,7170 YVN,Moto,Suzuki,GSX-R600,Negro
+318,219,GI 0189 VP,Moto,Benelli,TNT 600,Rojo
+319,220,O 1672 DM,Bus,Volvo,B8R,Naranja
+320,221,VA 8920 DH,Bus,Volvo,7900 Electric,Blanco
+321,222,LO 6999 HF,Bus,Volvo,9900,Verde
+322,223,OR 9739 OF,Bus,Mercedes-Benz,Sprinter,Amarillo
+323,224,9206 CZH,Moto,KTM,RC 390,Verde
+324,225,MA 9394 AL,Moto,Honda,CB650R,Café
+325,226,2861 DLK,Auto,Toyota,C-HR,Negro
+326,227,CA 5585 XG,Moto,Benelli,Leoncino 500,Naranja
+327,228,CO 8515 PW,Moto,Honda,PCX 125,Verde
+328,229,0095 PKR,Moto,Honda,CB125F,Verde
+329,230,AB 6216 XF,Moto,Suzuki,V-Strom 650,Azul
+330,231,8375 SCH,Moto,Honda,CRF250L,Plateado
+331,232,4275 XKP,Moto,Benelli,502C,Azul
+332,233,M 9623 DL,Bus,MAN,TGE,Negro
+333,234,1185 DXR,Auto,Mazda,MX-5,Gris
+334,235,HU 9709 CB,Auto,Chevrolet,Trailblazer,Azul
+335,236,HU 4081 IB,Auto,Mazda,Mazda 3,Negro
+336,237,1269 LNT,Bus,MAN,MAN NL263,Azul
+337,238,SS 0115 MA,Auto,Toyota,Avanza,Blanco
+338,239,Z 1697 ND,Bus,Irizar,i2e,Azul
+339,240,CO 8318 KE,Auto,Kia,Picanto,Gris
+340,241,SA 4523 DK,Auto,Renault,Fluence,Verde
+341,242,8980 PDG,Auto,Toyota,Camry,Negro
+342,243,9534 MHN,Moto,Benelli,Imperiale 400,Naranja
+343,244,LE 5724 YX,Bus,Volvo,B7RLE,Blanco
+344,245,HU 4977 YM,Bus,MAN,Neoplan Cityliner,Blanco
+345,246,5417 BRP,Bus,MAN,Neoplan Skyliner,Plateado
+346,247,6159 KCC,Moto,Benelli,Tornado 302,Plateado
+347,248,J 1410 VV,Bus,Mercedes-Benz,Sprinter,Azul
+348,249,Z 0582 KU,Bus,Irizar,i6 Integral,Blanco
+349,250,CR 7867 EL,Auto,Kia,Cerato,Café
+350,251,GU 0565 HC,Moto,Benelli,Tornado 302,Naranja
+351,252,7187 YDW,Bus,Irizar,Century,Verde
+352,253,3325 GTF,Bus,Volvo,B12B,Blanco
+353,254,1570 HSV,Moto,Benelli,TRK 251,Verde
+354,255,0055 RYM,Moto,Yamaha,XMAX 300,Gris
+355,256,1111 PWZ,Moto,Suzuki,Gixxer SF 250,Café
+356,257,GU 5165 UY,Bus,Scania,Interlink,Amarillo
+357,258,6292 PYB,Moto,Honda,Africa Twin,Rojo
+358,259,TE 4103 HU,Auto,Toyota,Corolla,Café
+359,260,6704 PYN,Auto,Mazda,BT-50,Amarillo
+360,261,5430 CKD,Auto,Mazda,CX-9,Plateado
+361,262,3669 WKF,Moto,Suzuki,Burgman 400,Azul
+362,263,OR 1014 ZS,Bus,Volvo,9700,Plateado
+363,264,4482 ZJD,Auto,Mazda,CX-3,Amarillo
+364,265,S 5822 BT,Bus,Irizar,i3,Café
+365,266,3043 XJS,Auto,Kia,Sorento,Negro
+366,267,O 2425 EN,Auto,Mazda,Mazda 3,Café
+367,268,BA 8988 US,Auto,Toyota,Land Cruiser,Naranja
+368,269,7636 LCK,Auto,Mazda,BT-50,Café
+369,270,J 4048 CU,Moto,Benelli,Tornado 302,Verde
+370,271,M 1758 DL,Moto,Benelli,502C,Plateado
+371,272,2825 TNL,Auto,Chevrolet,Traverse,Plateado
+372,273,T 9483 SE,Bus,MAN,Neoplan Skyliner,Azul
+373,274,PM 8471 SU,Auto,Chevrolet,Equinox,Rojo
+374,275,O 9136 DC,Auto,Mazda,CX-30,Azul
+375,276,CE 0947 PG,Auto,Renault,Captur,Plateado
+376,277,O 2502 BH,Bus,Scania,Scania F94,Rojo
+377,278,B 4204 XY,Moto,Suzuki,SV650,Verde
+378,279,TE 3161 YM,Bus,Scania,Metrolink,Verde
+379,280,7193 BNM,Bus,Volvo,B13R,Rojo
+380,281,TO 0960 MA,Moto,Suzuki,SV650,Café
+381,282,3757 ZVN,Moto,Benelli,Tornado 302,Rojo
+382,283,4117 XKN,Auto,Chevrolet,Onix,Blanco
+383,284,1777 FDG,Moto,Benelli,TNT 600,Plateado
+384,285,4932 DXB,Auto,Toyota,Yaris,Plateado
+385,286,5886 FJW,Bus,Scania,Interlink,Verde
+386,287,P 0155 PJ,Bus,Mercedes-Benz,Sprinter,Amarillo
+387,288,0739 DJL,Moto,Suzuki,Hayabusa,Azul
+388,289,ZA 9535 GB,Moto,KTM,390 Adventure,Verde
+389,290,MA 7839 NX,Moto,Benelli,BN 125,Negro
+390,291,6638 YTD,Auto,Renault,Kwid,Plateado
+391,292,GE 6411 GS,Bus,Irizar,Century,Azul
+392,293,3704 JTH,Bus,Scania,Scania L94,Plateado
+393,294,BU 0524 BA,Auto,Chevrolet,Trailblazer,Negro
+394,295,4584 XMP,Auto,Mazda,MX-5,Azul
+395,296,HU 2603 EY,Moto,Yamaha,FZ25,Verde
+396,297,GR 5549 FP,Moto,KTM,250 Duke,Verde
+397,298,9525 SRJ,Auto,Renault,Megane,Rojo
+398,299,SO 0754 AM,Auto,Kia,Stinger,Verde
+399,300,Z 6266 LO,Moto,Honda,CRF250L,Café
+400,301,OR 6788 LN,Bus,Scania,Scania L94,Azul
+401,302,1550 SGK,Auto,Mazda,CX-5,Naranja
+402,303,7786 GJM,Bus,Irizar,i6 Integral,Naranja
+403,304,L 1951 SA,Moto,KTM,450 EXC-F,Negro
+404,305,8385 YXX,Bus,Mercedes-Benz,Tourismo,Café
+405,306,9287 PTP,Bus,Volvo,B7RLE,Rojo
+406,307,9746 BDZ,Auto,Toyota,Prius,Café
+407,308,7893 RFT,Bus,MAN,Lion's City,Verde
+408,309,CC 7859 MX,Auto,Kia,Sportage,Amarillo
+409,310,8838 GMF,Bus,Scania,Serie K,Amarillo
+410,311,8710 MXX,Auto,Toyota,Prius,Verde
+411,312,8235 SRS,Moto,KTM,1290 Super Duke R,Café
+412,313,CR 2551 AZ,Moto,Suzuki,Burgman 400,Negro
+413,314,4258 WCG,Auto,Kia,Telluride,Negro
+414,315,GI 8977 IS,Bus,Mercedes-Benz,Tourismo,Azul
+415,316,6930 LZF,Bus,Volvo,7900 Hybrid,Blanco
+416,317,NA 6736 NK,Moto,Yamaha,R15,Gris
+417,318,8665 HPZ,Auto,Renault,Duster,Blanco
+418,319,CO 6578 NH,Moto,KTM,RC 200,Rojo
+419,320,B 3625 GG,Moto,Benelli,BN 125,Negro
+420,321,4312 XBP,Auto,Renault,Duster,Gris
+421,322,S 1682 LX,Bus,Mercedes-Benz,OF1721,Rojo
+422,323,GC 1597 XB,Moto,Suzuki,V-Strom 650,Azul
+423,324,4295 DYR,Auto,Mazda,BT-50,Naranja
+424,325,0479 GZF,Auto,Mazda,CX-9,Gris
+425,326,LU 5541 OW,Auto,Toyota,Prius,Amarillo
+426,327,A 5152 HG,Auto,Mazda,MX-5,Café
+427,328,6562 LCG,Moto,Suzuki,Burgman 400,Azul
+428,329,8274 KLG,Auto,Renault,Megane,Blanco
+429,330,4334 HDX,Bus,Irizar,i6 Integral,Plateado
+430,331,4404 HDK,Moto,Benelli,TRK 502,Café
+431,332,1612 XZR,Bus,Mercedes-Benz,OC500,Blanco
+432,333,8039 BWP,Moto,Yamaha,MT-125,Plateado
+433,334,TO 9483 SB,Auto,Toyota,C-HR,Verde
+434,335,0515 SPM,Moto,Yamaha,FZ25,Gris
+435,336,4075 TZM,Moto,Honda,CB650R,Café
+436,337,LE 5640 JD,Moto,Suzuki,SV650,Blanco
+437,338,GR 1850 TO,Bus,Irizar,i6,Rojo
+438,339,9537 LVP,Moto,Suzuki,VanVan 125,Gris
+439,340,6302 WMH,Auto,Toyota,Corolla,Plateado
+440,341,2722 JLM,Bus,Mercedes-Benz,OC500,Azul
+441,342,3913 FRV,Auto,Toyota,Avanza,Azul
+442,343,0830 ZTT,Bus,Irizar,Century,Amarillo
+443,344,S 5346 LZ,Bus,Irizar,i3,Amarillo
+444,345,1939 DHS,Auto,Toyota,C-HR,Naranja
+445,346,NA 1595 TO,Auto,Kia,Picanto,Rojo
+446,347,CE 2261 AS,Bus,Mercedes-Benz,Travego,Plateado
+447,348,ML 0232 ZE,Bus,Irizar,i8,Plateado
+448,349,GR 9400 FW,Moto,KTM,250 Duke,Azul
+449,350,CR 5521 BY,Auto,Kia,Picanto,Azul
+450,351,0560 ZYP,Auto,Mazda,Mazda 2,Negro
+451,352,AV 4582 OO,Moto,Benelli,Tornado 302,Blanco
+452,353,LE 4034 PN,Moto,KTM,390 Adventure,Rojo
+453,354,CA 7504 KD,Auto,Toyota,Fortuner,Gris
+454,355,0600 CND,Moto,KTM,690 Enduro R,Azul
+455,356,P 1204 TE,Auto,Toyota,Corolla,Azul
+456,357,ZA 3844 WN,Bus,Irizar,i6,Blanco
+457,358,0025 WLP,Bus,Scania,Irizar i6,Amarillo
+458,359,4784 RBT,Auto,Renault,Sandero,Verde
+459,360,CC 6494 HA,Auto,Mazda,Mazda 6,Gris
+460,361,J 4198 DN,Bus,Scania,OmniLink,Plateado
+461,362,2412 MRX,Moto,Benelli,502C,Gris
+462,363,V 0853 NH,Auto,Kia,Picanto,Café
+463,364,0208 JWV,Moto,Honda,CBR650R,Rojo
+464,365,4548 WVN,Bus,Irizar,i6 Integral,Plateado
+465,366,4758 YKD,Bus,Scania,OmniLink,Gris
+466,367,9827 RXV,Auto,Chevrolet,Onix,Negro
+467,368,H 1557 SO,Bus,MAN,MAN A23,Rojo
+468,369,A 7018 EP,Moto,Honda,CB650R,Plateado
+469,370,8796 MSS,Auto,Chevrolet,Tahoe,Blanco
+470,371,1691 TRT,Auto,Kia,Rio,Plateado
+471,372,8782 SVR,Moto,Honda,Rebel 500,Gris
+472,373,GE 0094 EJ,Moto,Honda,CRF250L,Verde
+473,374,2462 TKK,Auto,Toyota,C-HR,Gris
+474,375,6138 WDV,Moto,Benelli,BN 125,Verde
+475,376,4991 KRF,Moto,Suzuki,Burgman 400,Plateado
+476,377,A 3064 HN,Moto,KTM,690 Enduro R,Blanco
+477,378,TF 9915 TD,Auto,Renault,Duster,Rojo
+478,379,4929 CJM,Auto,Renault,Captur,Negro
+479,380,6656 LST,Auto,Renault,Kwid,Blanco
+480,381,3725 TLT,Bus,Volvo,9700,Café
+481,382,VI 6993 TS,Auto,Mazda,Mazda 3,Rojo
+482,383,SA 9380 CJ,Auto,Mazda,MX-5,Negro
+483,384,OR 8236 EN,Bus,MAN,MAN SL202,Naranja
+484,385,7732 KRR,Moto,Yamaha,Tracer 900,Negro
+485,386,2264 JTY,Bus,Mercedes-Benz,O500,Rojo
+486,387,PM 0318 BT,Auto,Renault,Captur,Rojo
+487,388,5028 NSG,Auto,Toyota,Land Cruiser,Plateado
+488,389,TO 4565 NV,Auto,Toyota,Land Cruiser,Plateado
+489,390,ML 7006 MW,Auto,Kia,Optima,Rojo
+490,391,T 9023 VW,Bus,Mercedes-Benz,Travego,Rojo
+491,392,H 8329 VI,Bus,Volvo,B13R,Azul
+492,393,IB 1166 KU,Bus,Irizar,i6 Integral,Café
+493,394,7314 KDH,Bus,MAN,MAN A21,Blanco
+494,395,AB 6457 GP,Bus,Irizar,i8,Café
+495,396,0717 XGR,Auto,Kia,Sportage,Naranja
+496,397,4027 BFG,Bus,Mercedes-Benz,Sprinter,Amarillo
+497,398,8064 DRC,Moto,Benelli,TRK 502,Rojo
+498,399,9960 XYR,Moto,Suzuki,Burgman 400,Plateado
+499,400,L 6295 FV,Bus,Volvo,B11R,Verde
+500,401,0214 MYR,Moto,Benelli,502C,Verde
+501,402,AB 1674 FF,Moto,Yamaha,FZ25,Gris
+502,403,8141 GSZ,Bus,Mercedes-Benz,Conecto,Café
+503,404,BU 0609 IG,Auto,Mazda,RX-8,Plateado
+504,405,7978 NWH,Bus,MAN,MAN A21,Negro
+505,406,CS 1601 SP,Bus,Volvo,7900 Hybrid,Blanco
+506,407,7515 RTX,Moto,Benelli,TNT 135,Azul
+507,408,T 4169 UH,Bus,Volvo,7900 Hybrid,Azul
+508,409,CS 3528 LY,Auto,Mazda,CX-3,Blanco
+509,410,CR 6684 GT,Bus,Volvo,B11R,Azul
+510,411,AL 8623 FK,Moto,Suzuki,Gixxer SF 250,Negro
+511,412,HU 9877 UZ,Auto,Toyota,Corolla,Verde
+512,413,5596 SJN,Bus,Scania,Touring,Rojo
+513,414,BU 2605 MI,Auto,Chevrolet,Cruze,Verde
+514,415,9128 CFL,Auto,Chevrolet,Captiva,Rojo
+515,416,VA 5419 AL,Moto,Honda,CB650R,Rojo
+516,417,CA 8960 VA,Moto,Benelli,TRK 502,Gris
+517,418,J 3991 CK,Moto,Yamaha,FZ25,Café
+518,419,8389 VDF,Moto,Yamaha,NMAX155,Blanco
+519,420,TO 2585 NP,Auto,Renault,Sandero,Negro
+520,421,SS 0645 CN,Auto,Mazda,RX-8,Negro
+521,422,CS 4516 ED,Bus,Irizar,i6,Gris
+522,423,OU 5019 GM,Auto,Renault,Duster,Negro
+523,424,AV 2362 FP,Moto,Yamaha,Fazer 250,Gris
+524,425,OU 7936 AX,Bus,Irizar,i2e,Verde
+525,426,9468 GMP,Bus,Mercedes-Benz,Citaro,Naranja
+526,427,TF 9145 VF,Auto,Kia,Optima,Verde
+527,428,TF 1751 SE,Moto,Suzuki,DR-Z400,Amarillo
+528,429,MA 4078 JG,Moto,Benelli,Imperiale 400,Naranja
+529,430,6912 MCV,Moto,KTM,1290 Super Duke R,Amarillo
+530,431,M 9619 AW,Bus,Mercedes-Benz,Intouro,Rojo
+531,432,ML 5412 SO,Auto,Mazda,CX-30,Naranja
+532,433,6949 KNZ,Bus,Scania,Metrolink,Rojo
+533,434,LE 9402 GU,Bus,Irizar,i6,Amarillo
+534,435,L 7184 ZM,Auto,Mazda,Mazda 2,Amarillo
+535,436,CA 2812 LN,Auto,Chevrolet,Equinox,Amarillo
+536,437,M 1901 FV,Moto,Honda,CBR500R,Azul
+537,438,9051 WJL,Bus,Scania,Serie K,Naranja
+538,439,8433 SFP,Moto,Honda,CB650R,Negro
+539,440,3870 NFT,Auto,Renault,Fluence,Naranja
+540,441,B 8837 PL,Auto,Mazda,RX-8,Blanco
+541,442,TO 6623 EN,Auto,Renault,Stepway,Amarillo
+542,443,4135 TFV,Moto,Benelli,302S,Naranja
+543,444,6260 JTY,Moto,Honda,CBR500R,Plateado
+544,445,CA 4024 HD,Moto,Honda,X-ADV,Blanco
+545,446,GI 1512 ZW,Moto,Yamaha,FZ25,Naranja
+546,447,CO 3966 YA,Bus,MAN,MAN NL263,Naranja
+547,448,SA 8748 HA,Moto,Honda,X-ADV,Plateado
+548,449,BI 4772 JJ,Moto,Suzuki,DR-Z400,Gris
+549,450,7669 HLY,Moto,Benelli,Leoncino 500,Plateado
+550,451,6729 YVK,Bus,Mercedes-Benz,OH1621,Blanco
+551,452,SA 3210 IE,Auto,Kia,Optima,Negro
+552,453,8851 XYJ,Bus,Irizar,i6 Integral,Negro
+553,454,4710 FYT,Moto,Suzuki,Burgman 400,Azul
+554,455,SA 8731 SS,Moto,Yamaha,XSR700,Amarillo
+555,456,SE 7001 HJ,Auto,Mazda,CX-3,Azul
+556,457,2362 NJC,Moto,Honda,CBR650R,Azul
+557,458,AV 7696 CZ,Auto,Kia,Sportage,Naranja
+558,459,SS 1299 DJ,Moto,Benelli,TRK 502,Amarillo
+559,460,8405 HHW,Auto,Chevrolet,Equinox,Rojo
+560,461,7937 ZYN,Moto,Yamaha,XSR700,Rojo
+561,462,CE 4755 WH,Bus,Mercedes-Benz,O500,Plateado
+562,463,PM 9261 KK,Auto,Mazda,CX-30,Plateado
+563,464,7490 ZCB,Auto,Toyota,RAV4,Plateado
+564,465,2172 LZM,Bus,Irizar,i6 Integral,Gris
+565,466,6568 DJM,Moto,Yamaha,Ténéré 700,Plateado
+566,467,8594 TYJ,Moto,Benelli,TRK 251,Café
+567,468,6508 YTY,Moto,KTM,690 Enduro R,Naranja
+568,469,TO 4913 VJ,Auto,Mazda,BT-50,Café
+569,470,B 1993 OW,Auto,Mazda,RX-8,Naranja
+570,471,BU 0779 CF,Moto,Benelli,Imperiale 400,Verde
+571,472,2352 FDW,Auto,Mazda,RX-8,Café
+572,473,AL 0761 GV,Auto,Kia,Sorento,Naranja
+573,474,8237 HST,Bus,Volvo,B11R,Amarillo
+574,475,0124 DZV,Auto,Kia,Sportage,Azul
+575,476,Z 9287 AS,Auto,Mazda,Mazda 3,Rojo
+576,477,7831 ZCJ,Auto,Kia,Picanto,Café
+577,478,4460 GCR,Auto,Chevrolet,Onix,Gris
+578,479,VA 9869 SG,Auto,Toyota,C-HR,Rojo
+579,480,B 4047 DE,Auto,Toyota,Camry,Negro
+580,481,0158 SPW,Auto,Toyota,Hilux,Blanco
+581,482,8201 PCH,Moto,Suzuki,Hayabusa,Plateado
+582,483,H 9931 LJ,Moto,Yamaha,YS125,Negro
+583,484,1365 WCR,Moto,Honda,X-ADV,Rojo
+584,485,PO 9452 JZ,Bus,Irizar,i3,Blanco
+585,486,AB 9376 XT,Bus,Mercedes-Benz,Tourismo,Amarillo
+586,487,GU 6335 GZ,Bus,Scania,OmniLink,Blanco
+587,488,MU 0105 HW,Bus,Irizar,PB,Gris
+588,489,CC 4069 CB,Moto,Honda,CB500X,Negro
+589,490,7762 YKY,Bus,Scania,Scania F94,Amarillo
+590,491,7935 NWX,Bus,Irizar,i8,Verde
+591,492,7078 MBZ,Bus,Mercedes-Benz,Conecto,Amarillo
+592,493,VI 9081 BD,Moto,Suzuki,GSX-R600,Café
+593,494,MU 6281 XT,Bus,Mercedes-Benz,Intouro,Verde
+594,495,3059 CJB,Auto,Toyota,Camry,Amarillo
+595,496,SG 8851 DL,Bus,Scania,Touring,Verde
+596,497,L 9232 VJ,Auto,Mazda,MX-5,Gris
+597,498,GU 1359 LH,Bus,Volvo,B13R,Blanco
+598,499,TO 3865 YJ,Auto,Mazda,Mazda 2,Gris
+599,500,SA 4003 IL,Bus,MAN,Neoplan Cityliner,Azul
+600,501,HU 2782 AN,Bus,MAN,MAN A39,Azul
+601,502,CE 9870 IH,Auto,Mazda,MX-5,Verde
+602,503,8697 JCB,Auto,Chevrolet,Tracker,Amarillo
+603,504,GC 3443 VV,Bus,Scania,OmniLink,Verde
+604,505,2466 SXD,Auto,Chevrolet,Tracker,Azul
+605,506,OU 5078 TS,Moto,Suzuki,Burgman 400,Amarillo
+606,507,GC 2503 JJ,Moto,Yamaha,XSR700,Amarillo
+607,508,O 5530 NI,Moto,Suzuki,Burgman 400,Verde
+608,509,8032 WKT,Bus,Mercedes-Benz,Travego,Blanco
+609,510,AL 0999 SA,Bus,Scania,Irizar i8,Rojo
+610,511,7725 BFG,Bus,Mercedes-Benz,Citaro,Verde
+611,512,1270 ZXV,Moto,Honda,PCX 125,Verde
+612,513,2900 HRM,Bus,Irizar,i6,Gris
+613,514,AB 7374 HW,Bus,MAN,Neoplan Cityliner,Blanco
+614,515,9828 JNW,Auto,Chevrolet,Tahoe,Rojo
+615,516,CC 3845 XS,Auto,Chevrolet,Malibu,Negro
+616,517,3702 DFT,Moto,Honda,CB500X,Amarillo
+617,518,5817 VNL,Auto,Mazda,BT-50,Rojo
+618,519,BI 4582 TS,Moto,Suzuki,GSX-R600,Azul
+619,520,5203 KDZ,Bus,Volvo,B12B,Naranja
+620,521,SA 1085 UE,Auto,Chevrolet,Malibu,Blanco
+621,522,S 9274 XO,Auto,Chevrolet,Spark,Naranja
+622,523,BA 7726 CG,Auto,Renault,Stepway,Gris
+623,524,V 3533 MC,Bus,MAN,MAN NL263,Rojo
+624,525,2989 LRB,Moto,KTM,1290 Super Duke R,Azul
+625,526,AB 2604 YC,Moto,Honda,Africa Twin,Azul
+626,527,OU 0050 MJ,Moto,Suzuki,SV650,Rojo
+627,528,SS 0711 LN,Auto,Toyota,Land Cruiser,Naranja
+628,529,2282 LPL,Auto,Renault,Talisman,Rojo
+629,530,7136 FTJ,Auto,Mazda,MX-5,Amarillo
+630,531,B 3542 EO,Moto,Honda,X-ADV,Naranja
+631,532,5144 GYC,Bus,Scania,Citywide,Amarillo
+632,533,1571 GVV,Bus,Scania,OmniLink,Naranja
+633,534,8850 VWS,Bus,Volvo,B9TL,Plateado
+634,535,8320 CRH,Auto,Renault,Kwid,Blanco
+635,536,9124 MJH,Moto,Benelli,TNT 135,Café
+636,537,SE 7779 SG,Bus,Scania,Citywide,Verde
+637,538,C 5444 LB,Moto,Benelli,302S,Blanco
+638,539,5305 PBD,Moto,Suzuki,Gixxer SF 250,Negro
+639,540,C 2108 LN,Bus,Irizar,i4,Gris
+640,541,3194 FCG,Moto,Honda,PCX 125,Negro
+641,542,4179 BKX,Moto,Suzuki,VanVan 125,Blanco
+642,543,8473 KKX,Auto,Chevrolet,Tahoe,Gris
+643,544,A 3082 BW,Bus,MAN,Lion's City,Azul
+644,545,VI 3262 TJ,Bus,MAN,MAN A39,Rojo
+645,546,3030 DSB,Moto,Suzuki,V-Strom 650,Blanco
+646,547,8590 FNX,Auto,Mazda,RX-8,Blanco
+647,548,H 3819 WY,Bus,Mercedes-Benz,OH1621,Café
+648,549,3943 MHY,Moto,Benelli,TRK 251,Verde
+649,550,GR 9326 GC,Moto,Yamaha,YS125,Rojo
+650,551,CR 7428 NS,Bus,Volvo,7900 Hybrid,Rojo
+651,552,9138 NRW,Moto,Benelli,TNT 600,Gris
+652,553,SO 8714 CE,Bus,Irizar,i6S,Negro
+653,554,BI 0848 PL,Moto,Suzuki,SV650,Rojo
+654,555,LU 5587 HX,Bus,Mercedes-Benz,Intouro,Rojo
+655,556,SE 2278 KE,Bus,Irizar,i3,Azul
+656,557,1740 ZYC,Moto,Benelli,Leoncino 500,Verde
+657,558,AV 3763 MO,Moto,KTM,1290 Super Duke R,Naranja
+658,559,P 4381 MX,Moto,Benelli,302S,Café
+659,560,AB 9113 GA,Moto,KTM,250 Duke,Amarillo
+660,561,0236 FVH,Bus,MAN,MAN SL202,Gris
+661,562,LO 4990 WD,Bus,Mercedes-Benz,Citaro,Rojo
+662,563,GU 8044 FY,Moto,Yamaha,Fazer 250,Rojo
+663,564,TO 6378 AD,Auto,Chevrolet,Tahoe,Naranja
+664,565,BA 2104 NX,Auto,Kia,Telluride,Negro
+665,566,1584 JWC,Moto,Yamaha,R15,Amarillo
+666,567,5220 GSH,Bus,Scania,Serie K,Negro
+667,568,SE 7405 OB,Auto,Kia,Cerato,Azul
+668,569,AV 4297 SG,Moto,Benelli,TRK 251,Gris
+669,570,4667 MJG,Auto,Kia,Rio,Verde
+670,571,VA 5069 VI,Auto,Mazda,CX-30,Plateado
+671,572,PM 1934 KB,Auto,Renault,Talisman,Naranja
+672,573,GR 4057 IE,Auto,Renault,Megane,Café
+673,574,SA 0823 KX,Moto,Suzuki,GSX-S750,Gris
+674,575,6548 TGY,Moto,Honda,CB500X,Verde
+675,576,AL 8679 KF,Moto,Honda,Rebel 500,Rojo
+676,577,3766 GTW,Auto,Mazda,Mazda 3,Naranja
+677,578,3194 BHD,Auto,Chevrolet,Tracker,Blanco
+678,579,6517 WSJ,Bus,Volvo,B8R,Negro
+679,580,7448 XVG,Auto,Chevrolet,Traverse,Rojo
+680,581,3451 BRY,Bus,Mercedes-Benz,Tourismo,Plateado
+681,582,CS 3541 LA,Auto,Mazda,Mazda 2,Rojo
+682,583,T 8063 OY,Bus,Volvo,B9TL,Amarillo
+683,584,SE 5996 YB,Auto,Chevrolet,Malibu,Rojo
+684,585,2278 BML,Bus,MAN,Neoplan Skyliner,Plateado
+685,586,GR 6311 SK,Bus,Mercedes-Benz,OF1721,Negro
+686,587,LO 6607 MK,Moto,Benelli,TNT 135,Verde
+687,588,M 8933 FF,Bus,Volvo,9900,Café
+688,589,MU 7496 IS,Bus,Scania,Interlink,Café
+689,590,MU 1959 XZ,Auto,Kia,Optima,Rojo
+690,591,Z 2847 OA,Moto,Benelli,502C,Blanco
+691,592,8207 SVD,Moto,Yamaha,YS125,Negro
+692,593,BI 1806 XK,Auto,Toyota,Yaris,Negro
+693,594,IB 6413 GM,Moto,Honda,X-ADV,Café
+694,595,4142 RXT,Moto,Benelli,TRK 251,Café
+695,596,LE 8787 TL,Auto,Toyota,Camry,Gris
+696,597,L 6356 SU,Bus,Irizar,i6 Integral,Blanco
+697,598,1727 NHT,Moto,Suzuki,DR-Z400,Plateado
+698,599,BU 0966 KX,Auto,Mazda,RX-8,Verde
+699,600,0498 JXM,Moto,KTM,RC 390,Plateado
+700,601,ML 3797 DJ,Moto,Benelli,502C,Amarillo
+701,602,9012 NDG,Bus,Mercedes-Benz,Conecto,Amarillo
+702,603,IB 6151 KD,Moto,Benelli,Tornado 302,Azul
+703,604,SA 6124 SL,Auto,Chevrolet,Tahoe,Café
+704,605,GU 2484 DW,Bus,Volvo,B7RLE,Naranja
+705,606,OU 5816 LA,Bus,Volvo,7900 Hybrid,Rojo
+706,607,VA 1994 OA,Auto,Mazda,CX-3,Amarillo
+707,608,1898 GNW,Bus,Scania,Serie K,Negro
+708,609,J 6838 MM,Bus,Volvo,B9TL,Azul
+709,610,M 6208 YI,Auto,Renault,Kwid,Azul
+710,611,CU 6151 UU,Moto,Suzuki,SV650,Amarillo
+711,612,TO 1179 FS,Auto,Toyota,Land Cruiser,Verde
+712,613,BA 6682 MO,Moto,KTM,125 Duke,Verde
+713,614,8792 CWS,Auto,Renault,Sandero,Naranja
+714,615,7643 KYY,Moto,Suzuki,Hayabusa,Amarillo
+715,616,ZA 0778 WY,Auto,Chevrolet,Onix,Naranja
+716,617,VI 7546 ZK,Moto,KTM,1290 Super Duke R,Verde
+717,618,7861 TRN,Bus,MAN,Neoplan Skyliner,Naranja
+718,619,4908 SPW,Auto,Renault,Talisman,Rojo
+719,620,3386 TJS,Bus,Irizar,Century,Plateado
+720,621,SG 9161 ZG,Auto,Renault,Koleos,Naranja
+721,622,4963 ZVG,Bus,MAN,TGE,Gris
+722,623,PO 7367 XK,Auto,Mazda,CX-9,Amarillo
+723,624,0839 KYK,Moto,Suzuki,GSX-S750,Naranja
+724,625,2622 XWW,Bus,Irizar,i6,Negro
+725,626,VI 3075 SM,Bus,Volvo,B7RLE,Negro
+726,627,HU 4842 KJ,Moto,Suzuki,SV650,Rojo
+727,628,1628 XNX,Bus,Volvo,B7RLE,Gris
+728,629,V 7189 DY,Moto,Honda,CBR500R,Negro
+729,630,3238 BFC,Moto,Yamaha,Ténéré 700,Rojo
+730,631,6828 PFB,Auto,Renault,Stepway,Plateado
+731,632,CS 2774 WZ,Bus,MAN,Neoplan Cityliner,Rojo
+732,633,4002 LSB,Bus,MAN,MAN A39,Blanco
+733,634,3486 BVR,Moto,Honda,Rebel 500,Café
+734,635,4916 WCV,Moto,Yamaha,NMAX155,Gris
+735,636,4143 THR,Bus,Mercedes-Benz,OC500,Azul
+736,637,SG 1600 SE,Moto,Honda,Africa Twin,Amarillo
+737,638,AB 4651 BO,Auto,Chevrolet,Cruze,Azul
+738,639,GR 8617 FU,Bus,Irizar,i6S Efficient,Blanco
+739,640,L 1669 EN,Auto,Mazda,BT-50,Naranja
+740,641,SG 1353 DA,Bus,Volvo,9700,Rojo
+741,642,8986 CTX,Auto,Toyota,Corolla,Plateado
+742,643,GE 1042 YZ,Moto,Honda,CB650R,Rojo
+743,644,M 8297 YY,Moto,KTM,125 Duke,Plateado
+744,645,9659 NDZ,Bus,Mercedes-Benz,Sprinter,Rojo
+745,646,Z 7215 PU,Auto,Toyota,Yaris,Plateado
+746,647,6685 RBT,Moto,Benelli,502C,Azul
+747,648,AB 9457 YZ,Bus,Irizar,i6S Efficient,Plateado
+748,649,BA 2646 DK,Moto,Benelli,502C,Amarillo
+749,650,MU 7816 BI,Bus,Scania,Interlink,Rojo
+750,651,2592 WFZ,Bus,Irizar,i2e,Amarillo
+751,652,CA 9889 NA,Moto,KTM,690 Enduro R,Plateado
+752,653,0685 LRW,Auto,Chevrolet,Tracker,Amarillo
+753,654,TE 8518 IY,Moto,Benelli,TRK 502,Negro
+754,655,LU 2898 US,Auto,Toyota,Avanza,Verde
+755,656,ML 7182 YK,Bus,Scania,Touring,Azul
+756,657,HU 7812 XJ,Bus,Volvo,B11R,Naranja
+757,658,BU 4401 FC,Auto,Mazda,CX-30,Verde
+758,659,CC 0373 IS,Bus,Mercedes-Benz,Travego,Rojo
+759,660,LO 8130 UM,Moto,Yamaha,XMAX 300,Verde
+760,661,HU 5124 HY,Auto,Mazda,RX-8,Plateado
+761,662,8055 KTL,Auto,Chevrolet,Captiva,Verde
+762,663,4077 FNJ,Bus,Mercedes-Benz,Tourismo,Verde
+763,664,GE 1291 ZA,Auto,Kia,Telluride,Verde
+764,665,5104 YLS,Auto,Toyota,Camry,Verde
+765,666,5315 NJL,Bus,Mercedes-Benz,OH1621,Naranja
+766,667,6126 LWL,Moto,Honda,Africa Twin,Naranja
+767,668,VI 0030 OM,Bus,Mercedes-Benz,O500,Plateado
+768,669,H 2397 NG,Moto,Suzuki,GSX-S750,Naranja
+769,670,1948 BDX,Bus,MAN,Neoplan Cityliner,Plateado
+770,671,CU 7255 UM,Auto,Chevrolet,Captiva,Rojo
+771,672,1218 XHG,Auto,Chevrolet,Captiva,Café
+772,673,4028 HYZ,Bus,Scania,Interlink,Blanco
+773,674,9976 CTB,Auto,Chevrolet,Captiva,Blanco
+774,675,TF 5101 ZK,Auto,Chevrolet,Malibu,Gris
+775,676,H 5280 AG,Moto,Honda,CBR650R,Café
+776,677,8231 GFH,Bus,MAN,Neoplan Skyliner,Azul
+777,678,5377 KRM,Moto,KTM,450 EXC-F,Rojo
+778,679,SA 4154 JE,Moto,KTM,125 Duke,Gris
+779,680,7358 YJV,Moto,KTM,890 Duke R,Naranja
+780,681,0004 CSC,Bus,Scania,Citywide,Blanco
+781,682,4237 GVD,Auto,Toyota,Yaris,Verde
+782,683,SE 9234 AL,Auto,Renault,Logan,Amarillo
+783,684,1861 SWY,Bus,Irizar,i8,Blanco
+784,685,LE 9834 DM,Bus,Mercedes-Benz,Travego,Negro
+785,686,9060 BVL,Auto,Chevrolet,Traverse,Blanco
+786,687,L 8482 JT,Moto,Honda,Rebel 500,Blanco
+787,688,AL 6923 SK,Moto,Honda,Rebel 500,Azul
+788,689,T 8355 IB,Auto,Renault,Megane,Café
+789,690,OU 5429 KN,Moto,Yamaha,XSR700,Gris
+790,691,3507 KVC,Moto,Honda,CBR650R,Verde
+791,692,0607 TYT,Auto,Toyota,Yaris,Plateado
+792,693,BI 8791 VV,Auto,Renault,Stepway,Amarillo
+793,694,GU 0174 HA,Auto,Chevrolet,Trailblazer,Plateado
+794,695,7131 YLR,Bus,Scania,Metrolink,Azul
+795,696,CR 5470 AD,Bus,Volvo,9900,Verde
+796,697,1229 JMY,Bus,Irizar,i8,Verde
+797,698,GI 6768 GP,Auto,Chevrolet,Tracker,Plateado
+798,699,2836 XYF,Moto,KTM,125 Duke,Negro
+799,700,5249 ZLM,Moto,Benelli,TNT 600,Verde
+800,701,BU 7021 OK,Bus,MAN,MAN A39,Plateado
+801,702,MU 7491 CK,Moto,Yamaha,MT-125,Azul
+802,703,6787 TPT,Auto,Chevrolet,Tracker,Amarillo
+803,704,4470 CMB,Moto,KTM,890 Duke R,Gris
+804,705,V 2483 OL,Bus,Volvo,9700,Verde
+805,706,SG 3403 EJ,Bus,Irizar,Century,Blanco
+806,707,PM 8174 KI,Bus,Mercedes-Benz,OF1721,Azul
+807,708,SO 4676 AD,Moto,Suzuki,SV650,Gris
+808,709,S 2654 IX,Moto,KTM,125 Duke,Amarillo
+809,710,IB 2749 FY,Bus,Mercedes-Benz,Conecto,Plateado
+810,711,LE 5460 XB,Moto,Suzuki,GSX-R600,Rojo
+811,712,5204 GZY,Moto,Yamaha,FZ25,Verde
+812,713,8310 BFJ,Bus,MAN,Lion's City,Rojo
+813,714,3146 SRJ,Bus,Mercedes-Benz,OH1621,Rojo
+814,715,GI 9725 SX,Moto,KTM,1290 Super Duke R,Negro
+815,716,4846 GVL,Auto,Toyota,RAV4,Naranja
+816,717,2333 GVN,Moto,Benelli,Imperiale 400,Azul
+817,718,8604 MVJ,Moto,Suzuki,Intruder 150,Café
+818,719,GE 6213 CU,Bus,Scania,Touring,Verde
+819,720,6638 MRC,Moto,KTM,125 Duke,Verde
+820,721,6467 RHD,Bus,Volvo,B8R,Blanco
+821,722,GE 6949 JP,Auto,Kia,Sportage,Café
+822,723,GU 4581 SA,Auto,Chevrolet,Cruze,Azul
+823,724,7385 TDP,Bus,Volvo,9900,Café
+824,725,CA 8254 ZL,Bus,MAN,TGE,Naranja
+825,726,2496 VHX,Bus,MAN,MAN A39,Naranja
+826,727,5804 ZZW,Bus,Mercedes-Benz,OH1621,Café
+827,728,J 5649 OK,Moto,Honda,CRF250L,Amarillo
+828,729,LU 7026 CE,Auto,Kia,Optima,Gris
+829,730,Z 6547 HN,Bus,MAN,MAN A39,Amarillo
+830,731,TF 9724 GW,Auto,Mazda,CX-3,Naranja
+831,732,GR 1661 OB,Bus,Volvo,B13R,Azul
+832,733,GE 9367 BS,Bus,Scania,Irizar i8,Café
+833,734,C 3408 OX,Moto,Honda,CB125F,Verde
+834,735,L 2208 XM,Bus,Irizar,PB,Rojo
+835,736,AB 9155 WY,Bus,Volvo,7900 Hybrid,Rojo
+836,737,5218 NTK,Bus,Scania,Scania F94,Café
+837,738,1488 PGK,Bus,MAN,MAN A21,Blanco
+838,739,5210 KTM,Auto,Kia,Sorento,Gris
+839,740,3367 VYG,Bus,Irizar,i6,Rojo
+840,741,3493 NPH,Auto,Toyota,RAV4,Naranja
+841,742,PO 1614 GK,Moto,Benelli,TNT 135,Azul
+842,743,3868 MFS,Bus,Mercedes-Benz,Conecto,Azul
+843,744,GC 6595 CM,Moto,Yamaha,Tracer 900,Verde
+844,745,6716 FLV,Bus,Scania,Irizar i6,Gris
+845,746,8558 PVK,Moto,KTM,890 Duke R,Negro
+846,747,C 4047 FF,Moto,Yamaha,Fazer 250,Azul
+847,748,TF 6513 II,Bus,MAN,Neoplan Skyliner,Café
+848,749,1633 KXF,Auto,Kia,Sorento,Blanco
+849,750,8698 CNG,Bus,Mercedes-Benz,Conecto,Amarillo
+850,751,PO 8557 XF,Auto,Chevrolet,Captiva,Naranja
+851,752,7599 NDZ,Bus,Volvo,B13R,Azul
+852,753,5000 CYN,Bus,MAN,MAN A39,Café
+853,754,PM 0766 OA,Auto,Chevrolet,Onix,Azul
+854,755,M 4202 OJ,Bus,Volvo,B12B,Negro
+855,756,CC 7030 ZJ,Moto,KTM,250 Duke,Blanco
+856,757,3646 SLN,Moto,Suzuki,DR-Z400,Naranja
+857,758,3323 MYZ,Moto,Honda,X-ADV,Naranja
+858,759,1729 RNG,Bus,Scania,Serie K,Plateado
+859,760,6830 XGV,Bus,MAN,Neoplan Cityliner,Amarillo
+860,761,4369 DCR,Auto,Chevrolet,Cruze,Negro
+861,762,0377 VWN,Bus,Scania,Irizar i6,Plateado
+862,763,LE 7631 DF,Auto,Chevrolet,Cruze,Naranja
+863,764,MA 3135 OO,Moto,Suzuki,Gixxer SF 250,Blanco
+864,765,7738 SMH,Auto,Chevrolet,Equinox,Negro
+865,766,1830 VPJ,Moto,Honda,Rebel 500,Amarillo
+866,767,SG 7504 TK,Auto,Chevrolet,Tahoe,Naranja
+867,768,7867 TSJ,Auto,Chevrolet,Malibu,Café
+868,769,8943 VCW,Auto,Toyota,Prius,Gris
+869,770,4580 FWM,Auto,Mazda,Mazda 6,Verde
+870,771,4021 MKZ,Bus,Volvo,B12B,Amarillo
+871,772,MU 0235 YD,Auto,Mazda,MX-5,Gris
+872,773,4059 WKF,Moto,Yamaha,XMAX 300,Gris
+873,774,J 7947 YT,Moto,Yamaha,Tracer 900,Gris
+874,775,TO 0345 DW,Moto,Honda,CRF250L,Blanco
+875,776,2656 NFK,Moto,Honda,X-ADV,Naranja
+876,777,L 0341 AB,Auto,Mazda,CX-30,Plateado
+877,778,O 1117 DE,Auto,Toyota,Camry,Verde
+878,779,8742 LTX,Bus,Scania,Scania F94,Café
+879,780,2078 PBH,Bus,Volvo,B13R,Rojo
+880,781,CR 6212 DG,Auto,Renault,Koleos,Blanco
+881,782,SG 7906 TK,Moto,Honda,CBR500R,Café
+882,783,8680 NPP,Auto,Toyota,Prius,Verde
+883,784,2198 ZKN,Bus,Scania,Serie K,Amarillo
+884,785,2704 WNP,Auto,Renault,Megane,Café
+885,786,8004 JHS,Auto,Chevrolet,Cruze,Gris
+886,787,2050 PCW,Bus,Mercedes-Benz,Travego,Naranja
+887,788,4020 LXF,Auto,Renault,Captur,Naranja
+888,789,T 4082 GP,Auto,Chevrolet,Spark,Verde
+889,790,PO 7824 YZ,Moto,Benelli,302S,Azul
+890,791,GI 2283 WW,Auto,Toyota,Hilux,Rojo
+891,792,6063 WKS,Auto,Mazda,MX-5,Gris
+892,793,J 2459 DD,Bus,Irizar,PB,Blanco
+893,794,4544 SRC,Moto,Yamaha,FZ25,Rojo
+894,795,SE 9167 KL,Moto,Honda,CB125F,Negro
+895,796,HU 3289 ME,Bus,Scania,Serie K,Gris
+896,797,4990 HXN,Bus,Scania,OmniLink,Blanco
+897,798,7037 NCP,Auto,Kia,Rio,Amarillo
+898,799,9572 NPK,Moto,Yamaha,FZ25,Café
+899,800,1605 DVF,Moto,Benelli,Tornado 302,Rojo
+900,801,8847 CYX,Auto,Toyota,Camry,Rojo
+901,802,0264 XWS,Moto,KTM,690 Enduro R,Negro
+902,803,0957 FBG,Auto,Mazda,Mazda 6,Azul
+903,804,3291 HHD,Bus,Volvo,9900,Negro
+904,805,HU 2159 PN,Moto,Suzuki,VanVan 125,Azul
+905,806,2414 FXF,Bus,Volvo,B13R,Café
+906,807,3296 XTS,Auto,Toyota,C-HR,Plateado
+907,808,5663 SKR,Bus,MAN,MAN SL202,Café
+908,809,0397 ZHZ,Auto,Kia,Picanto,Azul
+909,810,VI 1887 UN,Moto,Suzuki,DR-Z400,Azul
+910,811,8340 LWV,Moto,Suzuki,V-Strom 650,Rojo
+911,812,8703 VYL,Auto,Chevrolet,Spark,Plateado
+912,813,OU 8542 HY,Auto,Renault,Sandero,Naranja
+913,814,2242 PGB,Moto,Suzuki,GSX-R600,Azul
+914,815,0681 DGH,Moto,Suzuki,SV650,Plateado
+915,816,1069 DWX,Moto,KTM,890 Duke R,Negro
+916,817,NA 3817 AH,Bus,Irizar,i2e,Naranja
+917,818,S 4996 SP,Auto,Mazda,CX-30,Rojo
+918,819,9165 RHL,Auto,Toyota,Prius,Naranja
+919,820,PM 1643 GZ,Moto,Suzuki,SV650,Negro
+920,821,CA 1917 EG,Auto,Renault,Stepway,Azul
+921,822,MA 6847 YA,Bus,Volvo,B9TL,Rojo
+922,823,0939 KVM,Bus,Irizar,i2e,Café
+923,824,SO 7531 JM,Auto,Kia,Telluride,Plateado
+924,825,V 2833 MW,Auto,Kia,Telluride,Naranja
+925,826,8509 MKN,Moto,Yamaha,FZ25,Plateado
+926,827,6233 PYC,Auto,Kia,Picanto,Amarillo
+927,828,0352 XTC,Bus,Irizar,PB,Café
+928,829,IB 8331 DV,Bus,Scania,Metrolink,Blanco
+929,830,9953 TBX,Moto,Suzuki,GSX-S750,Negro
+930,831,9896 MZG,Moto,KTM,790 Adventure,Blanco
+931,832,9024 NDW,Bus,Scania,OmniLink,Café
+932,833,LU 5389 BE,Auto,Mazda,CX-9,Amarillo
+933,834,8862 WWP,Moto,Suzuki,GSX-S750,Café
+934,835,6863 VPK,Auto,Chevrolet,Spark,Amarillo
+935,836,7647 FMJ,Auto,Mazda,Mazda 6,Café
+936,837,3425 LWF,Moto,Honda,CB650R,Plateado
+937,838,CR 2707 ZT,Auto,Mazda,MX-5,Gris
+938,839,8037 KGS,Auto,Kia,Optima,Plateado
+939,840,2745 XFT,Auto,Toyota,Corolla,Amarillo
+940,841,4916 PNG,Bus,Mercedes-Benz,Citaro,Café
+941,842,8627 YWY,Moto,Yamaha,MT-125,Amarillo
+942,843,6687 VSJ,Moto,Benelli,Leoncino 500,Amarillo
+943,844,8714 HPB,Bus,Irizar,i6,Naranja
+944,845,A 2001 JC,Auto,Mazda,CX-3,Azul
+945,846,IB 3874 CA,Bus,Irizar,i4,Gris
+946,847,5466 JMG,Bus,Scania,Irizar i6,Azul
+947,848,2479 KJL,Auto,Renault,Talisman,Blanco
+948,849,4612 MTB,Moto,KTM,390 Adventure,Plateado
+949,850,7852 XTW,Moto,Honda,Africa Twin,Azul
+950,851,0347 RRZ,Moto,Yamaha,XSR700,Negro
+951,852,V 4000 CI,Bus,Scania,Serie K,Amarillo
+952,853,LE 9466 IW,Auto,Toyota,Prius,Naranja
+953,854,7930 CRT,Moto,Suzuki,GSX-R600,Amarillo
+954,855,VA 0075 BV,Moto,Yamaha,YS125,Negro
+955,856,6138 ZYC,Moto,Yamaha,R15,Blanco
+956,857,3141 JXD,Moto,Suzuki,GSX-R600,Plateado
+957,858,GC 7988 PO,Auto,Chevrolet,Equinox,Plateado
+958,859,GU 5310 ES,Moto,Honda,Rebel 500,Naranja
+959,860,6107 RCT,Bus,Mercedes-Benz,OH1621,Naranja
+960,861,2184 CTW,Auto,Mazda,RX-8,Gris
+961,862,0199 RSX,Auto,Mazda,RX-8,Naranja
+962,863,1085 XVF,Bus,Scania,Irizar i6,Azul
+963,864,M 7870 FB,Bus,MAN,TGE,Naranja
+964,865,5384 JDF,Bus,Irizar,i6 Integral,Amarillo
+965,866,C 0438 BZ,Auto,Renault,Sandero,Gris
+966,867,6998 YLL,Moto,Yamaha,MT-125,Naranja
+967,868,7630 NCV,Bus,Volvo,7900 Hybrid,Verde
+968,869,5375 LVS,Bus,Mercedes-Benz,OH1621,Café
+969,870,BA 3638 YM,Bus,Mercedes-Benz,OC500,Amarillo
+970,871,4446 ZYV,Auto,Renault,Logan,Blanco
+971,872,GR 9468 XU,Bus,Volvo,9900,Café
+972,873,3444 HSX,Auto,Toyota,Avanza,Gris
+973,874,OU 6869 ZA,Auto,Renault,Fluence,Plateado
+974,875,H 1662 OD,Moto,Benelli,Imperiale 400,Amarillo
+975,876,4723 RNX,Bus,Scania,Metrolink,Rojo
+976,877,CR 0193 SD,Moto,Yamaha,NMAX155,Plateado
+977,878,GE 1581 YX,Moto,Benelli,502C,Negro
+978,879,GU 7550 EO,Moto,Yamaha,XSR700,Gris
+979,880,3806 JVD,Bus,Scania,Citywide,Azul
+980,881,SG 1407 KW,Bus,Volvo,7900 Electric,Gris
+981,882,2520 SMJ,Bus,Mercedes-Benz,OH1621,Amarillo
+982,883,0407 VLN,Bus,MAN,MAN A23,Café
+983,884,1591 WYC,Moto,Benelli,TRK 251,Rojo
+984,885,LO 0961 AX,Moto,Honda,CBR500R,Gris
+985,886,OR 3024 DD,Bus,Scania,Irizar i8,Negro
+986,887,8272 VMP,Bus,Irizar,i3,Verde
+987,888,T 2650 PM,Auto,Kia,Niro,Gris
+988,889,AB 9080 VE,Auto,Mazda,Mazda 2,Café
+989,890,J 1502 IK,Auto,Mazda,Mazda 6,Azul
+990,891,SA 3856 LI,Auto,Chevrolet,Cruze,Verde
+991,892,IB 7983 LM,Auto,Toyota,C-HR,Gris
+992,893,6559 HKR,Auto,Chevrolet,Captiva,Plateado
+993,894,HU 8827 WH,Moto,Honda,Africa Twin,Azul
+994,895,2312 LVS,Auto,Kia,Telluride,Amarillo
+995,896,2233 WTR,Bus,Irizar,i6S,Naranja
+996,897,BA 7447 MF,Bus,Irizar,i6S,Negro
+997,898,SO 6006 SW,Moto,Benelli,Tornado 302,Café
+998,899,2441 DSR,Bus,Scania,Irizar i6,Verde
+999,900,PM 9181 OW,Moto,Suzuki,Gixxer SF 250,Gris
+1000,901,MA 2826 WL,Bus,Irizar,i6,Gris
+1001,902,CS 7380 VD,Bus,Scania,Interlink,Gris
+1002,903,J 3290 SC,Bus,MAN,Neoplan Cityliner,Café
+1003,904,6920 XCL,Auto,Chevrolet,Traverse,Azul
+1004,905,NA 2826 GO,Bus,Scania,Interlink,Azul
+1005,906,3204 MLM,Bus,Volvo,B8R,Naranja
+1006,907,4326 LVF,Moto,Honda,X-ADV,Rojo
+1007,908,1943 KMY,Bus,Irizar,i6S,Plateado
+1008,909,8305 YKN,Moto,Benelli,BN 125,Rojo
+1009,910,1975 FBJ,Auto,Mazda,Mazda 6,Gris
+1010,911,5245 DFB,Auto,Chevrolet,Traverse,Café
+1011,912,9763 TGS,Bus,MAN,MAN NL263,Verde
+1012,913,CR 9403 OD,Bus,Volvo,9700,Rojo
+1013,914,4799 PDZ,Bus,MAN,MAN NL263,Verde
+1014,915,B 3503 DV,Auto,Mazda,BT-50,Rojo
+1015,916,T 3211 VK,Bus,Volvo,B9TL,Café
+1016,917,5325 DNC,Bus,Irizar,i2e,Amarillo
+1017,918,1141 DYT,Bus,MAN,MAN SL202,Negro
+1018,919,B 6933 SY,Moto,KTM,450 EXC-F,Azul
+1019,920,3909 NYY,Auto,Mazda,Mazda 3,Blanco
+1020,921,LU 0048 CZ,Bus,Mercedes-Benz,OF1721,Café
+1021,922,9418 YWZ,Moto,Yamaha,NMAX155,Plateado
+1022,923,5308 RMN,Moto,KTM,RC 200,Gris
+1023,924,GR 8536 IL,Auto,Mazda,CX-3,Blanco
+1024,925,9995 PLW,Moto,Honda,CBR500R,Verde
+1025,926,3318 WSW,Auto,Renault,Kwid,Negro
+1026,927,AL 3533 ZI,Bus,Volvo,9900,Naranja
+1027,928,O 6471 CP,Moto,Yamaha,Ténéré 700,Amarillo
+1028,929,IB 0237 KW,Moto,Honda,X-ADV,Café
+1029,930,SG 6599 NL,Auto,Renault,Megane,Plateado
+1030,931,3038 CZP,Moto,KTM,RC 200,Rojo
+1031,932,2311 BMS,Moto,Benelli,TNT 135,Rojo
+1032,933,9767 MBG,Moto,Yamaha,YS125,Blanco
+1033,934,3928 SMN,Auto,Kia,Niro,Café
+1034,935,P 1720 OU,Moto,KTM,125 Duke,Amarillo
+1035,936,S 4918 DJ,Bus,Volvo,9700,Rojo
+1036,937,SE 1382 VI,Auto,Toyota,RAV4,Gris
+1037,938,BI 7294 DU,Auto,Mazda,CX-9,Verde
+1038,939,1994 YDF,Bus,Mercedes-Benz,Intouro,Azul
+1039,940,4576 BMG,Auto,Kia,Optima,Blanco
+1040,941,MU 0790 CI,Bus,Volvo,B11R,Azul
+1041,942,VA 4665 WW,Moto,Yamaha,XSR700,Naranja
+1042,943,J 6247 PA,Auto,Kia,Telluride,Blanco
+1043,944,7876 SMS,Bus,Volvo,B13R,Blanco
+1044,945,8255 ZDZ,Moto,Yamaha,NMAX155,Plateado
+1045,946,7140 RTW,Auto,Mazda,Mazda 2,Verde
+1046,947,ZA 5287 VP,Bus,Volvo,9900,Plateado
+1047,948,GE 2152 IM,Moto,Suzuki,Intruder 150,Plateado
+1048,949,C 1191 CO,Auto,Chevrolet,Tracker,Gris
+1049,950,AL 3331 IH,Bus,MAN,MAN NL263,Rojo
+1050,951,7542 CGV,Auto,Kia,Niro,Amarillo
+1051,952,PO 3668 ND,Moto,Suzuki,GSX-R600,Amarillo
+1052,953,CS 7221 UI,Bus,Volvo,B9TL,Plateado
+1053,954,BU 2166 ZZ,Bus,Mercedes-Benz,O500,Blanco
+1054,955,NA 4701 TY,Moto,Benelli,Leoncino 500,Amarillo
+1055,956,9699 VTT,Moto,Yamaha,XSR700,Verde
+1056,957,J 0519 XK,Auto,Mazda,CX-5,Amarillo
+1057,958,VI 5294 MA,Auto,Kia,Niro,Café
+1058,959,7149 YYB,Auto,Toyota,Camry,Café
+1059,960,LU 6194 CI,Bus,MAN,MAN NL263,Café
+1060,961,3926 FMS,Moto,Honda,PCX 125,Azul
+1061,962,8702 XHR,Moto,Suzuki,VanVan 125,Amarillo
+1062,963,BI 0533 JO,Moto,Honda,CB500X,Verde
+1063,964,Z 0650 OJ,Bus,MAN,MAN A39,Rojo
+1064,965,P 5056 JX,Moto,Suzuki,Hayabusa,Café
+1065,966,AV 5819 SY,Auto,Kia,Sorento,Rojo
+1066,967,SE 7301 IB,Auto,Renault,Stepway,Azul
+1067,968,3065 XLF,Auto,Chevrolet,Onix,Azul
+1068,969,CS 2067 BJ,Moto,KTM,125 Duke,Blanco
+1069,970,LE 4453 TU,Moto,Yamaha,FZ25,Gris
+1070,971,0807 TTP,Bus,Mercedes-Benz,Conecto,Blanco
+1071,972,8741 RPJ,Auto,Toyota,Prius,Gris
+1072,973,AV 8922 WF,Auto,Mazda,CX-3,Café
+1073,974,7346 PWJ,Auto,Kia,Sorento,Gris
+1074,975,TO 3125 NU,Auto,Toyota,Avanza,Rojo
+1075,976,AV 1342 LY,Moto,Honda,PCX 125,Blanco
+1076,977,CO 7161 TZ,Auto,Renault,Fluence,Blanco
+1077,978,1996 TJY,Auto,Renault,Megane,Plateado
+1078,979,CA 2918 YI,Moto,Suzuki,GSX-R600,Verde
+1079,980,4582 JBG,Auto,Renault,Talisman,Blanco
+1080,981,7912 CFZ,Moto,Yamaha,YS125,Negro
+1081,982,GI 3873 LC,Moto,Benelli,Tornado 302,Café
+1082,983,4214 LCF,Auto,Mazda,Mazda 6,Verde
+1083,984,S 1464 DD,Auto,Chevrolet,Tahoe,Gris
+1084,985,4719 WGW,Bus,Volvo,B12B,Rojo
+1085,986,8340 SJL,Bus,MAN,MAN NL263,Café
+1086,987,LU 4310 TE,Moto,Benelli,Leoncino 500,Negro
+1087,988,4193 JYT,Auto,Mazda,Mazda 2,Negro
+1088,989,CE 1398 KZ,Bus,Irizar,i6S Efficient,Gris
+1089,990,PO 0687 BN,Auto,Chevrolet,Equinox,Café
+1090,991,8265 ZRP,Auto,Toyota,Yaris,Amarillo
+1091,992,4880 FVY,Auto,Toyota,Yaris,Amarillo
+1092,993,5083 JCP,Bus,Volvo,B13R,Naranja
+1093,994,9963 NBL,Auto,Renault,Duster,Gris
+1094,995,1390 RDP,Bus,Volvo,B12B,Azul
+1095,996,M 2520 AZ,Auto,Kia,Cerato,Naranja
+1096,997,GU 5301 GD,Bus,Scania,Metrolink,Amarillo
+1097,998,CU 9285 CA,Bus,MAN,MAN SL202,Verde
+1098,999,0465 ZHF,Bus,Volvo,B7RLE,Café
+1099,1000,OU 6600 FL,Auto,Renault,Stepway,Café
+1100,1001,PO 9165 GI,Auto,Mazda,MX-5,Plateado
+1101,1002,0316 LPY,Moto,Yamaha,Ténéré 700,Amarillo
+1102,1003,0485 XCP,Auto,Chevrolet,Spark,Rojo
+1103,1004,5420 FSM,Bus,Irizar,i2e,Amarillo
+1104,1005,NA 4658 TX,Moto,Suzuki,GSX-R600,Plateado
+1105,1006,8915 DYN,Bus,MAN,MAN SL202,Plateado
+1106,1007,SE 9474 LF,Bus,Mercedes-Benz,Citaro,Gris
+1107,1008,OR 0695 KW,Moto,KTM,390 Adventure,Café
+1108,1009,9360 PHH,Moto,Yamaha,Fazer 250,Verde
+1109,1010,LU 7079 SC,Auto,Mazda,CX-30,Rojo
+1110,1011,SS 1006 HH,Bus,Scania,Serie K,Naranja
+1111,1012,8985 RVC,Auto,Kia,Niro,Verde
+1112,1013,7477 LJL,Auto,Chevrolet,Cruze,Rojo
+1113,1014,AV 3235 CA,Moto,Honda,Rebel 500,Blanco
+1114,1015,C 7499 FI,Moto,Honda,Africa Twin,Negro
+1115,1016,4077 RMV,Bus,Mercedes-Benz,OH1621,Naranja
+1116,1017,L 5335 WH,Auto,Mazda,CX-5,Verde
+1117,1018,PO 8218 DO,Bus,Irizar,i2e,Blanco
+1118,1019,8594 HPH,Moto,Benelli,Tornado 302,Gris
+1119,1020,T 2125 PU,Moto,Honda,CB500X,Plateado
+1120,1021,M 4987 BU,Bus,Volvo,B9TL,Naranja
+1121,1022,5142 JHG,Bus,Mercedes-Benz,Sprinter,Gris
+1122,1023,9429 LPN,Moto,Yamaha,NMAX155,Azul
+1123,1024,6017 MVW,Moto,Suzuki,Burgman 400,Naranja
+1124,1025,MA 3735 AT,Bus,Irizar,i6 Integral,Negro
+1125,1026,OR 4010 FJ,Bus,Scania,OmniLink,Azul
+1126,1027,2115 BDC,Bus,Scania,Scania F94,Plateado
+1127,1028,CU 6867 IA,Bus,Scania,Citywide,Rojo
+1128,1029,3535 GXH,Bus,Mercedes-Benz,Intouro,Café
+1129,1030,PM 3197 MY,Bus,Scania,Irizar i6,Azul
+1130,1031,7686 ZXS,Moto,Yamaha,FZ25,Amarillo
+1131,1032,3014 TPB,Bus,MAN,MAN A39,Verde
+1132,1033,GR 7107 WN,Moto,KTM,250 Duke,Negro
+1133,1034,0373 GBP,Moto,Yamaha,YS125,Plateado
+1134,1035,LO 0696 NT,Moto,Suzuki,V-Strom 650,Rojo
+1135,1036,3789 DYY,Auto,Renault,Megane,Gris
+1136,1037,SO 3645 UU,Bus,Irizar,Century,Plateado
+1137,1038,O 5780 UI,Auto,Kia,Seltos,Negro
+1138,1039,SA 4951 PN,Auto,Toyota,Hilux,Plateado
+1139,1040,7300 CWG,Bus,Scania,Irizar i6,Negro
+1140,1041,LE 6679 UZ,Moto,KTM,250 Duke,Café
+1141,1042,GC 1489 DY,Moto,Suzuki,GSX-S750,Amarillo
+1142,1043,CR 4774 KE,Auto,Chevrolet,Malibu,Rojo
+1143,1044,BA 8590 HE,Auto,Renault,Captur,Negro
+1144,1045,H 0426 WO,Bus,Scania,Scania F94,Verde
+1145,1046,8827 RVV,Auto,Kia,Seltos,Rojo
+1146,1047,OR 7959 KA,Moto,Suzuki,SV650,Negro
+1147,1048,GU 9223 NZ,Moto,KTM,450 EXC-F,Negro
+1148,1049,7964 HLC,Bus,Mercedes-Benz,Tourismo,Rojo
+1149,1050,5230 GSL,Moto,KTM,890 Duke R,Amarillo
+1150,1051,2093 JDB,Auto,Toyota,Corolla,Azul
+1151,1052,CR 9273 ZM,Bus,Irizar,Century,Rojo
+1152,1053,CO 5772 DN,Auto,Renault,Logan,Azul
+1153,1054,2900 JKY,Bus,Irizar,i4,Verde
+1154,1055,SS 3451 BJ,Bus,Volvo,B11R,Negro
+1155,1056,TE 1534 UM,Auto,Kia,Telluride,Plateado
+1156,1057,AB 3607 IE,Bus,Scania,Citywide,Rojo
+1157,1058,BU 8126 BS,Auto,Chevrolet,Cruze,Blanco
+1158,1059,6082 PVL,Auto,Mazda,CX-3,Café
+1159,1060,M 5432 CF,Moto,Honda,CRF250L,Verde
+1160,1061,C 2389 OF,Auto,Toyota,Avanza,Blanco
+1161,1062,3910 PJY,Auto,Mazda,RX-8,Café
+1162,1063,HU 1188 WD,Moto,Honda,Rebel 500,Café
+1163,1064,AL 0060 WL,Moto,Honda,CB500X,Amarillo
+1164,1065,GE 9937 ZV,Bus,Irizar,i4,Naranja
+1165,1066,2300 JSY,Auto,Chevrolet,Trailblazer,Blanco
+1166,1067,GI 2722 CX,Moto,Benelli,302S,Negro
+1167,1068,2496 FPG,Bus,Volvo,B9TL,Blanco
+1168,1069,8597 JPS,Auto,Mazda,Mazda 6,Amarillo
+1169,1070,SA 2268 HS,Moto,Honda,PCX 125,Rojo
+1170,1071,5920 VVN,Auto,Renault,Megane,Naranja
+1171,1072,C 1907 TK,Auto,Renault,Kwid,Azul
+1172,1073,SA 3934 LY,Moto,KTM,125 Duke,Negro
+1173,1074,0682 NLW,Bus,MAN,Neoplan Cityliner,Negro
+1174,1075,C 4842 CB,Moto,Yamaha,NMAX155,Naranja
+1175,1076,2938 YZD,Moto,Yamaha,FZ25,Naranja
+1176,1077,GE 3641 IW,Auto,Kia,Picanto,Azul
+1177,1078,CU 8829 XT,Auto,Kia,Optima,Azul
+1178,1079,9982 NFD,Bus,MAN,MAN A21,Plateado
+1179,1080,3415 BMV,Auto,Renault,Megane,Azul
+1180,1081,CC 8267 PA,Auto,Toyota,Avanza,Negro
+1181,1082,8974 PJC,Bus,MAN,MAN A39,Azul
+1182,1083,6888 FMH,Auto,Kia,Telluride,Amarillo
+1183,1084,8283 ZYB,Bus,MAN,MAN A39,Café
+1184,1085,2064 MRY,Bus,Volvo,7900 Hybrid,Blanco
+1185,1086,T 6859 AO,Auto,Mazda,CX-3,Rojo
+1186,1087,9407 NJV,Auto,Toyota,Corolla,Verde
+1187,1088,TO 2480 VX,Bus,Mercedes-Benz,Travego,Amarillo
+1188,1089,5737 LBH,Moto,Suzuki,SV650,Café
+1189,1090,TF 5028 JX,Bus,MAN,Neoplan Skyliner,Gris
+1190,1091,0279 XWD,Moto,Suzuki,V-Strom 650,Blanco
+1191,1092,BU 2103 VC,Bus,Irizar,i8,Rojo
+1192,1093,TO 1384 BG,Bus,Irizar,PB,Naranja
+1193,1094,A 8725 YA,Bus,Volvo,B12B,Rojo
+1194,1095,1727 JSL,Moto,KTM,RC 200,Amarillo
+1195,1096,CS 3992 JW,Moto,KTM,690 Enduro R,Naranja
+1196,1097,8324 SPC,Moto,KTM,890 Duke R,Plateado
+1197,1098,SS 5429 MB,Bus,Irizar,i6 Integral,Verde
+1198,1099,CO 4840 YS,Auto,Renault,Kwid,Gris
+1199,1100,6079 GLG,Auto,Toyota,C-HR,Amarillo
+1200,1101,C 1568 FA,Bus,Scania,OmniLink,Amarillo
+1201,1102,CO 7362 XU,Auto,Toyota,Prius,Azul
+1202,1103,3743 XZD,Bus,Scania,Metrolink,Blanco
+1203,1104,CS 7611 TL,Auto,Kia,Stinger,Café
+1204,1105,IB 8949 LN,Moto,Yamaha,FZ25,Naranja
+1205,1106,1981 LHS,Auto,Mazda,RX-8,Rojo
+1206,1107,SS 9723 YP,Moto,Yamaha,XSR700,Rojo
+1207,1108,7005 TPZ,Moto,Suzuki,SV650,Gris
+1208,1109,3429 GXD,Auto,Mazda,MX-5,Blanco
+1209,1110,3580 BKJ,Bus,Scania,Scania L94,Azul
+1210,1111,8035 LBN,Bus,Volvo,9900,Plateado
+1211,1112,7190 VSS,Auto,Chevrolet,Tracker,Plateado
+1212,1113,SS 3268 OM,Bus,Irizar,i2e,Blanco
+1213,1114,SA 7419 KE,Moto,KTM,390 Adventure,Blanco
+1214,1115,SA 1100 EE,Bus,Volvo,B8R,Azul
+1215,1116,TF 0649 UJ,Auto,Toyota,RAV4,Café
+1216,1117,OR 2391 XF,Bus,Volvo,B12B,Rojo
+1217,1118,7637 SLC,Auto,Toyota,Corolla,Naranja
+1218,1119,0897 XCS,Bus,Scania,Irizar i8,Plateado
+1219,1120,1540 BMD,Moto,KTM,RC 390,Gris
+1220,1121,B 3659 BJ,Bus,Scania,Scania F94,Café
+1221,1122,T 1740 TG,Auto,Kia,Cerato,Café
+1222,1123,V 3027 KH,Auto,Kia,Optima,Plateado
+1223,1124,1693 NBZ,Auto,Toyota,Avanza,Rojo
+1224,1125,MA 4069 MW,Moto,KTM,RC 390,Rojo
+1225,1126,3247 ZNV,Auto,Chevrolet,Malibu,Negro
+1226,1127,B 6050 UL,Bus,Irizar,i8,Café
+1227,1128,SO 8632 PT,Bus,Scania,Citywide,Plateado
+1228,1129,T 9032 KT,Auto,Toyota,RAV4,Negro
+1229,1130,7626 NLT,Moto,KTM,125 Duke,Rojo
+1230,1131,MU 4604 TV,Auto,Renault,Koleos,Blanco
+1231,1132,3302 CBH,Moto,Suzuki,GSX-S750,Naranja
+1232,1133,V 5320 VU,Moto,Honda,Rebel 500,Blanco
+1233,1134,9941 SXT,Moto,Suzuki,Hayabusa,Gris
+1234,1135,8442 WFV,Bus,Irizar,i6,Negro
+1235,1136,S 5479 AY,Bus,Mercedes-Benz,Tourismo,Gris
+1236,1137,9423 RBJ,Auto,Chevrolet,Tahoe,Rojo
+1237,1138,SS 6683 PP,Auto,Renault,Duster,Plateado
+1238,1139,CC 9814 DL,Moto,KTM,1290 Super Duke R,Rojo
+1239,1140,ML 7485 XY,Moto,Honda,CRF250L,Café
+1240,1141,2423 YTW,Bus,Scania,Citywide,Café
+1241,1142,5071 THG,Bus,Irizar,i4,Naranja
+1242,1143,3173 XPV,Auto,Toyota,Avanza,Amarillo
+1243,1144,SO 4918 TC,Moto,Suzuki,Gixxer SF 250,Plateado
+1244,1145,4034 PMF,Bus,Mercedes-Benz,Conecto,Gris
+1245,1146,5393 MCW,Auto,Toyota,Yaris,Amarillo
+1246,1147,CU 9217 NJ,Auto,Kia,Picanto,Blanco
+1247,1148,9709 VDY,Moto,Honda,CB500X,Negro
+1248,1149,Z 2833 YC,Auto,Kia,Picanto,Naranja
+1249,1150,1145 VSW,Moto,Suzuki,Intruder 150,Gris
+1250,1151,TF 5851 PU,Auto,Chevrolet,Onix,Naranja
+1251,1152,GI 0094 NM,Auto,Toyota,Hilux,Amarillo
+1252,1153,6768 SMJ,Bus,Irizar,PB,Negro
+1253,1154,SG 3185 ZM,Bus,Irizar,i6S,Rojo
+1254,1155,SO 0729 DD,Bus,Mercedes-Benz,OC500,Café
+1255,1156,5071 RBP,Bus,Volvo,7900 Hybrid,Negro
+1256,1157,1715 HHS,Bus,Volvo,B11R,Amarillo
+1257,1158,ML 2954 IT,Moto,Honda,CB125F,Negro
+1258,1159,CU 8515 UI,Moto,Honda,PCX 125,Negro
+1259,1160,AV 6897 NL,Auto,Renault,Megane,Azul
+1260,1161,8708 DHV,Bus,Volvo,B11R,Azul
+1261,1162,ML 0593 DC,Auto,Mazda,BT-50,Amarillo
+1262,1163,4470 ZTF,Bus,Irizar,Century,Rojo
+1263,1164,1564 PZX,Auto,Mazda,BT-50,Verde
+1264,1165,5985 SGS,Auto,Mazda,Mazda 2,Naranja
+1265,1166,CR 8338 NF,Auto,Kia,Telluride,Blanco
+1266,1167,6985 GGN,Bus,MAN,Lion's City,Naranja
+1267,1168,BA 0598 NH,Moto,Suzuki,DR-Z400,Negro
+1268,1169,SE 9309 SK,Moto,Yamaha,R15,Blanco
+1269,1170,CA 0520 HO,Moto,Yamaha,Ténéré 700,Rojo
+1270,1171,8911 LNF,Bus,Scania,Touring,Negro
+1271,1172,9535 XGB,Bus,Volvo,9900,Negro
+1272,1173,ZA 3834 NY,Bus,Irizar,Century,Blanco
+1273,1174,1638 YLT,Bus,Irizar,i2e,Rojo
+1274,1175,3468 TMC,Moto,KTM,1290 Super Duke R,Plateado
+1275,1176,0941 GCP,Auto,Renault,Megane,Blanco
+1276,1177,TO 1876 MU,Moto,Yamaha,XSR700,Plateado
+1277,1178,5355 HHL,Moto,Suzuki,VanVan 125,Amarillo
+1278,1179,8627 LDH,Auto,Toyota,Yaris,Rojo
+1279,1180,LU 6268 SW,Bus,Mercedes-Benz,Intouro,Amarillo
+1280,1181,BI 7453 MW,Auto,Renault,Stepway,Gris
+1281,1182,0299 FLL,Bus,Volvo,B13R,Azul
+1282,1183,6210 MNL,Auto,Chevrolet,Captiva,Rojo
+1283,1184,6137 RSC,Auto,Toyota,C-HR,Naranja
+1284,1185,OU 9746 FM,Moto,Benelli,TRK 251,Plateado
+1285,1186,8783 SBR,Moto,Benelli,Imperiale 400,Amarillo
+1286,1187,NA 7457 FE,Bus,Mercedes-Benz,OF1721,Naranja
+1287,1188,P 1543 EK,Moto,Honda,CB650R,Rojo
+1288,1189,9350 XZP,Auto,Chevrolet,Trailblazer,Amarillo
+1289,1190,1808 KNL,Moto,Suzuki,DR-Z400,Azul
+1290,1191,SA 4933 JU,Bus,MAN,MAN NL263,Rojo
+1291,1192,AV 5139 LC,Auto,Chevrolet,Tracker,Azul
+1292,1193,BA 1164 OX,Auto,Chevrolet,Trailblazer,Verde
+1293,1194,0351 NTV,Auto,Renault,Duster,Amarillo
+1294,1195,0327 MLC,Auto,Mazda,CX-30,Plateado
+1295,1196,1895 HXM,Moto,Suzuki,SV650,Gris
+1296,1197,6989 GKZ,Auto,Renault,Koleos,Plateado
+1297,1198,M 8902 BG,Auto,Mazda,Mazda 6,Blanco
+1298,1199,VA 9414 KZ,Moto,Suzuki,V-Strom 650,Blanco
+1299,1200,VA 8339 UV,Bus,MAN,MAN A23,Negro
+1300,1201,8731 WJL,Moto,Honda,CB650R,Amarillo
+1301,1202,MA 7364 LM,Moto,KTM,390 Adventure,Blanco
+1302,1203,BU 9872 MM,Auto,Chevrolet,Cruze,Blanco
+1303,1204,J 1909 MW,Auto,Toyota,Fortuner,Negro
+1304,1205,A 8528 CX,Auto,Mazda,CX-30,Azul
+1305,1206,LO 7392 OS,Auto,Toyota,Land Cruiser,Rojo
+1306,1207,0802 FFG,Auto,Chevrolet,Malibu,Gris
+1307,1208,2053 DWX,Auto,Mazda,CX-3,Plateado
+1308,1209,3440 BXN,Auto,Chevrolet,Cruze,Verde
+1309,1210,SA 7132 UA,Auto,Chevrolet,Trailblazer,Negro
+1310,1211,3104 XPZ,Auto,Kia,Telluride,Naranja
+1311,1212,8130 MDP,Auto,Chevrolet,Spark,Naranja
+1312,1213,LO 3808 HM,Moto,Honda,CRF250L,Verde
+1313,1214,1444 MYT,Auto,Kia,Seltos,Plateado
+1314,1215,5336 PYL,Moto,Honda,CBR650R,Plateado
+1315,1216,AV 3916 EC,Moto,Suzuki,GSX-S750,Rojo
+1316,1217,1294 YLB,Auto,Chevrolet,Tracker,Blanco
+1317,1218,5703 GCG,Bus,Mercedes-Benz,Conecto,Amarillo
+1318,1219,BI 0223 WE,Bus,Volvo,7900 Electric,Verde
+1319,1220,4365 KKK,Auto,Kia,Picanto,Gris
+1320,1221,5086 TPV,Moto,KTM,RC 200,Azul
+1321,1222,8561 ZKZ,Bus,Mercedes-Benz,OC500,Naranja
+1322,1223,CU 1814 EG,Auto,Kia,Picanto,Gris
+1323,1224,CA 4418 EE,Bus,Mercedes-Benz,OC500,Naranja
+1324,1225,9069 TBG,Bus,Mercedes-Benz,Tourismo,Azul
+1325,1226,Z 1650 WE,Moto,Yamaha,XMAX 300,Azul
+1326,1227,VI 8676 VN,Bus,Irizar,i3,Verde
+1327,1228,J 5617 XC,Moto,Honda,CB500X,Negro
+1328,1229,3340 HGP,Bus,Irizar,i6,Amarillo
+1329,1230,5811 RFV,Moto,Benelli,TNT 600,Azul
+1330,1231,4442 KTY,Bus,Volvo,7900 Electric,Gris
+1331,1232,VI 6745 AU,Moto,Yamaha,Ténéré 700,Blanco
+1332,1233,P 9750 ZK,Auto,Mazda,MX-5,Blanco
+1333,1234,6030 YXJ,Auto,Renault,Stepway,Amarillo
+1334,1235,4847 FZD,Moto,KTM,390 Adventure,Negro
+1335,1236,7739 HHF,Auto,Mazda,Mazda 6,Azul
+1336,1237,ML 4585 DV,Auto,Chevrolet,Malibu,Negro
+1337,1238,9910 SMF,Auto,Chevrolet,Captiva,Negro
+1338,1239,5442 HKC,Auto,Kia,Optima,Blanco
+1339,1240,8585 WWR,Auto,Mazda,RX-8,Rojo
+1340,1241,T 9789 PJ,Auto,Kia,Cerato,Azul
+1341,1242,5050 VSS,Bus,Irizar,i6S Efficient,Naranja
+1342,1243,5304 NVY,Auto,Renault,Duster,Verde
+1343,1244,0170 YNG,Bus,Irizar,i6S Efficient,Amarillo
+1344,1245,SE 5049 GB,Bus,Irizar,i4,Café
+1345,1246,MA 5900 UJ,Bus,Irizar,i4,Café
+1346,1247,5198 GJZ,Auto,Chevrolet,Tahoe,Azul
+1347,1248,0954 KNB,Bus,MAN,Neoplan Skyliner,Negro
+1348,1249,4582 DNV,Auto,Chevrolet,Spark,Azul
+1349,1250,VI 4304 JP,Auto,Renault,Kwid,Café
+1350,1251,3990 FTW,Moto,Benelli,TRK 251,Gris
+1351,1252,8159 PKW,Bus,Mercedes-Benz,Intouro,Plateado
+1352,1253,5681 YDW,Auto,Mazda,Mazda 2,Verde
+1353,1254,SS 3688 OM,Bus,MAN,Neoplan Cityliner,Plateado
+1354,1255,2375 FYK,Auto,Kia,Stinger,Negro
+1355,1256,7072 RJD,Auto,Kia,Optima,Negro
+1356,1257,0051 ZKK,Bus,Mercedes-Benz,Citaro,Verde
+1357,1258,PO 1702 LA,Bus,Irizar,i6 Integral,Gris
+1358,1259,5984 XCS,Auto,Toyota,RAV4,Naranja
+1359,1260,O 4712 OH,Bus,Irizar,i6,Amarillo
+1360,1261,3550 SWP,Bus,Scania,OmniLink,Naranja
+1361,1262,5897 YJF,Moto,KTM,RC 390,Blanco
+1362,1263,GE 8247 OI,Auto,Kia,Stinger,Naranja
+1363,1264,8706 GLK,Auto,Toyota,Fortuner,Naranja
+1364,1265,7358 TJY,Moto,KTM,250 Duke,Naranja
+1365,1266,5409 CJW,Bus,MAN,MAN SL202,Rojo
+1366,1267,SE 5127 VF,Auto,Kia,Seltos,Amarillo
+1367,1268,2991 TMK,Auto,Renault,Sandero,Rojo
+1368,1269,4373 VFJ,Moto,Honda,X-ADV,Verde
+1369,1270,BA 6124 ZG,Auto,Renault,Talisman,Verde
+1370,1271,BU 4735 WE,Moto,KTM,690 Enduro R,Blanco
+1371,1272,6864 RXG,Auto,Kia,Seltos,Rojo
+1372,1273,CO 9432 MU,Auto,Kia,Rio,Gris
+1373,1274,8981 PXF,Bus,Mercedes-Benz,OH1621,Verde
+1374,1275,8654 YTF,Bus,Mercedes-Benz,Sprinter,Café
+1375,1276,MU 1042 ZS,Bus,Irizar,i6S Efficient,Rojo
+1376,1277,3898 BKR,Bus,MAN,Neoplan Cityliner,Amarillo
+1377,1278,ML 3894 XF,Auto,Renault,Koleos,Naranja
+1378,1279,GC 5531 GZ,Auto,Chevrolet,Trailblazer,Plateado
+1379,1280,NA 7765 ZS,Moto,Honda,X-ADV,Gris
+1380,1281,4862 MXD,Bus,Mercedes-Benz,Conecto,Blanco
+1381,1282,3350 CWF,Auto,Chevrolet,Malibu,Naranja
+1382,1283,TE 3999 EZ,Bus,Irizar,i2e,Verde
+1383,1284,GE 2843 SP,Moto,Benelli,TRK 251,Azul
+1384,1285,BU 7677 IP,Moto,KTM,890 Duke R,Plateado
+1385,1286,7997 MCF,Bus,Irizar,i6S,Verde
+1386,1287,7724 XPF,Bus,Mercedes-Benz,Conecto,Plateado
+1387,1288,BU 6291 FV,Bus,Volvo,B7RLE,Gris
+1388,1289,MU 4550 VB,Auto,Mazda,CX-3,Amarillo
+1389,1290,O 9566 TN,Moto,Yamaha,R15,Plateado
+1390,1291,6541 XGK,Moto,Honda,Africa Twin,Rojo
+1391,1292,0384 KZS,Auto,Toyota,Fortuner,Blanco
+1392,1293,MA 0053 KD,Bus,Irizar,i6S,Blanco
+1393,1294,MU 1415 XG,Moto,Suzuki,VanVan 125,Plateado
+1394,1295,LE 9118 TK,Bus,Volvo,7900 Hybrid,Naranja
+1395,1296,CU 3192 KH,Moto,Honda,CBR650R,Café
+1396,1297,1802 DHL,Moto,Suzuki,Gixxer SF 250,Gris
+1397,1298,6013 GHK,Auto,Mazda,CX-30,Verde
+1398,1299,OU 5334 IY,Moto,Suzuki,SV650,Negro
+1399,1300,NA 8811 VW,Moto,Benelli,TRK 502,Negro
+1400,1301,VA 8371 VO,Bus,Mercedes-Benz,Conecto,Verde
+1401,1302,LU 6538 FD,Moto,Yamaha,XSR700,Azul
+1402,1303,3846 WMB,Bus,Mercedes-Benz,Sprinter,Blanco
+1403,1304,H 4673 FB,Auto,Toyota,Avanza,Blanco
+1404,1305,AB 9957 MU,Moto,Benelli,BN 125,Verde
+1405,1306,MU 3124 SA,Bus,Volvo,B13R,Rojo
+1406,1307,SG 5309 DJ,Auto,Chevrolet,Malibu,Rojo
+1407,1308,B 1040 MM,Auto,Renault,Kwid,Azul
+1408,1309,4817 SRT,Moto,Benelli,Tornado 302,Azul
+1409,1310,AL 4300 TM,Moto,KTM,450 EXC-F,Azul
+1410,1311,AB 8631 US,Moto,KTM,890 Duke R,Verde
+1411,1312,P 7308 DX,Moto,Honda,CBR500R,Verde
+1412,1313,1843 RJR,Moto,KTM,125 Duke,Negro
+1413,1314,8213 TTL,Auto,Chevrolet,Captiva,Rojo
+1414,1315,VI 1209 HZ,Auto,Renault,Sandero,Verde
+1415,1316,1927 GFP,Moto,Benelli,TNT 600,Verde
+1416,1317,GU 1550 IK,Auto,Chevrolet,Trailblazer,Amarillo
+1417,1318,TO 7003 KG,Auto,Chevrolet,Tahoe,Gris
+1418,1319,8152 RWZ,Auto,Chevrolet,Traverse,Naranja
+1419,1320,PO 7666 NP,Bus,Mercedes-Benz,OH1621,Plateado
+1420,1321,CA 9568 KZ,Moto,Suzuki,GSX-S750,Amarillo
+1421,1322,2535 PZD,Moto,Yamaha,Fazer 250,Café
+1422,1323,6049 JSL,Bus,MAN,MAN A39,Verde
+1423,1324,ZA 1222 AL,Bus,Volvo,9900,Naranja
+1424,1325,1962 HDD,Moto,Yamaha,XSR700,Gris
+1425,1326,7970 SFG,Moto,Benelli,TRK 502,Gris
+1426,1327,4650 FSS,Bus,Scania,Metrolink,Rojo
+1427,1328,GC 0094 IL,Auto,Toyota,Yaris,Azul
+1428,1329,6992 ZLZ,Moto,Yamaha,NMAX155,Plateado
+1429,1330,1400 HJF,Auto,Kia,Stinger,Negro
+1430,1331,6432 JZV,Moto,Honda,CBR500R,Gris
+1431,1332,SO 8993 NV,Auto,Mazda,CX-5,Café
+1432,1333,2152 ZXB,Bus,MAN,MAN NL263,Verde
+1433,1334,L 9655 BH,Auto,Renault,Koleos,Blanco
+1434,1335,9158 FPV,Bus,Mercedes-Benz,OH1621,Gris
+1435,1336,6150 XJX,Auto,Renault,Koleos,Gris
+1436,1337,A 6686 UT,Bus,Mercedes-Benz,Intouro,Gris
+1437,1338,T 7018 IB,Bus,Mercedes-Benz,Conecto,Blanco
+1438,1339,0223 DJY,Moto,Benelli,Tornado 302,Naranja
+1439,1340,L 6673 AZ,Moto,Benelli,302S,Verde
+1440,1341,T 9036 YH,Moto,Yamaha,XSR700,Verde
+1441,1342,GC 8142 LH,Moto,Honda,CB500X,Plateado
+1442,1343,J 5617 XS,Auto,Renault,Megane,Café
+1443,1344,SE 8483 FA,Bus,Scania,Citywide,Naranja
+1444,1345,4163 NZW,Bus,Mercedes-Benz,Conecto,Gris
+1445,1346,5907 LPJ,Auto,Toyota,C-HR,Azul
+1446,1347,6266 HWR,Moto,Benelli,TRK 251,Plateado
+1447,1348,SA 5308 YG,Auto,Mazda,CX-30,Naranja
+1448,1349,LE 7421 ZV,Moto,Benelli,Leoncino 500,Blanco
+1449,1350,SE 4698 YX,Moto,Benelli,Tornado 302,Naranja
+1450,1351,H 4704 VI,Moto,KTM,690 Enduro R,Verde
+1451,1352,TE 8853 AS,Auto,Mazda,CX-3,Café
+1452,1353,BI 3069 VN,Auto,Kia,Sportage,Negro
+1453,1354,GU 4579 UC,Bus,Scania,Interlink,Azul
+1454,1355,P 7198 XA,Moto,Honda,CB125F,Azul
+1455,1356,M 1061 AZ,Bus,Irizar,i2e,Gris
+1456,1357,7210 CMY,Auto,Chevrolet,Onix,Rojo
+1457,1358,ML 6718 LB,Bus,Scania,Scania F94,Azul
+1458,1359,CC 7388 NY,Bus,Scania,Scania F94,Rojo
+1459,1360,GU 0759 EZ,Auto,Kia,Rio,Negro
+1460,1361,4394 NPJ,Moto,Benelli,TRK 251,Plateado
+1461,1362,GU 1671 ZF,Bus,Scania,Citywide,Rojo
+1462,1363,6125 VRB,Moto,Yamaha,XSR700,Amarillo
+1463,1364,4244 YDJ,Bus,Irizar,i2e,Plateado
+1464,1365,L 8703 CK,Auto,Kia,Sportage,Azul
+1465,1366,LU 0205 XW,Moto,KTM,890 Duke R,Azul
+1466,1367,2055 DDJ,Bus,Irizar,i2e,Azul
+1467,1368,L 3771 AL,Bus,Volvo,B11R,Café
+1468,1369,1027 NBH,Bus,Irizar,i6 Integral,Verde
+1469,1370,6807 YWP,Moto,KTM,1290 Super Duke R,Blanco
+1470,1371,4786 JJB,Moto,Benelli,Leoncino 500,Plateado
+1471,1372,T 3216 OH,Auto,Toyota,Corolla,Plateado
+1472,1373,6629 LSW,Moto,Honda,Rebel 500,Plateado
+1473,1374,IB 4410 AM,Moto,Yamaha,MT-125,Plateado
+1474,1375,5811 SNT,Moto,Suzuki,Burgman 400,Naranja
+1475,1376,P 9043 SL,Auto,Renault,Sandero,Blanco
+1476,1377,TF 1882 PE,Auto,Toyota,Avanza,Naranja
+1477,1378,TF 3925 OA,Moto,Suzuki,V-Strom 650,Azul
+1478,1379,SO 1240 CO,Bus,Mercedes-Benz,OH1621,Naranja
+1479,1380,6379 NZR,Auto,Renault,Megane,Blanco
+1480,1381,BA 6267 YS,Bus,Volvo,7900 Hybrid,Naranja
+1481,1382,5709 XVD,Auto,Renault,Duster,Gris
+1482,1383,5909 TCS,Bus,Irizar,i3,Naranja
+1483,1384,9426 HLX,Bus,Mercedes-Benz,OC500,Plateado
+1484,1385,0845 WHM,Moto,Yamaha,NMAX155,Naranja
+1485,1386,8075 ZZH,Moto,Honda,CB650R,Blanco
+1486,1387,8806 KJH,Moto,Honda,CB125F,Plateado
+1487,1388,8672 XFK,Auto,Renault,Megane,Café
+1488,1389,A 1416 JV,Bus,Volvo,B9TL,Blanco
+1489,1390,CO 0930 LL,Moto,Yamaha,XSR700,Naranja
+1490,1391,OU 3914 HI,Moto,Benelli,TRK 502,Azul
+1491,1392,OR 4847 YU,Auto,Renault,Fluence,Naranja
+1492,1393,2552 DJN,Auto,Toyota,Land Cruiser,Negro
+1493,1394,LO 2988 CC,Auto,Toyota,Fortuner,Blanco
+1494,1395,SE 2569 CV,Bus,Volvo,7900 Hybrid,Naranja
+1495,1396,4397 WFX,Bus,Mercedes-Benz,Travego,Azul
+1496,1397,6266 RXW,Auto,Renault,Captur,Rojo
+1497,1398,PO 9969 FB,Auto,Mazda,Mazda 3,Azul
+1498,1399,BI 6399 JB,Bus,Scania,OmniLink,Gris
+1499,1400,9887 FRJ,Bus,Scania,Interlink,Amarillo
+1500,1401,GR 3146 HM,Bus,MAN,Neoplan Skyliner,Amarillo
+1501,1402,V 2101 GD,Moto,Suzuki,Intruder 150,Rojo
+1502,1403,HU 7190 EW,Bus,Scania,Touring,Verde
+1503,1404,VI 2570 YI,Auto,Kia,Niro,Azul
+1504,1405,3241 DYV,Bus,Volvo,B11R,Plateado
+1505,1406,6219 JJD,Bus,MAN,Lion's Coach,Rojo
+1506,1407,5050 KHK,Auto,Renault,Talisman,Gris
+1507,1408,2131 LSH,Moto,KTM,1290 Super Duke R,Negro
+1508,1409,CS 8528 CG,Moto,Honda,CB500X,Naranja
+1509,1410,O 4546 UV,Bus,Mercedes-Benz,Tourismo,Naranja
+1510,1411,1232 ZXH,Moto,KTM,250 Duke,Azul
+1511,1412,5003 RWM,Moto,Honda,Rebel 500,Café
+1512,1413,CC 1811 VH,Bus,Scania,Irizar i6,Rojo
+1513,1414,TF 5572 BA,Auto,Kia,Telluride,Verde
+1514,1415,L 4494 CZ,Bus,MAN,Lion's Coach,Amarillo
+1515,1416,PM 7507 HX,Moto,Honda,CB650R,Naranja
+1516,1417,4765 NGV,Bus,Volvo,9900,Amarillo
+1517,1418,A 0493 DL,Moto,Yamaha,MT-125,Naranja
+1518,1419,6776 ZTZ,Moto,Benelli,BN 125,Plateado
+1519,1420,MU 9348 LS,Moto,Yamaha,XSR700,Blanco
+1520,1421,7642 NTH,Bus,Scania,OmniLink,Negro
+1521,1422,2432 SPV,Moto,Yamaha,YS125,Negro
+1522,1423,6767 WPN,Auto,Kia,Niro,Plateado
+1523,1424,1904 LKB,Moto,Honda,X-ADV,Plateado
+1524,1425,4747 FDJ,Auto,Mazda,Mazda 6,Naranja
+1525,1426,0889 WNR,Bus,Volvo,B11R,Naranja
+1526,1427,AL 5294 SS,Bus,Volvo,B7RLE,Plateado
+1527,1428,L 9479 BB,Moto,Suzuki,SV650,Gris
+1528,1429,MA 4281 EJ,Auto,Toyota,Camry,Blanco
+1529,1430,1054 NPG,Auto,Renault,Captur,Negro
+1530,1431,NA 5654 IC,Moto,KTM,250 Duke,Rojo
+1531,1432,4364 VHH,Bus,Scania,OmniLink,Rojo
+1532,1433,SA 8434 GP,Bus,MAN,Lion's Coach,Rojo
+1533,1434,BA 2676 CX,Auto,Kia,Optima,Azul
+1534,1435,9704 BYF,Moto,Yamaha,NMAX155,Azul
+1535,1436,ML 0534 NN,Bus,MAN,Neoplan Skyliner,Negro
+1536,1437,1059 VPB,Auto,Renault,Koleos,Naranja
+1537,1438,8952 SRT,Auto,Chevrolet,Trailblazer,Verde
+1538,1439,J 9153 HW,Auto,Mazda,Mazda 3,Café
+1539,1440,9024 YKD,Moto,KTM,390 Adventure,Gris
+1540,1441,7872 PNB,Auto,Kia,Niro,Plateado
+1541,1442,ML 1158 ZF,Moto,Yamaha,FZ25,Verde
+1542,1443,GC 0598 HM,Bus,Volvo,9700,Verde
+1543,1444,7747 NRD,Auto,Toyota,Camry,Naranja
+1544,1445,CC 2922 KL,Auto,Toyota,Land Cruiser,Plateado
+1545,1446,ZA 8949 DF,Auto,Toyota,RAV4,Azul
+1546,1447,5108 WFD,Bus,Mercedes-Benz,Tourismo,Café
+1547,1448,0875 NVN,Bus,Volvo,B11R,Gris
+1548,1449,2595 KSW,Bus,Volvo,B12B,Blanco
+1549,1450,AL 1178 KB,Bus,Volvo,9900,Rojo
+1550,1451,8587 LZY,Auto,Chevrolet,Trailblazer,Gris
+1551,1452,OU 2350 HK,Moto,Suzuki,Burgman 400,Azul
+1552,1453,OR 4544 BZ,Moto,Benelli,BN 125,Verde
+1553,1454,SS 6191 JZ,Auto,Mazda,BT-50,Amarillo
+1554,1455,7999 JJW,Bus,MAN,Lion's Coach,Café
+1555,1456,6124 SGL,Moto,Suzuki,GSX-R600,Azul
+1556,1457,8629 JJB,Bus,MAN,MAN SL202,Naranja
+1557,1458,0273 RGG,Moto,KTM,890 Duke R,Blanco
+1558,1459,CC 2722 GV,Auto,Toyota,Fortuner,Naranja
+1559,1460,SO 6762 DI,Moto,KTM,890 Duke R,Azul
+1560,1461,0369 CBM,Auto,Toyota,C-HR,Negro
+1561,1462,7342 TWL,Auto,Renault,Stepway,Rojo
+1562,1463,9827 KXV,Auto,Toyota,Fortuner,Plateado
+1563,1464,5330 PSF,Bus,Scania,Irizar i8,Rojo
+1564,1465,0509 BYW,Moto,Benelli,Leoncino 500,Azul
+1565,1466,PO 9732 PW,Auto,Kia,Picanto,Rojo
+1566,1467,7586 RBH,Auto,Renault,Fluence,Gris
+1567,1468,7575 XNZ,Moto,KTM,890 Duke R,Rojo
+1568,1469,8889 VDB,Moto,KTM,450 EXC-F,Gris
+1569,1470,0307 TPY,Bus,Volvo,7900 Electric,Verde
+1570,1471,OR 7682 IM,Bus,Scania,Scania F94,Plateado
+1571,1472,TO 8780 FP,Auto,Mazda,CX-30,Rojo
+1572,1473,GE 2669 MZ,Moto,Benelli,BN 125,Verde
+1573,1474,B 3613 NI,Moto,Yamaha,YS125,Naranja
+1574,1475,2378 VMZ,Moto,KTM,125 Duke,Blanco
+1575,1476,7455 YFF,Moto,Suzuki,Intruder 150,Verde
+1576,1477,NA 3392 XU,Moto,Honda,X-ADV,Café
+1577,1478,1563 ZHV,Moto,Yamaha,FZ25,Azul
+1578,1479,BI 1585 MB,Moto,Benelli,Tornado 302,Blanco
+1579,1480,8495 CLJ,Moto,Yamaha,R15,Café
+1580,1481,O 0935 IG,Bus,Irizar,i2e,Blanco
+1581,1482,2098 TYP,Moto,Honda,Rebel 500,Plateado
+1582,1483,CE 9289 WD,Auto,Chevrolet,Tracker,Café
+1583,1484,VA 7392 EN,Moto,Suzuki,VanVan 125,Café
+1584,1485,0437 XXS,Bus,Scania,Interlink,Blanco
+1585,1486,0284 VCJ,Moto,Honda,CBR500R,Rojo
+1586,1487,8450 DTW,Moto,Suzuki,Burgman 400,Naranja
+1587,1488,9718 NCV,Auto,Mazda,CX-9,Blanco
+1588,1489,7823 RPS,Auto,Kia,Niro,Amarillo
+1589,1490,9091 NMR,Auto,Chevrolet,Equinox,Verde
+1590,1491,3417 KZM,Auto,Chevrolet,Captiva,Amarillo
+1591,1492,AV 9281 KS,Moto,Suzuki,VanVan 125,Rojo
+1592,1493,4753 ZCL,Auto,Mazda,Mazda 2,Negro
+1593,1494,0345 XTX,Bus,MAN,Neoplan Skyliner,Blanco
+1594,1495,6734 DWJ,Moto,Suzuki,V-Strom 650,Blanco
+1595,1496,7247 WSW,Bus,MAN,MAN NL263,Verde
+1596,1497,HU 1902 PT,Moto,Suzuki,Intruder 150,Naranja
+1597,1498,4653 RGT,Bus,Irizar,PB,Plateado
+1598,1499,P 9820 MK,Auto,Mazda,CX-9,Negro
+1599,1500,5178 LNG,Bus,Irizar,i6 Integral,Café
+1600,1501,4826 XCT,Moto,Benelli,502C,Azul
+1601,1502,8610 KMN,Bus,Irizar,Century,Naranja
+1602,1503,GR 3003 BB,Auto,Chevrolet,Tahoe,Rojo
+1603,1504,2232 PYN,Auto,Kia,Telluride,Café
+1604,1505,8593 RWW,Bus,Scania,Serie K,Rojo
+1605,1506,SA 0555 TW,Moto,Honda,CB650R,Rojo
+1606,1507,AV 3206 PM,Auto,Kia,Rio,Blanco
+1607,1508,6504 TWN,Moto,Benelli,TNT 600,Rojo
+1608,1509,CR 5448 ML,Moto,Benelli,302S,Azul
+1609,1510,2942 LSB,Moto,Yamaha,Fazer 250,Rojo
+1610,1511,4205 SJB,Moto,KTM,250 Duke,Blanco
+1611,1512,2951 WGZ,Moto,Yamaha,NMAX155,Amarillo
+1612,1513,GR 2250 GI,Auto,Mazda,CX-5,Blanco
+1613,1514,5938 ZTC,Bus,Scania,Serie K,Negro
+1614,1515,SS 7539 KJ,Moto,Honda,CB500X,Amarillo
+1615,1516,PM 2032 CY,Auto,Toyota,Avanza,Negro
+1616,1517,6738 FZJ,Auto,Kia,Picanto,Negro
+1617,1518,CA 2188 ZT,Bus,Irizar,i8,Azul
+1618,1519,TF 2953 SD,Bus,Volvo,7900 Electric,Blanco
+1619,1520,CA 5451 VB,Moto,KTM,1290 Super Duke R,Blanco
+1620,1521,VI 3578 TV,Auto,Chevrolet,Traverse,Café
+1621,1522,4328 JMW,Auto,Kia,Seltos,Amarillo
+1622,1523,2596 PYH,Moto,KTM,RC 390,Verde
+1623,1524,5576 WPL,Auto,Chevrolet,Captiva,Plateado
+1624,1525,CS 4193 NF,Bus,Mercedes-Benz,OH1621,Verde
+1625,1526,NA 9026 LN,Auto,Mazda,Mazda 3,Verde
+1626,1527,PM 5610 PD,Auto,Chevrolet,Captiva,Amarillo
+1627,1528,3682 TWK,Moto,Honda,Africa Twin,Azul
+1628,1529,ML 3209 OP,Bus,Mercedes-Benz,OC500,Rojo
+1629,1530,T 3127 UU,Bus,Mercedes-Benz,Sprinter,Verde
+1630,1531,2277 ZKF,Moto,Suzuki,DR-Z400,Plateado
+1631,1532,4745 LGC,Moto,Benelli,Tornado 302,Café
+1632,1533,PM 0856 JX,Bus,Mercedes-Benz,O500,Blanco
+1633,1534,9007 LNB,Moto,Yamaha,Tracer 900,Gris
+1634,1535,3658 KDM,Auto,Chevrolet,Cruze,Amarillo
+1635,1536,AV 3972 HB,Auto,Mazda,BT-50,Rojo
+1636,1537,0369 KCH,Auto,Toyota,RAV4,Azul
+1637,1538,SG 5717 FS,Moto,Yamaha,Ténéré 700,Plateado
+1638,1539,0552 KVD,Auto,Renault,Talisman,Rojo
+1639,1540,TO 2651 SB,Bus,Volvo,B13R,Rojo
+1640,1541,0279 YHB,Moto,Benelli,Tornado 302,Plateado
+1641,1542,7732 WGC,Auto,Renault,Duster,Verde
+1642,1543,9535 MMZ,Bus,Irizar,i6S,Amarillo
+1643,1544,BA 5700 YY,Auto,Mazda,MX-5,Verde
+1644,1545,6293 TRG,Auto,Renault,Logan,Rojo
+1645,1546,3638 SRX,Moto,Suzuki,SV650,Amarillo
+1646,1547,8514 JBJ,Auto,Mazda,CX-5,Plateado
+1647,1548,SA 9472 MP,Bus,Mercedes-Benz,Tourismo,Blanco
+1648,1549,SE 7796 VW,Auto,Mazda,CX-3,Azul
+1649,1550,CO 3808 JG,Auto,Mazda,CX-3,Plateado
+1650,1551,OR 6736 HM,Bus,MAN,MAN NL263,Naranja
+1651,1552,8322 KVB,Auto,Renault,Megane,Negro
+1652,1553,SA 0143 HU,Bus,Scania,Touring,Negro
+1653,1554,6728 TNZ,Bus,Volvo,B9TL,Plateado
+1654,1555,AL 0092 UZ,Auto,Renault,Megane,Negro
+1655,1556,LE 0873 BF,Auto,Toyota,RAV4,Plateado
+1656,1557,SO 0121 CC,Auto,Mazda,RX-8,Café
+1657,1558,9919 ZWM,Auto,Kia,Telluride,Amarillo
+1658,1559,7744 MNR,Moto,Benelli,TRK 502,Verde
+1659,1560,NA 8728 MH,Auto,Toyota,RAV4,Negro
+1660,1561,VI 7049 SZ,Moto,Honda,PCX 125,Blanco
+1661,1562,6305 XWT,Auto,Mazda,BT-50,Negro
+1662,1563,8951 YXY,Bus,MAN,MAN A23,Blanco
+1663,1564,H 5183 HI,Bus,Mercedes-Benz,O500,Amarillo
+1664,1565,ML 2067 XL,Moto,Yamaha,XMAX 300,Rojo
+1665,1566,8544 ZWW,Moto,Yamaha,XMAX 300,Azul
+1666,1567,O 7912 OC,Auto,Kia,Niro,Plateado
+1667,1568,S 2811 WV,Bus,MAN,Neoplan Cityliner,Azul
+1668,1569,O 3851 ML,Auto,Chevrolet,Malibu,Blanco
+1669,1570,MU 7118 AW,Moto,Benelli,TRK 502,Gris
+1670,1571,AV 1085 LK,Auto,Toyota,Prius,Café
+1671,1572,ZA 8809 AI,Moto,Suzuki,Burgman 400,Café
+1672,1573,8707 WNW,Auto,Renault,Fluence,Blanco
+1673,1574,OU 3873 WS,Bus,Volvo,9900,Café
+1674,1575,6873 VRS,Moto,Suzuki,DR-Z400,Verde
+1675,1576,6386 BKK,Bus,MAN,MAN NL263,Blanco
+1676,1577,0169 PNY,Auto,Kia,Sportage,Amarillo
+1677,1578,7208 XGC,Moto,KTM,890 Duke R,Verde
+1678,1579,6968 CDD,Moto,KTM,125 Duke,Blanco
+1679,1580,P 1173 ZT,Moto,Yamaha,XMAX 300,Plateado
+1680,1581,2501 PRN,Auto,Mazda,BT-50,Rojo
+1681,1582,9149 SRT,Auto,Chevrolet,Onix,Verde
+1682,1583,OR 0173 OY,Auto,Mazda,BT-50,Rojo
+1683,1584,V 0141 WM,Moto,Honda,Africa Twin,Amarillo
+1684,1585,7589 WHS,Bus,Volvo,9900,Rojo
+1685,1586,5529 GFB,Moto,Yamaha,Tracer 900,Blanco
+1686,1587,9737 VDT,Auto,Toyota,Avanza,Plateado
+1687,1588,8430 YVV,Auto,Mazda,Mazda 3,Amarillo
+1688,1589,1067 VZD,Auto,Kia,Seltos,Café
+1689,1590,1936 FXJ,Auto,Kia,Sorento,Café
+1690,1591,4207 MLF,Moto,KTM,1290 Super Duke R,Naranja
+1691,1592,S 3147 CV,Moto,KTM,790 Adventure,Naranja
+1692,1593,C 4699 OP,Auto,Chevrolet,Captiva,Verde
+1693,1594,OU 4450 OV,Moto,Honda,CB650R,Amarillo
+1694,1595,GC 3477 CD,Auto,Renault,Fluence,Naranja
+1695,1596,7651 KXB,Moto,Suzuki,Burgman 400,Café
+1696,1597,PM 2996 MI,Auto,Kia,Telluride,Plateado
+1697,1598,2453 NWF,Auto,Toyota,Avanza,Café
+1698,1599,6237 SRG,Auto,Toyota,Land Cruiser,Rojo
+1699,1600,Z 3472 PS,Auto,Chevrolet,Captiva,Café
+1700,1601,4263 MGH,Bus,Mercedes-Benz,Conecto,Rojo
+1701,1602,9022 HPR,Auto,Toyota,Hilux,Verde
+1702,1603,4084 BFB,Moto,Yamaha,Ténéré 700,Blanco
+1703,1604,BI 2879 XC,Moto,Yamaha,FZ25,Blanco
+1704,1605,2675 SRT,Bus,Irizar,i2e,Naranja
+1705,1606,4683 LXX,Moto,Yamaha,FZ25,Naranja
+1706,1607,L 9886 ST,Moto,Suzuki,Intruder 150,Azul
+1707,1608,6957 RYG,Moto,Benelli,Imperiale 400,Café
+1708,1609,6694 VJZ,Auto,Chevrolet,Tracker,Azul
+1709,1610,CA 6312 ZD,Moto,Yamaha,Fazer 250,Naranja
+1710,1611,8874 SGL,Auto,Toyota,RAV4,Amarillo
+1711,1612,C 5349 HC,Bus,Mercedes-Benz,Sprinter,Blanco
+1712,1613,8608 GPD,Auto,Renault,Sandero,Gris
+1713,1614,CS 1013 BB,Moto,Suzuki,DR-Z400,Rojo
+1714,1615,3546 GCN,Auto,Kia,Optima,Azul
+1715,1616,CC 4684 EF,Auto,Chevrolet,Trailblazer,Gris
+1716,1617,L 6241 GP,Auto,Kia,Stinger,Café
+1717,1618,3212 DDZ,Bus,Volvo,9700,Verde
+1718,1619,CS 8424 MO,Bus,Volvo,7900 Hybrid,Verde
+1719,1620,8873 ZKG,Auto,Kia,Stinger,Negro
+1720,1621,6846 RJM,Moto,Suzuki,Burgman 400,Naranja
+1721,1622,SG 4419 YL,Auto,Mazda,Mazda 6,Gris
+1722,1623,CR 6268 ZA,Moto,Honda,CBR500R,Azul
+1723,1624,6794 TRG,Moto,Yamaha,MT-125,Azul
+1724,1625,5730 CXG,Bus,Irizar,i6,Blanco
+1725,1626,7781 HFY,Bus,Mercedes-Benz,OF1721,Blanco
+1726,1627,NA 0845 BW,Bus,Volvo,B12B,Rojo
+1727,1628,5800 FHC,Moto,Suzuki,Intruder 150,Plateado
+1728,1629,PM 1213 TT,Moto,Honda,Rebel 500,Naranja
+1729,1630,A 5789 VZ,Moto,Yamaha,Tracer 900,Azul
+1730,1631,A 2894 IE,Auto,Kia,Sportage,Negro
+1731,1632,AV 3001 GD,Moto,Honda,CB500X,Rojo
+1732,1633,2194 DKH,Moto,Benelli,302S,Amarillo
+1733,1634,C 1658 SB,Bus,Scania,Serie K,Amarillo
+1734,1635,M 9539 DS,Moto,Yamaha,R15,Verde
+1735,1636,V 4443 HE,Auto,Chevrolet,Onix,Azul
+1736,1637,H 1532 PT,Auto,Kia,Telluride,Negro
+1737,1638,4645 RCR,Auto,Chevrolet,Onix,Plateado
+1738,1639,TF 5548 ND,Moto,Honda,CRF250L,Negro
+1739,1640,CE 9364 YW,Bus,Scania,Touring,Gris
+1740,1641,3662 YMH,Moto,Suzuki,V-Strom 650,Gris
+1741,1642,T 5105 VG,Moto,Suzuki,DR-Z400,Rojo
+1742,1643,GU 1261 OM,Bus,Scania,Serie K,Rojo
+1743,1644,H 0814 BX,Bus,Mercedes-Benz,OF1721,Café
+1744,1645,AV 9638 SA,Auto,Chevrolet,Tahoe,Gris
+1745,1646,9019 MHT,Moto,Suzuki,VanVan 125,Amarillo
+1746,1647,M 1565 PP,Auto,Toyota,Fortuner,Azul
+1747,1648,5117 YMP,Moto,Honda,Africa Twin,Plateado
+1748,1649,5392 RPL,Bus,Scania,Metrolink,Plateado
+1749,1650,GI 3325 VA,Auto,Mazda,Mazda 2,Blanco
+1750,1651,TO 2713 AZ,Moto,Honda,Africa Twin,Blanco
+1751,1652,0338 YBJ,Moto,KTM,RC 390,Plateado
+1752,1653,8502 JFJ,Bus,Irizar,i6 Integral,Rojo
+1753,1654,IB 4406 KX,Auto,Mazda,CX-5,Azul
+1754,1655,1077 XCG,Moto,KTM,250 Duke,Blanco
+1755,1656,LE 0763 MT,Auto,Chevrolet,Tahoe,Café
+1756,1657,AL 9845 LZ,Moto,Benelli,Imperiale 400,Azul
+1757,1658,J 5450 SF,Bus,Irizar,i6S,Rojo
+1758,1659,VI 8210 XS,Auto,Renault,Talisman,Amarillo
+1759,1660,BA 7694 XU,Auto,Kia,Optima,Negro
+1760,1661,4978 LXN,Bus,MAN,MAN A39,Plateado
+1761,1662,3412 RGG,Auto,Kia,Seltos,Amarillo
+1762,1663,PM 4589 OF,Auto,Renault,Stepway,Café
+1763,1664,1581 NJL,Auto,Mazda,MX-5,Café
+1764,1665,O 4275 JW,Bus,Scania,Serie K,Verde
+1765,1666,5779 VHK,Moto,Benelli,Imperiale 400,Azul
+1766,1667,6244 NPP,Moto,Honda,CRF250L,Blanco
+1767,1668,3889 HCS,Bus,Scania,Serie K,Rojo
+1768,1669,3216 XYW,Moto,Yamaha,NMAX155,Gris
+1769,1670,1993 LLG,Moto,Honda,CBR650R,Rojo
+1770,1671,2359 HZS,Moto,Yamaha,Tracer 900,Plateado
+1771,1672,ZA 1372 ID,Bus,Scania,Citywide,Amarillo
+1772,1673,5996 XHZ,Bus,Irizar,i2e,Blanco
+1773,1674,J 6675 AB,Moto,Yamaha,YS125,Negro
+1774,1675,6463 PNY,Bus,Irizar,i8,Verde
+1775,1676,VI 9264 GU,Moto,KTM,450 EXC-F,Café
+1776,1677,AB 8697 SJ,Moto,Suzuki,Intruder 150,Plateado
+1777,1678,Z 7840 TV,Auto,Renault,Stepway,Rojo
+1778,1679,B 5035 DY,Bus,Volvo,9900,Plateado
+1779,1680,CU 6921 CN,Bus,Irizar,i2e,Rojo
+1780,1681,3617 RYH,Auto,Toyota,Fortuner,Negro
+1781,1682,9701 VWF,Auto,Toyota,C-HR,Azul
+1782,1683,3913 VRP,Auto,Chevrolet,Tracker,Plateado
+1783,1684,GU 4573 NH,Moto,Yamaha,Tracer 900,Gris
+1784,1685,A 8960 ZA,Auto,Chevrolet,Traverse,Café
+1785,1686,0298 RGZ,Bus,Volvo,B9TL,Negro
+1786,1687,6835 KCL,Bus,Irizar,i8,Naranja
+1787,1688,1565 BXC,Auto,Mazda,Mazda 2,Plateado
+1788,1689,LE 0002 FP,Bus,Scania,Irizar i6,Gris
+1789,1690,CE 0203 NN,Auto,Toyota,Corolla,Blanco
+1790,1691,ML 0153 SZ,Auto,Toyota,C-HR,Rojo
+1791,1692,5999 ZMZ,Moto,Suzuki,SV650,Naranja
+1792,1693,CC 6757 UN,Bus,Mercedes-Benz,Sprinter,Blanco
+1793,1694,3940 SLV,Bus,Scania,Scania F94,Negro
+1794,1695,PM 0575 JJ,Moto,KTM,390 Adventure,Amarillo
+1795,1696,BA 3907 UK,Bus,Scania,Interlink,Plateado
+1796,1697,8352 HRN,Auto,Mazda,Mazda 2,Plateado
+1797,1698,9553 GFV,Moto,Suzuki,GSX-S750,Rojo
+1798,1699,0574 GZZ,Moto,Honda,CRF250L,Azul
+1799,1700,6523 NJT,Bus,Scania,Touring,Blanco
+1800,1701,L 2748 SG,Bus,Mercedes-Benz,Travego,Café
+1801,1702,ML 9618 ZL,Auto,Renault,Kwid,Gris
+1802,1703,PO 1464 JL,Auto,Chevrolet,Spark,Plateado
+1803,1704,LE 7383 TV,Auto,Toyota,C-HR,Gris
+1804,1705,9636 JMM,Bus,MAN,Lion's City,Naranja
+1805,1706,7379 XCP,Moto,Suzuki,GSX-S750,Rojo
+1806,1707,6381 VWV,Moto,KTM,690 Enduro R,Azul
+1807,1708,PO 0611 PN,Bus,Scania,Scania L94,Café
+1808,1709,5740 TVH,Bus,Scania,Interlink,Gris
+1809,1710,4861 KRD,Bus,Scania,OmniLink,Café
+1810,1711,4946 HZS,Auto,Toyota,Corolla,Naranja
+1811,1712,MA 3406 PI,Moto,Honda,Rebel 500,Naranja
+1812,1713,1002 WCY,Auto,Kia,Stinger,Amarillo
+1813,1714,AB 2203 BF,Moto,Yamaha,Ténéré 700,Café
+1814,1715,6383 XKC,Bus,Mercedes-Benz,O500,Plateado
+1815,1716,6427 XXD,Moto,Honda,X-ADV,Verde
+1816,1717,7476 XLW,Bus,Mercedes-Benz,OC500,Naranja
+1817,1718,9921 ZKZ,Bus,Volvo,9700,Gris
+1818,1719,SE 9324 JL,Bus,Volvo,7900 Hybrid,Negro
+1819,1720,NA 1529 UC,Bus,Mercedes-Benz,Citaro,Naranja
+1820,1721,OU 4274 VA,Moto,Yamaha,YS125,Gris
+1821,1722,VI 9957 LI,Moto,KTM,450 EXC-F,Naranja
+1822,1723,SS 7879 SA,Moto,Benelli,TRK 251,Rojo
+1823,1724,5830 XNS,Moto,Benelli,Tornado 302,Verde
+1824,1725,S 0322 DF,Moto,Benelli,TRK 502,Rojo
+1825,1726,3802 YJG,Auto,Toyota,Land Cruiser,Rojo
+1826,1727,CR 7576 GS,Bus,Scania,Interlink,Café
+1827,1728,AB 1917 GN,Auto,Chevrolet,Captiva,Azul
+1828,1729,0843 CVN,Auto,Chevrolet,Onix,Negro
+1829,1730,S 4488 MD,Bus,MAN,MAN A21,Rojo
+1830,1731,BU 9606 UC,Moto,Benelli,302S,Gris
+1831,1732,8091 PXD,Auto,Renault,Kwid,Rojo
+1832,1733,5514 PTF,Auto,Chevrolet,Tahoe,Café
+1833,1734,2143 BVG,Bus,Mercedes-Benz,Intouro,Negro
+1834,1735,6038 HXV,Bus,Volvo,B8R,Rojo
+1835,1736,6517 KTX,Moto,Yamaha,YS125,Plateado
+1836,1737,3673 JCH,Auto,Chevrolet,Tracker,Azul
+1837,1738,5380 BPZ,Auto,Renault,Fluence,Blanco
+1838,1739,TF 3883 XA,Bus,Volvo,B13R,Verde
+1839,1740,BA 5789 BY,Bus,Volvo,7900 Electric,Blanco
+1840,1741,8456 NGF,Moto,Honda,CB500X,Verde
+1841,1742,GE 4220 VM,Bus,MAN,Lion's Coach,Rojo
+1842,1743,6969 YJD,Auto,Mazda,BT-50,Azul
+1843,1744,SG 9606 FP,Auto,Renault,Megane,Naranja
+1844,1745,BA 7348 OY,Auto,Mazda,MX-5,Verde
+1845,1746,8041 GRF,Auto,Toyota,Land Cruiser,Plateado
+1846,1747,1138 FMR,Auto,Chevrolet,Captiva,Negro
+1847,1748,6710 BBS,Moto,Benelli,TRK 251,Rojo
+1848,1749,2533 BZC,Bus,Scania,Interlink,Negro
+1849,1750,6852 XTS,Moto,KTM,890 Duke R,Rojo
+1850,1751,CE 5492 WT,Moto,KTM,1290 Super Duke R,Azul
+1851,1752,3953 MST,Moto,Yamaha,Fazer 250,Gris
+1852,1753,BI 9507 JO,Moto,Benelli,TNT 600,Verde
+1853,1754,5175 LRT,Moto,Suzuki,DR-Z400,Naranja
+1854,1755,8102 LXS,Bus,Volvo,7900 Electric,Café
+1855,1756,9334 RCP,Moto,Honda,X-ADV,Blanco
+1856,1757,2865 LRV,Auto,Mazda,Mazda 2,Amarillo
+1857,1758,CS 4770 BP,Bus,Volvo,B13R,Rojo
+1858,1759,GU 3265 ZF,Bus,Irizar,i8,Verde
+1859,1760,8323 SCG,Auto,Toyota,Yaris,Azul
+1860,1761,CC 3972 FF,Auto,Chevrolet,Cruze,Negro
+1861,1762,0613 TSV,Auto,Kia,Stinger,Plateado
+1862,1763,4521 DWG,Moto,Suzuki,VanVan 125,Rojo
+1863,1764,5803 JZJ,Moto,Yamaha,Fazer 250,Café
+1864,1765,2722 MKP,Moto,Suzuki,SV650,Café
+1865,1766,TF 4782 NI,Auto,Mazda,CX-3,Plateado
+1866,1767,1543 SFT,Bus,Mercedes-Benz,Intouro,Azul
+1867,1768,H 3291 ZA,Moto,Honda,CB650R,Café
+1868,1769,6594 DPM,Auto,Kia,Picanto,Amarillo
+1869,1770,GE 7645 EJ,Bus,Volvo,B12B,Azul
+1870,1771,6906 MGS,Auto,Renault,Logan,Naranja
+1871,1772,J 0208 IO,Auto,Renault,Fluence,Verde
+1872,1773,8323 BLN,Bus,Volvo,B12B,Plateado
+1873,1774,GI 9532 JW,Moto,Suzuki,DR-Z400,Rojo
+1874,1775,CE 3949 YY,Moto,Suzuki,GSX-R600,Verde
+1875,1776,5602 JZP,Moto,Suzuki,GSX-R600,Negro
+1876,1777,5258 NSP,Bus,Irizar,PB,Café
+1877,1778,TE 6938 HE,Moto,Suzuki,SV650,Rojo
+1878,1779,0999 XLX,Moto,KTM,250 Duke,Blanco
+1879,1780,GC 0880 HI,Auto,Toyota,Hilux,Naranja
+1880,1781,H 2218 MC,Moto,KTM,390 Adventure,Verde
+1881,1782,LU 8740 LF,Moto,Yamaha,R15,Blanco
+1882,1783,5492 WNS,Moto,Honda,PCX 125,Azul
+1883,1784,1160 NKC,Moto,Yamaha,YS125,Café
+1884,1785,CR 2363 KC,Bus,Mercedes-Benz,Intouro,Amarillo
+1885,1786,BI 6611 BX,Bus,Volvo,7900 Hybrid,Azul
+1886,1787,AV 1352 DH,Moto,Yamaha,Ténéré 700,Plateado
+1887,1788,1406 SFH,Auto,Chevrolet,Onix,Blanco
+1888,1789,9260 WKX,Auto,Renault,Logan,Verde
+1889,1790,4020 FSZ,Moto,Honda,CRF250L,Verde
+1890,1791,6148 CKP,Moto,Benelli,TRK 502,Plateado
+1891,1792,GU 7016 AP,Bus,Volvo,7900 Hybrid,Amarillo
+1892,1793,AV 2100 CN,Bus,MAN,MAN NL263,Plateado
+1893,1794,1529 MVG,Moto,Yamaha,YS125,Gris
+1894,1795,3079 MYP,Moto,Honda,X-ADV,Verde
+1895,1796,HU 1766 GO,Auto,Renault,Captur,Blanco
+1896,1797,9983 GTH,Auto,Kia,Optima,Plateado
+1897,1798,6775 FYB,Bus,Mercedes-Benz,Travego,Negro
+1898,1799,9948 MCT,Bus,Volvo,B12B,Blanco
+1899,1800,OR 2594 WE,Auto,Renault,Duster,Naranja
+1900,1801,AV 6183 MP,Bus,Scania,Irizar i6,Azul
+1901,1802,9720 DDL,Bus,Volvo,B8R,Café
+1902,1803,B 7533 LY,Bus,Scania,Scania F94,Verde
+1903,1804,6360 JNK,Bus,Volvo,B13R,Rojo
+1904,1805,1764 FZH,Moto,KTM,890 Duke R,Café
+1905,1806,3954 GXV,Moto,Yamaha,NMAX155,Rojo
+1906,1807,8534 JMC,Moto,Honda,CBR650R,Plateado
+1907,1808,2926 DZK,Moto,Suzuki,VanVan 125,Verde
+1908,1809,6785 RKR,Auto,Mazda,RX-8,Negro
+1909,1810,GU 1512 XL,Bus,Mercedes-Benz,OC500,Azul
+1910,1811,9602 DSD,Bus,Mercedes-Benz,O500,Café
+1911,1812,M 3982 TT,Bus,MAN,Neoplan Cityliner,Negro
+1912,1813,PO 0449 WK,Moto,KTM,790 Adventure,Gris
+1913,1814,6273 NPP,Auto,Mazda,CX-30,Negro
+1914,1815,1323 NHD,Bus,Scania,Scania F94,Verde
+1915,1816,SA 9782 HV,Bus,MAN,MAN A23,Gris
+1916,1817,9860 KPC,Bus,Mercedes-Benz,Citaro,Verde
+1917,1818,2032 DMM,Moto,Suzuki,V-Strom 650,Naranja
+1918,1819,CU 2294 IJ,Bus,Mercedes-Benz,Travego,Rojo
+1919,1820,7369 HHV,Bus,Volvo,B7RLE,Rojo
+1920,1821,4475 LWF,Auto,Chevrolet,Tracker,Azul
+1921,1822,VA 3316 IG,Bus,Mercedes-Benz,O500,Verde
+1922,1823,0321 YHG,Bus,Volvo,9700,Rojo
+1923,1824,ML 8253 YT,Bus,MAN,MAN NL263,Blanco
+1924,1825,T 8708 LS,Auto,Renault,Koleos,Plateado
+1925,1826,4579 BRM,Moto,Benelli,502C,Amarillo
+1926,1827,Z 6115 DG,Bus,Irizar,i4,Plateado
+1927,1828,AV 8990 CF,Auto,Kia,Cerato,Blanco
+1928,1829,9792 SNK,Auto,Toyota,Corolla,Negro
+1929,1830,GC 7188 VP,Bus,MAN,MAN A21,Naranja
+1930,1831,PM 6243 TZ,Auto,Renault,Koleos,Plateado
+1931,1832,CO 0165 JB,Moto,Yamaha,XSR700,Gris
+1932,1833,AB 0081 KN,Moto,Honda,CBR500R,Verde
+1933,1834,1231 SZR,Auto,Chevrolet,Cruze,Rojo
+1934,1835,CO 7957 PN,Moto,Honda,CBR500R,Amarillo
+1935,1836,0875 PLP,Bus,MAN,MAN A21,Negro
+1936,1837,SS 1644 NW,Moto,Honda,CB125F,Café
+1937,1838,CO 4928 EY,Bus,MAN,MAN A21,Azul
+1938,1839,2750 DGG,Moto,Suzuki,Burgman 400,Amarillo
+1939,1840,GU 3589 CJ,Auto,Renault,Duster,Rojo
+1940,1841,1218 SZZ,Auto,Toyota,Hilux,Café
+1941,1842,1962 PYL,Auto,Renault,Sandero,Naranja
+1942,1843,H 0021 TI,Moto,Suzuki,Burgman 400,Negro
+1943,1844,ML 1445 OS,Auto,Kia,Stinger,Amarillo
+1944,1845,ML 9304 YF,Auto,Mazda,Mazda 6,Azul
+1945,1846,5625 RHM,Bus,Scania,Irizar i8,Azul
+1946,1847,0250 MCB,Moto,Honda,X-ADV,Rojo
+1947,1848,6351 WBJ,Bus,Scania,Scania L94,Naranja
+1948,1849,AV 5911 AO,Auto,Chevrolet,Tahoe,Negro
+1949,1850,3618 PFT,Moto,Benelli,502C,Gris
+1950,1851,GC 8660 ZD,Moto,KTM,390 Adventure,Naranja
+1951,1852,7756 VHY,Bus,Volvo,B13R,Negro
+1952,1853,0203 HVF,Moto,KTM,125 Duke,Amarillo
+1953,1854,8269 YCX,Bus,MAN,Lion's Coach,Negro
+1954,1855,7860 NYB,Bus,Irizar,i8,Amarillo
+1955,1856,CA 8419 IV,Auto,Toyota,Avanza,Plateado
+1956,1857,ML 9558 TZ,Moto,Benelli,TRK 251,Verde
+1957,1858,J 4781 AX,Auto,Mazda,RX-8,Azul
+1958,1859,1639 PKC,Bus,Volvo,B13R,Verde
+1959,1860,AV 2229 XX,Auto,Chevrolet,Tracker,Plateado
+1960,1861,6874 FXB,Auto,Kia,Telluride,Rojo
+1961,1862,NA 7328 IV,Moto,Honda,Rebel 500,Rojo
+1962,1863,GE 0412 MX,Bus,Scania,Irizar i6,Rojo
+1963,1864,3165 KGY,Auto,Renault,Stepway,Café
+1964,1865,6401 TLF,Moto,Benelli,Tornado 302,Negro
+1965,1866,SG 1232 DL,Moto,KTM,RC 200,Rojo
+1966,1867,0232 DGN,Bus,MAN,TGE,Gris
+1967,1868,9053 THX,Auto,Mazda,CX-9,Azul
+1968,1869,1427 JGP,Bus,MAN,MAN NL263,Plateado
+1969,1870,7456 WHT,Bus,MAN,MAN A39,Blanco
+1970,1871,7396 GDG,Auto,Chevrolet,Trailblazer,Café
+1971,1872,8563 LTV,Moto,Yamaha,XMAX 300,Plateado
+1972,1873,7521 GKB,Moto,Yamaha,XMAX 300,Blanco
+1973,1874,GC 4302 OD,Moto,Yamaha,MT-125,Plateado
+1974,1875,O 0441 MG,Moto,KTM,250 Duke,Blanco
+1975,1876,1236 KKM,Auto,Renault,Fluence,Rojo
+1976,1877,5869 ZDM,Moto,Honda,CBR500R,Plateado
+1977,1878,VA 9005 SH,Bus,MAN,Neoplan Skyliner,Gris
+1978,1879,BI 2077 GB,Bus,Irizar,i3,Azul
+1979,1880,BI 2101 SP,Auto,Toyota,RAV4,Azul
+1980,1881,8848 YSX,Moto,KTM,RC 390,Negro
+1981,1882,LE 6045 XC,Auto,Chevrolet,Tahoe,Amarillo
+1982,1883,S 5865 AX,Auto,Renault,Stepway,Gris
+1983,1884,LU 6781 ZH,Moto,Benelli,BN 125,Gris
+1984,1885,A 5054 UB,Bus,Irizar,i6 Integral,Negro
+1985,1886,HU 9120 HW,Bus,Volvo,7900 Electric,Amarillo
+1986,1887,0921 VJZ,Auto,Renault,Fluence,Amarillo
+1987,1888,1852 VPP,Moto,Benelli,TNT 600,Plateado
+1988,1889,1974 BBL,Moto,Benelli,302S,Gris
+1989,1890,SS 8473 KF,Auto,Kia,Seltos,Negro
+1990,1891,2503 NJZ,Auto,Chevrolet,Captiva,Amarillo
+1991,1892,CS 3313 TV,Moto,Honda,X-ADV,Amarillo
+1992,1893,J 2098 JA,Moto,Yamaha,Ténéré 700,Rojo
+1993,1894,1050 CZP,Bus,Volvo,9900,Rojo
+1994,1895,M 1145 ID,Auto,Mazda,Mazda 2,Negro
+1995,1896,5214 TTB,Moto,Benelli,Imperiale 400,Verde
+1996,1897,GC 5037 NW,Moto,Honda,Africa Twin,Café
+1997,1898,AL 6263 TK,Moto,Honda,CB500X,Verde
+1998,1899,M 3839 JU,Moto,Yamaha,YS125,Amarillo
+1999,1900,5380 BNF,Bus,MAN,MAN A39,Rojo
+2000,1901,7572 TZG,Auto,Renault,Talisman,Naranja
+2001,1902,1240 NJB,Moto,Yamaha,NMAX155,Gris
+2002,1903,9560 WBP,Bus,Irizar,PB,Azul
+2003,1904,8834 VSS,Auto,Chevrolet,Tracker,Amarillo
+2004,1905,VA 0833 MW,Bus,MAN,MAN A23,Rojo
+2005,1906,CU 0039 WY,Auto,Toyota,RAV4,Negro
+2006,1907,7132 GLF,Bus,Irizar,i6,Amarillo
+2007,1908,CA 2036 KE,Bus,Mercedes-Benz,OH1621,Blanco
+2008,1909,2348 SBX,Bus,Mercedes-Benz,Citaro,Gris
+2009,1910,AB 5818 JP,Bus,Volvo,B11R,Negro
+2010,1911,AL 5799 WW,Moto,Yamaha,MT-125,Plateado
+2011,1912,PM 2231 UO,Bus,Scania,Serie K,Amarillo
+2012,1913,7826 ZMT,Auto,Renault,Kwid,Amarillo
+2013,1914,A 4330 KL,Auto,Toyota,Corolla,Verde
+2014,1915,TF 0685 LO,Bus,Irizar,i3,Gris
+2015,1916,9275 TGJ,Moto,Benelli,TNT 135,Naranja
+2016,1917,B 5900 GI,Bus,Scania,Citywide,Naranja
+2017,1918,SA 5145 FE,Moto,Honda,CB650R,Blanco
+2018,1919,BI 5263 KV,Bus,Irizar,i3,Amarillo
+2019,1920,7780 RGV,Auto,Mazda,Mazda 6,Verde
+2020,1921,AL 1356 HH,Bus,MAN,TGE,Amarillo
+2021,1922,0948 RBX,Bus,MAN,MAN A23,Azul
+2022,1923,6308 XRM,Bus,Mercedes-Benz,Conecto,Verde
+2023,1924,8723 BHD,Bus,Volvo,7900 Hybrid,Naranja
+2024,1925,GC 8241 AU,Auto,Toyota,C-HR,Negro
+2025,1926,2095 HGL,Moto,Suzuki,DR-Z400,Rojo
+2026,1927,VA 9996 UY,Bus,Irizar,i6S Efficient,Naranja
+2027,1928,CO 1185 DI,Bus,Mercedes-Benz,OF1721,Plateado
+2028,1929,9991 MKL,Moto,Suzuki,V-Strom 650,Verde
+2029,1930,6100 FBS,Bus,MAN,MAN A39,Verde
+2030,1931,LO 9458 XJ,Moto,Benelli,Imperiale 400,Plateado
+2031,1932,J 5521 NN,Auto,Renault,Kwid,Naranja
+2032,1933,NA 4406 DP,Moto,Honda,X-ADV,Café
+2033,1934,4085 FZV,Bus,MAN,Lion's Coach,Gris
+2034,1935,4079 CLG,Moto,KTM,125 Duke,Negro
+2035,1936,0012 VHX,Moto,KTM,690 Enduro R,Plateado
+2036,1937,CA 1653 AA,Bus,Scania,Serie K,Rojo
+2037,1938,TO 1047 JK,Bus,MAN,MAN A21,Negro
+2038,1939,TF 9977 CV,Auto,Mazda,CX-30,Plateado
+2039,1940,TE 7659 SU,Auto,Mazda,CX-3,Amarillo
+2040,1941,AB 8797 TO,Moto,Suzuki,Burgman 400,Gris
+2041,1942,4137 VBZ,Moto,KTM,890 Duke R,Naranja
+2042,1943,7116 LRP,Bus,Mercedes-Benz,Travego,Azul
+2043,1944,5822 BJD,Bus,Mercedes-Benz,OC500,Naranja
+2044,1945,7114 LVY,Bus,Irizar,i4,Gris
+2045,1946,5889 ZYS,Auto,Renault,Captur,Rojo
+2046,1947,TO 2423 GV,Auto,Mazda,CX-30,Blanco
+2047,1948,8313 RSG,Auto,Chevrolet,Tracker,Naranja
+2048,1949,VI 7038 AB,Bus,Scania,Irizar i6,Rojo
+2049,1950,8252 KZJ,Auto,Mazda,MX-5,Rojo
+2050,1951,LO 1448 UI,Moto,Benelli,Leoncino 500,Amarillo
+2051,1952,V 4399 FV,Bus,Irizar,i6,Naranja
+2052,1953,2288 PHP,Auto,Kia,Telluride,Azul
+2053,1954,CU 6447 GD,Bus,Irizar,i3,Plateado
+2054,1955,5801 XWG,Moto,Honda,CBR650R,Rojo
+2055,1956,1936 BHX,Moto,Yamaha,R15,Azul
+2056,1957,8978 DCL,Bus,Mercedes-Benz,OF1721,Rojo
+2057,1958,1142 BNK,Auto,Renault,Captur,Plateado
+2058,1959,CS 9087 SP,Bus,MAN,MAN A23,Azul
+2059,1960,CS 1303 ZA,Bus,MAN,MAN NL263,Café
+2060,1961,CR 1489 CZ,Moto,Benelli,502C,Verde
+2061,1962,0783 ZJX,Auto,Mazda,Mazda 6,Naranja
+2062,1963,TE 1566 EC,Auto,Mazda,CX-5,Amarillo
+2063,1964,2227 DDY,Bus,Volvo,B11R,Naranja
+2064,1965,8704 TVK,Moto,Honda,CBR500R,Negro
+2065,1966,5188 VHF,Moto,Suzuki,SV650,Azul
+2066,1967,CC 8720 UV,Auto,Kia,Sportage,Amarillo
+2067,1968,7304 TRL,Bus,Mercedes-Benz,Sprinter,Blanco
+2068,1969,3781 CGZ,Auto,Mazda,CX-5,Plateado
+2069,1970,MA 8527 EN,Auto,Toyota,Prius,Negro
+2070,1971,GC 7637 IL,Moto,Benelli,502C,Rojo
+2071,1972,9171 HRW,Bus,Volvo,B12B,Rojo
+2072,1973,4891 BSD,Moto,KTM,790 Adventure,Café
+2073,1974,8210 TXJ,Auto,Toyota,Hilux,Blanco
+2074,1975,2069 SSN,Auto,Toyota,Land Cruiser,Negro
+2075,1976,SO 2383 AE,Bus,Scania,Serie K,Café
+2076,1977,3230 TFR,Auto,Kia,Cerato,Verde
+2077,1978,3878 XLH,Auto,Chevrolet,Malibu,Café
+2078,1979,8304 BTR,Bus,Mercedes-Benz,OC500,Azul
+2079,1980,V 9641 CN,Auto,Mazda,BT-50,Café
+2080,1981,B 4259 XN,Moto,Yamaha,MT-125,Naranja
+2081,1982,5851 DTH,Moto,KTM,890 Duke R,Rojo
+2082,1983,9865 DRY,Bus,Mercedes-Benz,Intouro,Amarillo
+2083,1984,CU 4320 KH,Auto,Mazda,RX-8,Plateado
+2084,1985,8241 GKY,Auto,Renault,Captur,Verde
+2085,1986,4090 DXK,Bus,Volvo,9900,Rojo
+2086,1987,1687 PWY,Moto,Honda,CB500X,Blanco
+2087,1988,8447 MSG,Auto,Mazda,CX-5,Negro
+2088,1989,ML 6499 YB,Auto,Renault,Sandero,Rojo
+2089,1990,0436 XTL,Moto,Honda,X-ADV,Naranja
+2090,1991,2009 LRP,Bus,Irizar,i6S Efficient,Rojo
+2091,1992,4113 MLZ,Moto,Suzuki,Intruder 150,Café
+2092,1993,J 0273 HE,Auto,Renault,Captur,Café
+2093,1994,O 0343 BU,Auto,Renault,Duster,Negro
+2094,1995,2849 MHL,Auto,Kia,Cerato,Plateado
+2095,1996,B 4455 EV,Bus,Mercedes-Benz,OF1721,Negro
+2096,1997,ZA 6695 JY,Bus,Scania,Touring,Negro
+2097,1998,LU 8323 AU,Moto,Suzuki,Intruder 150,Gris
+2098,1999,NA 6442 OA,Bus,MAN,TGE,Blanco
+2099,2000,6554 SKM,Auto,Renault,Koleos,Blanco
+2100,2001,GR 6164 UG,Bus,Irizar,i6 Integral,Blanco
