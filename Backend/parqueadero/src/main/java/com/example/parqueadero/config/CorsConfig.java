@@ -16,7 +16,7 @@ public class CorsConfig {
                         .allowedOrigins("https://b2pi2-876585927226.us-central1.run.app", "http://localhost:3000", "http://localhost:5173", "http://localhost:5175", "exp://192.168.1.4:8081", "http://localhost:8081", "http://192.168.1.4:8081") // Origen permitido
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS") // Métodos HTTP permitidos
                         .allowedHeaders("*") // Todos los encabezados permitidos
-                        .allowCredentials(true); // Si necesitas enviar cookies o autenticación
+                        .allowCredentials(true); // Si necesitas enviar cookies o autenticación 
             }
         };
     }

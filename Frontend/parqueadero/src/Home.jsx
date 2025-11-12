@@ -3,7 +3,7 @@ import Contenido from './components/Contenido.jsx';
 import MenuLateral from './components/MenuLateral.jsx';
 import { Outlet } from 'react-router-dom';
 import ChatBotWidget from './components/ChatBotWidget';
-import Footer from './components/Footer';
+// import Footer from './components/Footer';
 
 const Home = () => {
   return (
@@ -56,10 +56,54 @@ const Home = () => {
 
           <Outlet /> {/* Aquí se renderizan las páginas hijas como Cuenta, ReservasEspacio, etc. */}
         </main>
+        <footer className="footer-home">
+          <div className="footer-home__container">
+            <div className="footer-home__about">
+              <h3>ACERCA DE PARQUEADERO SC</h3>
+              <img src="/Logo.jpg" alt="Logo ParqueaderoSC" className="footer-home__logo" />
+              <p>
+                En <strong>ParqueaderoSC</strong> trabajamos cada día para ofrecerte un servicio de parqueadero
+                rápido, seguro y confiable.
+              </p>
+              <p>
+                Nuestra misión es brindarte comodidad y tranquilidad con tecnología moderna para el control
+                de acceso, pagos y reservas.
+              </p>
+              <p>Con nosotros, tu vehículo siempre está en buenas manos 🚗✨</p>
+            </div>
+
+            <div className="footer-home__links">
+              <div>
+                <h3>NUESTROS SERVICIOS</h3>
+                <ul>
+                  <li>Reserva de espacios</li>
+                  <li>Pagos automáticos</li>
+                  <li>Control digital</li>
+                  <li>Tarifas por hora y día</li>
+                </ul>
+              </div>
+
+              <div>
+                <h3>INFORMACIÓN</h3>
+                <ul>
+                  <li>Términos y condiciones</li>
+                  <li>Política de privacidad</li>
+                  <li>Contáctanos</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div className="footer-home__bottom">
+            <p>
+              Calle 50 # 45-22 | Itagüí, Antioquia | Tel: (604) 555-1212 | contacto@parqueaderossc.com
+            </p>
+            <p>© 2025 ParqueaderoSC. Todos los derechos reservados.</p>
+          </div>
+        </footer>
       </div>
     </div>
     <ChatBotWidget /> 
-    <Footer />
   </>
   );
 };

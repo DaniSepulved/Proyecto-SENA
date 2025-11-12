@@ -1,4 +1,3 @@
-// src/main/java/com/example/parqueadero/config/SecurityConfig.java
 package com.example.parqueadero.config;
 
 import org.springframework.beans.factory.annotation.Autowired;

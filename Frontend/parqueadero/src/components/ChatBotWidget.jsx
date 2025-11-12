@@ -26,45 +26,48 @@ const ChatBotWidget = () => {
 
     return (
         <>
-        <div 
-        className="fixed bottom-0 right-0 m-5 w-20 h-20 bg-blue-600 rounded-full flex items-center justify-center cursor-pointer shadow-lg transition-transform hover:scale-110" 
-        onClick={() => setIsOpen(!isOpen)}>
+            <div 
+            className="fixed bottom-0 right-0 m-5 w-20 h-20 bg-blue-600 rounded-full flex items-center justify-center cursor-pointer shadow-lg transition-transform hover:scale-110 z-[9999]" 
+            onClick={() => setIsOpen(!isOpen)}
+            >
             <img src="/Bot.png" alt="Bot" className="w-16 h-16 rounded-full object-cover" />
-        </div>
-        
-        {isOpen && (
-            <div className="fixed bottom-20 right-5 w-80 h-96 bg-white shadow-2xl rounded-lg flex flex-col">
+            </div>
+            {isOpen && (
+            <div className="fixed bottom-20 right-5 w-80 h-96 bg-white shadow-2xl rounded-lg flex flex-col z-[9999]">
                 <div className="p-2 bg-blue-600 text-white font-bold rounded-t-lg">
-                    ChatBot Parqueadero
+                ChatBot Parqueadero
                 </div>
                 <div className="flex-1 p-2 overflow-y-auto">
-                    {messages.map((msg, i) =>(
-                        <div 
-                            key={i}
-                            className={`my-1 p-2 rounded-lg max-w-[80%] ${
-                                msg.sender === "user"
-                                    ? "bg-blue-100 self-end ml-auto"
-                                    : "bg-gray-200 self-start mr-auto"
-                                    }`}>
-                            {msg.text}
-                        </div>
-                    ))}
+                {messages.map((msg, i) =>(
+                    <div 
+                    key={i}
+                    className={`my-1 p-2 rounded-lg max-w-[80%] ${
+                        msg.sender === "user"
+                        ? "bg-blue-100 self-end ml-auto"
+                        : "bg-gray-200 self-start mr-auto"
+                    }`}
+                    >
+                    {msg.text}
+                    </div>
+                ))}
                 </div>
                 <div className="p-2 flex gap-2">
-                    <input
-                        className="flex-1 border p-2 rounded"
-                        value={input}
-                        onChange={(e) => setInput(e.target.value)}
-                        onKeyDown={(e) => e.key === "Enter" && sendMessage()}
-                        placeholder="Escribe un mensaje..."/>
-                    <button
-                        className="bg-blue-600 text-white px-3 rounded"
-                        onClick={sendMessage}>
-                            ➤
-                    </button>
+                <input
+                    className="flex-1 border p-2 rounded"
+                    value={input}
+                    onChange={(e) => setInput(e.target.value)}
+                    onKeyDown={(e) => e.key === "Enter" && sendMessage()}
+                    placeholder="Escribe un mensaje..."
+                />
+                <button
+                    className="bg-blue-600 text-white px-3 rounded"
+                    onClick={sendMessage}
+                >
+                    ➤
+                </button>
                 </div>
             </div>
-        )}
+            )}
         </>
     );
 };
