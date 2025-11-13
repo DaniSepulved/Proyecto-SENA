@@ -1,26 +1,29 @@
-# Imagen base con Java 21 (Spring Boot 3.4.5 usa Java 21)
+# Etapa 1: construir el proyecto
 FROM eclipse-temurin:21-jdk AS build
 
-# Directorio de trabajo
+# Instalar Maven
+RUN apt-get update && apt-get install -y maven
+
+# Crear el directorio de trabajo
 WORKDIR /app
 
-# Copiar archivos del proyecto
+# Copiar los archivos del proyecto
 COPY pom.xml .
 COPY src ./src
 
-# Compilar el proyecto
-RUN ./mvnw clean package -DskipTests || mvn clean package -DskipTests
+# Compilar la app (sin ejecutar tests)
+RUN mvn clean package -DskipTests
 
-# Imagen final
+# Etapa 2: crear imagen liviana para ejecutar el jar
 FROM eclipse-temurin:21-jdk
 
 WORKDIR /app
 
-# Copiar el jar desde la imagen anterior
+# Copiar el jar compilado desde la etapa anterior
 COPY --from=build /app/target/*.jar app.jar
 
-# Exponer el puerto
+# Exponer el puerto 8080
 EXPOSE 8080
 
-# Comando para ejecutar la app
+# Ejecutar la aplicación
 ENTRYPOINT ["java", "-jar", "app.jar"]
